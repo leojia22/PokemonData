@@ -30,33 +30,59 @@ pip install -r requirements.txt
 
 ## Running the Application
 
+### Option 1: Flask (Local Development)
+
 1. Make sure you're in the project directory:
 ```bash
 cd PokemonData
 ```
 
-2. Start the Flask application:
+2. Install Flask dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Start the Flask application:
 ```bash
 python app.py
 ```
 
-3. Open your web browser and navigate to:
+4. Open your web browser and navigate to:
 ```
 http://localhost:5001
 ```
 
-The application will run in debug mode by default.
+### Option 2: Streamlit (Cloud Hosting)
+
+1. Install Streamlit dependencies:
+```bash
+pip install -r requirements_streamlit.txt
+```
+
+2. Run the Streamlit app locally:
+```bash
+streamlit run streamlit_app.py
+```
+
+3. For cloud hosting on Streamlit Cloud:
+   - Push your code to GitHub
+   - Connect your repository to Streamlit Cloud
+   - Streamlit will automatically detect and run `streamlit_app.py`
+
+**Note**: Use the Streamlit version for cloud hosting on Streamlit Cloud, as Flask apps are not supported on the platform.
 
 ## Project Structure
 
 ```
 PokemonData/
 ├── app.py                      # Main Flask application
-├── requirements.txt             # Python dependencies
+├── streamlit_app.py           # Streamlit version for cloud hosting
+├── requirements.txt           # Flask dependencies
+├── requirements_streamlit.txt # Streamlit dependencies
 ├── pokemon_tournament_data.csv # Tournament data file
 ├── torontoregionals.txt       # Additional tournament data
 ├── templates/
-│   └── index.html             # Frontend HTML template
+│   └── index.html             # Frontend HTML template for Flask
 └── README.md                  # This file
 ```
 
