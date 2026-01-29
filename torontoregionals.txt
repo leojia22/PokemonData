@@ -1,0 +1,13607 @@
+#	Name		Points	Record	OPW%	OOPW%	Deck	List	
+1	
+Giovanny Sasso
+BR
+46	15 - 2 - 1	59.82%	57.49%	
+gardevoirjellicent
+
+2	
+andres estefano gajardo lopehandia
+CL
+43	14 - 3 - 1	67.55%	61.02%	
+raging-boltogerpon
+
+3	
+Cerys Jones
+US
+43	14 - 2 - 1	67.35%	62.13%	
+dragapultdusknoir
+
+4	
+Jack Wong
+CA
+41	13 - 2 - 2	65.69%	63.97%	
+dragapultdusknoir
+
+5	
+Brent Tonisson
+AU
+38	12 - 2 - 2	65.23%	61.98%	
+gardevoirjellicent
+
+6	
+Daniel Merlo
+US
+38	12 - 2 - 2	63.33%	60.49%	
+dragapultdusknoir
+
+7	
+Katy Montgomerie
+UK
+37	12 - 3 - 1	64.64%	62.37%	
+dragapultdusknoir
+
+8	
+Justin Templer
+US
+37	12 - 3 - 1	62.63%	59.03%	
+gholdengolunatone
+
+9	
+Jordan Nelle
+US
+34	11 - 3 - 1	65.63%	58.12%	
+grimmsnarlfroslass
+
+10	
+Anthony Geiger
+US
+34	11 - 3 - 1	61.39%	58.78%	
+dragapultdusknoir
+
+11	
+Henry Chao
+US
+34	11 - 3 - 1	60.16%	59.91%	
+gardevoir
+
+12	
+Luis Guerra
+US
+34	11 - 3 - 1	54.68%	55.57%	
+grimmsnarlfroslass
+
+Top Cut end
+13	
+Emma Hagen
+NO
+33	11 - 3 - 0	67.51%	61.20%	
+flareonnoctowl
+
+14	
+Benjamin Hebert
+CA
+33	11 - 3 - 0	65.56%	61.00%	
+gardevoir
+
+15	
+Jack Pitcher
+CA
+33	10 - 1 - 3	63.78%	60.09%	
+gardevoir
+
+16	
+Alex Mullen
+US
+33	10 - 1 - 3	63.14%	58.93%	
+gardevoir
+
+17	
+Frank Luciano
+US
+33	11 - 3 - 0	62.04%	59.11%	
+charizardnoctowl
+
+18	
+Liam Halliburton
+US
+33	10 - 1 - 3	61.03%	59.43%	
+zoroark
+
+19	
+Renaud LEVAIN
+FR
+33	10 - 1 - 3	58.33%	59.08%	
+charizardnoctowl
+
+20	
+Anthony Romanello
+US
+32	10 - 2 - 2	65.10%	62.48%	
+charizardnoctowl
+
+21	
+Sanjay Sundararajan
+US
+32	10 - 2 - 2	62.38%	60.25%	
+absol-megakangaskhan-mega
+
+22	
+Samuel Scime
+CA
+32	10 - 2 - 2	62.14%	59.30%	
+kangaskhan-megabouffalant
+
+23	
+Neo Erlandsson
+US
+32	10 - 2 - 2	60.37%	59.15%	
+gardevoir
+
+24	
+James Lu
+CA
+32	10 - 2 - 2	59.19%	59.01%	
+charizardnoctowl
+
+25	
+Hunter Hawkins
+US
+31	10 - 3 - 1	64.99%	59.89%	
+charizardnoctowl
+
+26	
+Makani Tran
+US
+31	10 - 3 - 1	64.73%	58.88%	
+gardevoir
+
+27	
+Calvin Connor
+US
+31	10 - 3 - 1	63.82%	57.46%	
+gardevoirjellicent
+
+28	
+Riley McKay
+CA
+31	10 - 3 - 1	63.20%	58.99%	
+gardevoir
+
+29	
+Daichi Shimada
+JP
+31	10 - 3 - 1	62.66%	61.08%	
+absol-megakangaskhan-mega
+
+30	
+Yoshiyuki Arai
+JP
+31	10 - 3 - 1	62.64%	58.43%	
+dragapultdusknoir
+
+31	
+Matt Chuang
+US
+31	10 - 3 - 1	62.63%	60.40%	
+dragapultdusknoir
+
+32	
+Cristiano Castaneda
+US
+31	9 - 1 - 4	62.22%	58.41%	
+gardevoir
+
+33	
+Anthony Rispoli
+US
+31	10 - 3 - 1	61.61%	56.04%	
+dragapultdusknoir
+
+34	
+Cali White
+CA
+31	10 - 3 - 1	61.14%	60.79%	
+dragapultdusknoir
+
+35	
+Jerry Sheng
+US
+31	10 - 3 - 1	60.97%	59.47%	
+dragapultdusknoir
+
+36	
+Julius Kerkis
+FI
+31	10 - 3 - 1	60.52%	57.36%	
+dragapultdusknoir
+
+37	
+Andrew Obtinalla
+CA
+31	9 - 1 - 4	60.06%	58.28%	
+dragapultcharizard
+
+38	
+Ansh Kansara
+CA
+31	10 - 3 - 1	59.78%	59.69%	
+dragapultdusknoir
+
+39	
+Raymond Long
+CA
+31	10 - 3 - 1	59.74%	61.44%	
+gardevoir
+
+40	
+Ian Robb
+US
+31	10 - 3 - 1	59.50%	59.26%	
+gardevoirjellicent
+
+41	
+Lucas Xing
+CA
+31	10 - 3 - 1	59.40%	59.39%	
+charizardpidgeot
+
+42	
+Carter Malnaik
+US
+31	10 - 3 - 1	59.36%	57.03%	
+zoroark
+
+43	
+Jesse Parker
+US
+31	10 - 3 - 1	58.29%	56.97%	
+iron-handsmagneton
+
+44	
+Robert Rupert
+US
+31	10 - 3 - 1	58.23%	56.75%	
+charizardnoctowl
+
+45	
+Arjun Khadse
+US
+31	10 - 3 - 1	58.21%	57.72%	
+gardevoir
+
+46	
+Michael Jelderian
+CA
+31	10 - 3 - 1	57.74%	55.50%	
+dragapultdusknoir
+
+47	
+Nicholas Uterano
+US
+31	10 - 3 - 1	56.36%	58.58%	
+dragapultdusknoir
+
+48	
+Jack Moore
+CA
+31	10 - 3 - 1	56.08%	62.35%	
+gardevoir
+
+49	
+Mike Pianka
+US
+31	10 - 3 - 1	55.31%	55.19%	
+charizardnoctowl
+
+50	
+Justin Newdorf
+US
+30	9 - 2 - 3	70.03%	60.05%	
+gardevoir
+
+51	
+Joeycosmo Lee
+CA
+30	10 - 4 - 0	67.65%	61.59%	
+charizardnoctowl
+
+52	
+Julian Gort-Barry
+CA
+30	9 - 2 - 3	66.45%	59.95%	
+absol-megakangaskhan-mega
+
+53	
+David Hendrickson
+US
+30	10 - 4 - 0	65.05%	60.80%	
+gardevoir
+
+54	
+Yerco Valencia
+CL
+30	9 - 2 - 3	64.91%	59.03%	
+raging-boltogerpon
+
+55	
+Ross Cawthon
+US
+30	10 - 4 - 0	63.29%	57.00%	
+ceruledge
+
+56	
+Bodhi Robinson
+US
+30	9 - 2 - 3	62.95%	58.12%	
+gardevoirjellicent
+
+57	
+Corey Blankenship
+US
+30	9 - 2 - 3	62.63%	56.96%	
+charizardpidgeot
+
+58	
+Arman Sam
+CA
+30	10 - 4 - 0	61.39%	60.13%	
+gholdengolunatone
+
+59	
+Dylan Kasturi
+US
+30	10 - 4 - 0	61.05%	60.17%	
+gholdengolunatone
+
+60	
+Josh Lu
+CA
+30	9 - 2 - 3	61.04%	58.11%	
+dragapultdusknoir
+
+61	
+Simon Trottier-Lacasse
+CA
+30	9 - 2 - 3	59.31%	56.98%	
+gholdengolunatone
+
+62	
+Lucas Oldale
+CA
+30	10 - 4 - 0	59.09%	58.14%	
+gholdengolunatone
+
+63	
+Alex Hamilton
+US
+30	9 - 2 - 3	57.42%	57.95%	
+dragapultdusknoir
+
+64	
+ZHUOYUAN LI
+CA
+30	9 - 2 - 3	55.95%	57.72%	
+gholdengolunatone
+
+65	
+Marco Cifuentes
+CL
+29	9 - 3 - 2	69.01%	61.89%	
+absol-megakangaskhan-mega
+
+66	
+Andrew Zheng
+US
+29	9 - 3 - 2	64.22%	60.88%	
+gardevoir
+
+67	
+Sebastián Iturra
+CL
+29	9 - 3 - 2	64.16%	60.20%	
+gardevoir
+
+68	
+Thomas Dewsbury
+US
+29	9 - 3 - 2	63.20%	58.78%	
+gholdengolunatone
+
+69	
+Saumit Kukkadapu
+US
+29	9 - 3 - 2	61.45%	58.35%	
+dragapultdusknoir
+
+70	
+Kenneth Xuan
+US
+29	9 - 3 - 2	60.51%	58.49%	
+pidgeot
+
+71	
+Rohit Potti
+US
+29	9 - 3 - 2	59.92%	57.18%	
+dragapultdusknoir
+
+72	
+Jack Saunders
+CA
+29	9 - 3 - 2	59.89%	55.15%	
+gholdengo
+
+73	
+Trevore Read
+CA
+29	9 - 3 - 2	59.36%	56.37%	
+gardevoirjellicent
+
+74	
+Heming Wang
+CA
+29	8 - 1 - 5	58.61%	60.06%	
+charizardpidgeot
+
+75	
+Mehdi Hafi
+FR
+29	9 - 3 - 2	58.04%	56.64%	
+crustle
+
+76	
+Rheal Chartier
+CA
+29	9 - 3 - 2	57.27%	55.13%	
+gholdengolunatone
+
+77	
+Nico Gist
+US
+29	9 - 3 - 2	57.08%	57.72%	
+charizardnoctowl
+
+78	
+Allan Xu
+CA
+29	9 - 3 - 2	56.85%	55.11%	
+gardevoir
+
+79	
+Parker Fleck
+CA
+29	9 - 3 - 2	56.81%	57.62%	
+gardevoir
+
+80	
+Ethan Wray
+US
+29	9 - 3 - 2	56.33%	56.76%	
+gholdengolunatone
+
+81	
+Joseph Nawal
+US
+29	9 - 3 - 2	55.72%	55.59%	
+charizardnoctowl
+
+82	
+Kieran McNair-Glover
+CA
+29	9 - 3 - 2	54.97%	55.31%	
+gardevoirjellicent
+
+83	
+Noah Sakadjian
+US
+28	8 - 2 - 4	66.39%	59.28%	
+absol-megakangaskhan-mega
+
+84	
+Rahul Reddy
+US
+28	9 - 4 - 1	66.07%	58.82%	
+noctowlogerpon-wellspring
+
+85	
+Jon Eng
+US
+28	8 - 2 - 4	64.33%	60.07%	
+gardevoir
+
+86	
+Andrew Hedrick
+US
+28	9 - 4 - 1	64.12%	61.40%	
+gholdengolunatone
+
+87	
+Carson Washer
+US
+28	9 - 4 - 1	63.93%	57.51%	
+dragapultdusknoir
+
+88	
+Joshua Frink
+US
+28	9 - 4 - 1	63.72%	58.25%	
+gholdengolunatone
+
+89	
+Simon Feng
+CA
+28	9 - 4 - 1	63.39%	57.12%	
+dragapultdusknoir
+
+90	
+Chris Brewer
+US
+28	9 - 4 - 1	63.33%	58.92%	
+gardevoir
+
+91	
+Anthony Guevara
+US
+28	8 - 2 - 4	62.78%	59.74%	
+charizardnoctowl
+
+92	
+Louis Kondraski
+CA
+28	8 - 2 - 4	62.63%	56.42%	
+charizardnoctowl
+
+93	
+Chris Franco
+US
+28	8 - 2 - 4	62.34%	57.16%	
+gardevoir
+
+94	
+Sascha Rogge
+CA
+28	8 - 2 - 4	62.31%	59.80%	
+zoroark
+
+95	
+Nicholas Germain
+US
+28	9 - 4 - 1	61.99%	60.11%	
+dragapultdusknoir
+
+96	
+Grant Manley
+US
+28	8 - 2 - 4	61.80%	55.53%	
+charizardpidgeot
+
+97	
+miloslav posledni
+CZ
+28	9 - 4 - 1	61.47%	58.83%	
+gholdengolunatone
+
+98	
+Josh Maline
+US
+28	9 - 4 - 1	61.16%	58.36%	
+gholdengolunatone
+
+99	
+Genessa Benton
+US
+28	9 - 4 - 1	61.01%	56.66%	
+gardevoir
+
+100	
+Azul Garcia Griego
+US
+28	8 - 2 - 4	60.85%	58.47%	
+charizardpidgeot
+
+101	
+William Hwang
+US
+28	9 - 4 - 1	60.22%	58.01%	
+dragapultcharizard
+
+102	
+Riley Hulbert
+US
+28	8 - 2 - 4	60.14%	56.54%	
+gardevoir
+
+103	
+Rajveer Singh
+US
+28	9 - 4 - 1	60.11%	58.21%	
+grimmsnarlfroslass
+
+104	
+Theeravich Trakulkajornsak
+CA
+28	9 - 4 - 1	60.01%	55.79%	
+gardevoir
+
+105	
+Kyle Best
+UK
+28	9 - 4 - 1	59.81%	58.51%	
+charizardpidgeot
+
+106	
+Evan Hoste
+CA
+28	9 - 4 - 1	59.38%	56.38%	
+gholdengojoltik
+
+107	
+Ethan Lin
+US
+28	9 - 4 - 1	58.86%	55.59%	
+dragapultdusknoir
+
+108	
+Jared Woitalla
+US
+28	9 - 4 - 1	58.65%	55.72%	
+gardevoir
+
+109	
+Fernando Cifuentes
+CL
+28	9 - 4 - 1	58.61%	56.99%	
+absol-megakangaskhan-mega
+
+110	
+Nathan Hargreaves
+UK
+28	9 - 4 - 1	58.38%	57.25%	
+flareonnoctowl
+
+111	
+Ellie Davis
+US
+28	8 - 2 - 4	58.27%	59.64%	
+grimmsnarlfroslass
+
+112	
+Clayton Brossett
+US
+28	8 - 2 - 4	58.15%	59.46%	
+grimmsnarlfroslass
+
+113	
+Elvin Tse
+CA
+28	9 - 4 - 1	58.13%	57.26%	
+joltikpikachu
+
+114	
+Jacob McCool
+US
+28	9 - 4 - 1	57.90%	55.00%	
+dragapultdusknoir
+
+115	
+Jayson Cha
+CA
+28	9 - 4 - 1	57.80%	54.44%	
+dragapultcharizard
+
+116	
+Scott Knell
+US
+28	9 - 4 - 1	57.63%	57.21%	
+froslassmunkidori
+
+117	
+Leo Hendrickx
+CA
+28	9 - 4 - 1	57.46%	59.06%	
+dragapultcharizard
+
+118	
+Mike Ellis
+UK
+28	9 - 4 - 1	57.46%	54.66%	
+charizardpidgeot
+
+119	
+Richard Tian
+CA
+28	8 - 2 - 4	56.89%	57.17%	
+dragapultcharizard
+
+120	
+Nicholas Cucinelli
+US
+28	9 - 4 - 1	56.68%	56.37%	
+kangaskhan-megabouffalant
+
+121	
+Zack Horn
+US
+28	9 - 4 - 1	56.48%	54.79%	
+gholdengolunatone
+
+122	
+jacob eye
+US
+28	9 - 4 - 1	56.44%	55.23%	
+gholdengolunatone
+
+123	
+Trenton Ross
+US
+28	9 - 4 - 1	56.39%	56.20%	
+charizardnoctowl
+
+124	
+Chad L'Archeveque
+CA
+28	9 - 4 - 1	56.34%	57.06%	
+noctowlogerpon-wellspring
+
+125	
+Ryan Miller
+US
+28	9 - 4 - 1	56.23%	57.13%	
+charizardnoctowl
+
+126	
+Evan Zhu
+CA
+28	8 - 2 - 4	55.86%	61.23%	
+gardevoir
+
+127	
+Emily Forman
+US
+28	9 - 4 - 1	55.78%	57.80%	
+raging-boltogerpon
+
+128	
+Tristan Greening
+CA
+28	9 - 4 - 1	55.74%	55.58%	
+charizardnoctowl
+
+129	
+Darian Kreiser
+US
+28	9 - 4 - 1	55.73%	55.72%	
+absol-megakangaskhan-mega
+
+130	
+James Chow
+CA
+28	9 - 4 - 1	55.68%	60.15%	
+alakazamdudunsparce
+
+131	
+Bryce Harris
+US
+28	9 - 4 - 1	55.25%	54.36%	
+garchomp
+
+132	
+Daniel Abramovici
+BR
+28	9 - 4 - 1	54.85%	56.24%	
+kangaskhan-megabouffalant
+
+133	
+Zachary Fortier
+CA
+28	9 - 4 - 1	53.95%	55.71%	
+dipplinthwackey
+
+134	
+Patrina Lau
+CA
+28	9 - 4 - 1	53.93%	55.56%	
+ceruledge
+
+135	
+Rj Squires
+US
+28	9 - 4 - 1	53.72%	56.61%	
+dragapultdusknoir
+
+136	
+Henry Thompson
+US
+28	9 - 4 - 1	53.64%	55.79%	
+dragapultdusknoir
+
+137	
+Carlos Artze
+US
+28	9 - 4 - 1	53.37%	58.25%	
+dragapultdusknoir
+
+138	
+Tyler Price
+US
+28	9 - 4 - 1	52.91%	53.44%	
+dragapultdusknoir
+
+139	
+Victor De Velasco
+MX
+28	9 - 4 - 1	49.64%	51.38%	
+gholdengolunatone
+
+140	
+Xavier Kerr
+CA
+27	8 - 3 - 3	65.50%	57.73%	
+charizardnoctowl
+
+141	
+Aushton Kelusky
+CA
+27	9 - 5 - 0	64.67%	60.26%	
+slowking
+
+142	
+Matthew Hill-Kent
+CA
+27	8 - 3 - 3	63.94%	56.81%	
+charizardnoctowl
+
+143	
+Zach Cohen
+US
+27	9 - 5 - 0	62.36%	62.76%	
+gholdengolunatone
+
+144	
+Caleb Rogerson
+US
+27	9 - 5 - 0	62.12%	58.58%	
+gholdengolunatone
+
+145	
+Cameron Cloughley
+CA
+27	8 - 3 - 3	61.93%	57.80%	
+gardevoir
+
+146	
+Vance Kelley
+US
+27	8 - 3 - 3	61.45%	58.52%	
+gardevoirjellicent
+
+147	
+Aaron Rozbicki
+CA
+27	8 - 3 - 3	61.39%	58.41%	
+gholdengolunatone
+
+148	
+Rowan Stavenow
+CA
+27	8 - 3 - 3	61.10%	56.85%	
+gardevoirjellicent
+
+149	
+Drew Allen
+CA
+27	9 - 5 - 0	60.96%	60.21%	
+gholdengolunatone
+
+150	
+Fernando Lopez
+CL
+27	8 - 3 - 3	60.65%	57.76%	
+raging-boltogerpon
+
+151	
+William Crawford
+CA
+27	8 - 3 - 3	60.31%	59.41%	
+charizardnoctowl
+
+152	
+Teegan Hall
+US
+27	8 - 3 - 3	60.30%	58.94%	
+zoroark
+
+153	
+JW Kriewall
+US
+27	9 - 5 - 0	58.93%	56.10%	
+gardevoir
+
+154	
+Logan Jayson
+US
+27	8 - 3 - 3	58.72%	57.04%	
+charizardnoctowl
+
+155	
+Aidan Suk
+CA
+27	8 - 3 - 3	58.04%	59.95%	
+grimmsnarlfroslass
+
+156	
+Austin Ellis
+CA
+27	8 - 3 - 3	57.91%	55.92%	
+gardevoir
+
+157	
+Jie Ran
+US
+27	8 - 3 - 3	57.50%	56.21%	
+grimmsnarlfroslass
+
+158	
+Nathan Ginsburg
+US
+27	8 - 3 - 3	57.21%	57.89%	
+gholdengolunatone
+
+159	
+Rose Little
+US
+27	8 - 3 - 3	56.93%	56.79%	
+charizardnoctowl
+
+160	
+Jared De Guzman
+CA
+27	8 - 3 - 3	56.22%	56.62%	
+gholdengolunatone
+
+161	
+Scott Patchett
+CA
+27	8 - 3 - 3	55.91%	57.77%	
+absol-megakangaskhan-mega
+
+162	
+William Au
+US
+27	9 - 5 - 0	55.85%	57.60%	
+dragapultdusknoir
+
+163	
+Lucas Sforza
+CA
+27	8 - 3 - 3	55.29%	55.80%	
+dragapultcharizard
+
+164	
+Dominic Viola
+US
+27	8 - 3 - 3	55.20%	57.02%	
+dragapultcharizard
+
+165	
+Calvin Tathanhlong
+CA
+27	8 - 3 - 3	54.95%	56.49%	
+gardevoirjellicent
+
+166	
+Ricky Yuen
+CA
+27	8 - 3 - 3	54.64%	57.23%	
+dragapultdusknoir
+
+167	
+Jackson Rowley
+US
+27	8 - 3 - 3	51.07%	55.71%	
+zoroark
+
+168	
+Connor Chiappetta
+US
+26	8 - 4 - 2	63.64%	59.55%	
+charizardpidgeot
+
+169	
+Felix Wong
+CA
+26	8 - 4 - 2	63.03%	59.20%	
+gardevoirjellicent
+
+170	
+Joey Gaffney
+CA
+26	7 - 2 - 5	61.85%	57.91%	
+gardevoir
+
+171	
+Sam Rindal
+US
+26	8 - 4 - 2	61.44%	57.04%	
+flareonnoctowl
+
+172	
+Dylan Higgins
+US
+26	7 - 2 - 5	60.58%	60.95%	
+charizardpidgeot
+
+173	
+Kamil Colatosti
+CA
+26	8 - 4 - 2	60.32%	57.04%	
+gardevoir
+
+174	
+Daniel Lin
+CA
+26	8 - 4 - 2	59.67%	58.03%	
+gardevoir
+
+175	
+Geneses Pabuna
+CA
+26	8 - 4 - 2	59.39%	55.33%	
+charizardnoctowl
+
+176	
+Keirnan Eadie
+CA
+26	8 - 4 - 2	59.06%	57.77%	
+ceruledge
+
+177	
+Brooke English
+US
+26	8 - 4 - 2	58.61%	55.50%	
+dragapultdusknoir
+
+178	
+Maddox Corcoran
+US
+26	8 - 4 - 2	58.55%	56.85%	
+gholdengolunatone
+
+179	
+Justin Brothers
+US
+26	8 - 4 - 2	58.16%	57.85%	
+alakazamdudunsparce
+
+180	
+Wayne Robotin Jr
+US
+26	8 - 4 - 2	58.10%	59.44%	
+gardevoirjellicent
+
+181	
+Andrew Mallach
+US
+26	8 - 4 - 2	57.43%	56.18%	
+dragapultdusknoir
+
+182	
+Kristopher Kemp
+US
+26	8 - 4 - 2	57.37%	55.79%	
+charizardnoctowl
+
+183	
+Calvin Jian
+US
+26	8 - 4 - 2	57.14%	54.88%	
+dragapultdusknoir
+
+184	
+Hunter Slack
+US
+26	8 - 4 - 2	56.76%	55.76%	
+gholdengolunatone
+
+185	
+Vincent Owen
+US
+26	8 - 4 - 2	56.01%	57.61%	
+gholdengolunatone
+
+186	
+Leonardo Guevarra
+CA
+26	8 - 4 - 2	55.82%	56.33%	
+alakazamdudunsparce
+
+187	
+June Oster
+US
+26	8 - 4 - 2	55.66%	55.07%	
+dragapultdusknoir
+
+188	
+Simon Luong
+CA
+26	8 - 4 - 2	54.31%	55.84%	
+gholdengolunatone
+
+189	
+Jalen Jones
+US
+26	8 - 4 - 2	54.21%	55.40%	
+grimmsnarlfroslass
+
+190	
+Nick Dela Torre
+US
+26	7 - 2 - 5	53.58%	54.75%	
+dragapultdusknoir
+
+191	
+Kenneth Springett
+US
+26	8 - 4 - 2	53.44%	53.57%	
+dragapultdusknoir
+
+192	
+Justin Tse
+CA
+26	8 - 4 - 2	52.93%	55.00%	
+gardevoir
+
+193	
+Tony Trang
+CA
+26	8 - 4 - 2	52.61%	54.44%	
+gardevoir
+
+194	
+Nikkolas Paserba
+US
+26	8 - 4 - 2	51.47%	55.55%	
+dragapultdusknoir
+
+195	
+Matthew Dwyer
+US
+26	8 - 4 - 2	49.00%	54.48%	
+gholdengolunatone
+
+196	
+Steven Lavoie
+US
+25	8 - 5 - 1	65.44%	60.84%	
+charizardpidgeot
+
+197	
+Loic Prudhomme
+CA
+25	8 - 5 - 1	64.05%	59.30%	
+charizardnoctowl
+
+198	
+Tyler Seal
+CA
+25	8 - 5 - 1	62.18%	56.08%	
+gholdengolunatone
+
+199	
+Michael Hancock
+CA
+25	8 - 5 - 1	61.52%	58.48%	
+charizardnoctowl
+
+200	
+Zackary Prpic
+CA
+25	7 - 3 - 4	61.35%	59.02%	
+gholdengolunatone
+
+201	
+Samuel Liggett
+US
+25	7 - 3 - 4	60.82%	57.94%	
+dragapultdusknoir
+
+202	
+Xiang He
+CA
+25	8 - 5 - 1	60.50%	57.54%	
+alakazamdudunsparce
+
+203	
+Nolan Randall
+CA
+25	8 - 5 - 1	60.20%	59.37%	
+dragapultdusknoir
+
+204	
+Walter Huynh
+CA
+25	7 - 3 - 4	60.20%	55.61%	
+gholdengolunatone
+
+205	
+Richard Yannow
+US
+25	7 - 3 - 4	60.08%	58.70%	
+gardevoir
+
+206	
+Benjamin Chang
+US
+25	8 - 5 - 1	59.95%	60.46%	
+gardevoirjellicent
+
+207	
+Satoshi Matsui
+US
+25	8 - 5 - 1	59.95%	58.02%	
+dragapultdusknoir
+
+208	
+Sergio Rodriguez
+CA
+25	7 - 3 - 4	59.95%	56.12%	
+charizardpidgeot
+
+209	
+Destynn Hatcher
+US
+25	7 - 3 - 4	59.78%	56.68%	
+charizardnoctowl
+
+210	
+Kevin Gauthier
+CA
+25	8 - 5 - 1	59.49%	57.05%	
+gholdengolunatone
+
+211	
+Ira Stone
+US
+25	8 - 5 - 1	59.46%	58.08%	
+charizardnoctowl
+
+212	
+Benny Billinger
+CA
+25	8 - 5 - 1	59.44%	57.41%	
+gholdengolunatone
+
+213	
+James Ryan De Vera
+US
+25	7 - 3 - 4	59.44%	55.27%	
+gardevoirjellicent
+
+214	
+Elijah Miller
+US
+25	8 - 5 - 1	59.30%	56.14%	
+dragapultdusknoir
+
+215	
+Sebastian Eaton
+US
+25	7 - 3 - 4	59.23%	56.41%	
+gardevoirjellicent
+
+216	
+Austin Charles
+US
+25	8 - 5 - 1	59.23%	55.26%	
+gholdengolunatone
+
+217	
+joshua titus
+CA
+25	8 - 5 - 1	59.18%	57.52%	
+dragapultdusknoir
+
+218	
+Ben Stephenson
+CA
+25	8 - 5 - 1	58.33%	57.90%	
+charizardnoctowl
+
+219	
+Charles Holland
+US
+25	7 - 3 - 4	58.31%	54.56%	
+charizardnoctowl
+
+220	
+Kaiming Wang
+CA
+25	8 - 5 - 1	58.27%	56.79%	
+dragapultdusknoir
+
+221	
+Victor Walnyckyj
+CA
+25	8 - 5 - 1	58.08%	57.28%	
+greninja
+
+222	
+Owen Rhoads
+US
+25	8 - 5 - 1	58.02%	53.28%	
+gholdengolunatone
+
+223	
+Sebastian Alloway
+CA
+25	8 - 5 - 1	57.99%	56.52%	
+gholdengolunatone
+
+224	
+Yosha Riley
+US
+25	8 - 5 - 1	57.97%	56.06%	
+gardevoirjellicent
+
+225	
+Jake Nowacki
+US
+25	7 - 3 - 4	57.80%	58.07%	
+dragapultdusknoir
+
+226	
+Bradley Lippert
+US
+25	8 - 5 - 1	57.72%	53.67%	
+gholdengolunatone
+
+227	
+Ryan Hoang
+CA
+25	7 - 3 - 4	57.70%	57.30%	
+zoroark
+
+228	
+Evan Smith
+US
+25	8 - 5 - 1	57.55%	55.91%	
+gholdengolunatone
+
+229	
+Ryleigh Patterson
+US
+25	8 - 5 - 1	57.46%	54.46%	
+charizardnoctowl
+
+230	
+Bryan Ortiz
+CA
+25	7 - 3 - 4	57.39%	57.42%	
+dragapultdusknoir
+
+231	
+Nate Joseph
+CA
+25	8 - 5 - 1	57.37%	57.72%	
+gholdengolunatone
+
+232	
+David Hudson
+CA
+25	7 - 3 - 4	57.33%	54.81%	
+raging-boltogerpon
+
+233	
+Ryan Pangborn
+CA
+25	8 - 5 - 1	57.27%	54.83%	
+gholdengolunatone
+
+234	
+Wilson Wong
+CA
+25	8 - 5 - 1	57.12%	54.36%	
+charizardnoctowl
+
+235	
+Marco Mieses
+US
+25	8 - 5 - 1	56.90%	57.37%	
+dragapultdusknoir
+
+236	
+Abigail Klein
+US
+25	8 - 5 - 1	56.88%	55.84%	
+gholdengolunatone
+
+237	
+Rafal Gladysz
+US
+25	8 - 5 - 1	56.82%	58.04%	
+charizardnoctowl
+
+238	
+George Chen
+CA
+25	8 - 5 - 1	56.08%	55.28%	
+gholdengolunatone
+
+239	
+Waley Liu
+US
+25	7 - 3 - 4	56.04%	58.03%	
+gholdengolunatone
+
+240	
+Owen Hills
+CA
+25	7 - 3 - 4	56.00%	56.35%	
+kangaskhan-megabouffalant
+
+241	
+Tom Hellkamp
+US
+25	8 - 5 - 1	55.29%	57.68%	
+alakazamdudunsparce
+
+242	
+Matthew Bullock
+US
+25	8 - 5 - 1	55.14%	57.63%	
+conkeldurr
+
+243	
+Justin Fedorenka
+CA
+25	7 - 3 - 4	54.89%	57.36%	
+dragapultdusknoir
+
+244	
+Jesse Gaynor
+US
+25	8 - 5 - 1	54.15%	55.81%	
+gholdengolunatone
+
+245	
+Michelle Lam
+CA
+25	8 - 5 - 1	54.06%	56.21%	
+lopunny-megadusknoir
+
+246	
+Grayson Jones
+US
+25	8 - 5 - 1	54.00%	54.87%	
+gholdengolunatone
+
+247	
+David Lee
+CA
+25	8 - 5 - 1	53.65%	57.18%	
+charizardpidgeot
+
+248	
+Erick Perez
+US
+25	8 - 5 - 1	53.65%	57.29%	
+flareonnoctowl
+
+249	
+Dekari Iverson
+US
+25	8 - 5 - 1	53.64%	53.95%	
+joltikpikachu
+
+250	
+Mitchel Silva
+US
+25	8 - 5 - 1	53.23%	55.09%	
+dragapultdusknoir
+
+251	
+Joshua Pyle-Carter
+CA
+25	8 - 5 - 1	53.02%	55.54%	
+ceruledge
+
+252	
+Canaan Mellard
+US
+25	8 - 5 - 1	52.92%	57.29%	
+gholdengolunatone
+
+253	
+Logan Hendrickson
+US
+25	8 - 5 - 1	52.81%	56.54%	
+venusaur-mega
+
+254	
+Ian Hunter
+US
+25	8 - 5 - 1	52.46%	54.02%	
+charizardnoctowl
+
+255	
+Jonathan Herrera
+US
+25	8 - 5 - 1	52.28%	53.96%	
+charizardpidgeot
+
+256	
+Taha Malik
+US
+25	7 - 3 - 4	51.85%	54.32%	
+ceruledge
+
+257	
+Harry Silverman
+US
+25	8 - 5 - 1	51.33%	53.14%	
+gholdengolunatone
+
+258	
+Vincent Vuong
+CA
+25	7 - 3 - 4	49.60%	52.89%	
+joltikpikachu
+
+259	
+Gwen Tran
+US
+24	7 - 4 - 3	64.63%	60.63%	
+gardevoir
+
+260	
+Morgan Abreu
+US
+24	7 - 4 - 3	63.99%	58.99%	
+absol-megakangaskhan-mega
+
+261	
+Nick Mojica
+US
+24	7 - 4 - 3	61.48%	58.66%	
+crustle
+
+262	
+Jeffrey Chau
+CA
+24	7 - 4 - 3	61.28%	56.28%	
+gholdengolunatone
+
+263	
+Jayden Chow
+CA
+24	7 - 4 - 3	60.84%	57.52%	
+gholdengolunatone
+
+264	
+Darien Krys
+CA
+24	7 - 4 - 3	60.71%	54.04%	
+gardevoir
+
+265	
+Suhaan Singh
+CA
+24	7 - 4 - 3	60.33%	59.05%	
+grimmsnarlfroslass
+
+266	
+alexys rodriguez
+US
+24	6 - 2 - 6	60.25%	56.31%	
+gardevoir
+
+267	
+Megan Szekely
+UK
+24	7 - 4 - 3	59.82%	57.50%	
+gholdengolunatone
+
+268	
+Cyrus McCane
+US
+24	7 - 4 - 3	58.74%	55.36%	
+gardevoir
+
+269	
+Joshua Wagstaff
+CA
+24	7 - 4 - 3	57.40%	56.39%	
+charizardnoctowl
+
+270	
+James Balasiak
+CA
+24	7 - 4 - 3	57.33%	57.58%	
+gholdengolunatone
+
+271	
+Alex Hoffmann
+US
+24	7 - 4 - 3	57.27%	56.84%	
+charizardnoctowl
+
+272	
+Gabe Vetere
+US
+24	7 - 4 - 3	56.74%	57.61%	
+gardevoir
+
+273	
+Charles Stephenson
+US
+24	7 - 4 - 3	56.67%	53.84%	
+gholdengolunatone
+
+274	
+Keva Bui
+US
+24	7 - 4 - 3	56.57%	55.20%	
+zoroark
+
+275	
+Brandon Salazar
+US
+24	7 - 4 - 3	56.43%	55.82%	
+grimmsnarlfroslass
+
+276	
+Emil Redlinger
+US
+24	7 - 4 - 3	56.31%	58.13%	
+gardevoir
+
+277	
+Alek Estrada
+US
+24	7 - 4 - 3	56.11%	55.96%	
+charizardnoctowl
+
+278	
+Fausto Guerrero
+MX
+24	6 - 2 - 6	55.87%	56.17%	
+ceruledge
+
+279	
+Yanyan Law
+CA
+24	7 - 4 - 3	55.17%	60.02%	
+gholdengolunatone
+
+280	
+Ben Kim
+US
+24	7 - 4 - 3	55.03%	54.83%	
+gardevoir
+
+281	
+Sky DelaCruz
+US
+24	7 - 4 - 3	54.99%	57.28%	
+gardevoir
+
+282	
+Anthony Bruno
+US
+24	7 - 4 - 3	54.76%	56.32%	
+zoroark
+
+283	
+Reva James Pabayo-Cruz
+CA
+24	7 - 4 - 3	54.53%	56.91%	
+charizardnoctowl
+
+284	
+Luke Ayla Mallia
+MT
+24	7 - 4 - 3	54.44%	52.68%	
+gardevoir
+
+285	
+Kyser Rodriguez
+US
+24	7 - 4 - 3	54.18%	55.94%	
+charizardnoctowl
+
+286	
+Tony Herrera
+US
+24	7 - 4 - 3	53.05%	51.76%	
+charizardnoctowl
+
+287	
+Jonathan Rafael
+CA
+24	7 - 4 - 3	52.28%	55.23%	
+dragapultdusknoir
+
+288	
+Benjamin Cusack
+CA
+24	7 - 4 - 3	50.75%	60.41%	
+charizardnoctowl
+
+289	
+Alex Belanger-Phoenix
+CA
+24	7 - 4 - 3	49.91%	53.70%	
+charizardpidgeot
+
+290	
+Elsie Croizer
+CA
+23	7 - 5 - 2	64.35%	58.41%	
+gholdengolunatone
+
+291	
+Reno Bernardo
+US
+23	7 - 5 - 2	62.24%	56.78%	
+dragapultcharizard
+
+292	
+Dalton Rowlett
+CA
+23	7 - 5 - 2	59.92%	56.41%	
+ceruledge
+
+293	
+August Painter
+US
+23	7 - 5 - 2	59.23%	55.78%	
+gardevoir
+
+294	
+Kenny Hernandez
+US
+23	7 - 5 - 2	59.12%	57.18%	
+zoroark
+
+295	
+Shun Takemasa
+US
+23	7 - 5 - 2	58.25%	56.19%	
+dragapultdusknoir
+
+296	
+Amy Wosley
+UK
+23	7 - 5 - 2	58.04%	56.46%	
+alakazamdudunsparce
+
+297	
+Ron E
+CA
+23	6 - 3 - 5	58.01%	55.89%	
+gholdengolunatone
+
+298	
+Corey Roca
+US
+23	7 - 5 - 2	57.78%	55.92%	
+charizardnoctowl
+
+299	
+Igor Bodryakov
+CA
+23	7 - 5 - 2	57.65%	54.89%	
+gardevoirjellicent
+
+300	
+Liam Bessey
+CA
+23	7 - 5 - 2	56.55%	53.30%	
+raging-boltogerpon
+
+301	
+Christopher Sdao
+CA
+23	7 - 5 - 2	56.12%	55.48%	
+grimmsnarlfroslass
+
+302	
+Charles Ames
+CA
+23	7 - 5 - 2	56.10%	54.43%	
+gardevoirjellicent
+
+303	
+Eddie Pizzano
+US
+23	7 - 5 - 2	55.71%	56.62%	
+charizardnoctowl
+
+304	
+Kenneth Gilman
+US
+23	7 - 5 - 2	55.55%	54.49%	
+joltikpikachu
+
+305	
+Theeban Siva
+CA
+23	7 - 5 - 2	55.48%	54.65%	
+dragapultdusknoir
+
+306	
+Evan Macdonald
+CA
+23	7 - 5 - 2	55.36%	55.01%	
+kangaskhan-megabouffalant
+
+307	
+Tianqi Zhang
+CA
+23	7 - 5 - 2	55.16%	57.71%	
+dragapultdusknoir
+
+308	
+Baldemar Merlo
+US
+23	7 - 5 - 2	54.97%	55.54%	
+gholdengolunatone
+
+309	
+Noah Weston
+US
+23	7 - 5 - 2	54.96%	54.05%	
+charizardnoctowl
+
+310	
+Ethan Chiu
+CA
+23	7 - 5 - 2	54.68%	54.60%	
+charizardpidgeot
+
+311	
+Ajay Sridhar
+US
+23	7 - 5 - 2	54.66%	55.40%	
+zoroark
+
+312	
+Josh Brillantes
+CA
+23	7 - 5 - 2	53.61%	55.65%	
+greninja
+
+313	
+Eric Aubertin
+CA
+23	7 - 5 - 2	53.51%	55.61%	
+dragapultdusknoir
+
+314	
+Brandon Lam
+US
+23	7 - 5 - 2	53.24%	55.52%	
+charizardnoctowl
+
+315	
+Joseph Sapinoso
+CA
+23	7 - 5 - 2	53.23%	53.61%	
+dragapultdusknoir
+
+316	
+Alex Lafontaine
+CA
+23	7 - 5 - 2	53.00%	54.10%	
+zoroark
+
+317	
+Paul Selim
+US
+23	7 - 5 - 2	52.85%	53.74%	
+alakazamdudunsparce
+
+318	
+Jervis Garcia
+US
+23	7 - 5 - 2	52.73%	55.51%	
+dragapultdusknoir
+
+319	
+Eric Francis
+US
+23	7 - 5 - 2	52.30%	53.96%	
+charizardnoctowl
+
+320	
+Anthony Daubney
+US
+23	7 - 5 - 2	52.15%	56.16%	
+zoroark
+
+321	
+Noah Donen
+CA
+23	7 - 5 - 2	52.01%	54.40%	
+gardevoirjellicent
+
+322	
+Christian Roy-Johnson
+CA
+23	7 - 5 - 2	50.43%	57.80%	
+dragapultdusknoir
+
+323	
+Jahziah Christie
+US
+23	7 - 5 - 2	49.35%	53.49%	
+toxtricityabsol-mega
+
+324	
+Alexander Pagnani
+CA
+22	7 - 6 - 1	62.37%	57.95%	
+gholdengolunatone
+
+325	
+Zach Lesage
+CA
+22	7 - 6 - 1	60.93%	56.96%	
+gholdengolunatone
+
+326	
+Cyrus Davis
+CA
+22	7 - 6 - 1	60.33%	57.09%	
+pidgeot
+
+327	
+Joseph Hollin
+UK
+22	6 - 4 - 4	60.19%	59.65%	
+gardevoir
+
+328	
+David Zheng
+US
+22	7 - 6 - 1	59.31%	56.05%	
+charizardnoctowl
+
+329	
+Preston Rutledge
+US
+22	6 - 4 - 4	58.74%	58.13%	
+gardevoirjellicent
+
+330	
+Kacper Smejda
+CA
+22	7 - 6 - 1	58.67%	54.02%	
+dragapultdusknoir
+
+331	
+Chris Pagan
+US
+22	7 - 6 - 1	58.06%	55.38%	
+iron-thornscrustle
+
+332	
+Stephen Scicluna
+CA
+22	7 - 6 - 1	57.82%	56.74%	
+charizardpidgeot
+
+333	
+Benny Zheng
+US
+22	7 - 6 - 1	57.76%	54.29%	
+gardevoirjellicent
+
+334	
+Arthur Soncini
+CA
+22	7 - 6 - 1	57.27%	54.88%	
+gholdengolunatone
+
+335	
+Phil Rodda
+CA
+22	6 - 4 - 4	57.23%	56.00%	
+gholdengolunatone
+
+336	
+Ethan Davis
+US
+22	7 - 6 - 1	57.20%	54.82%	
+gholdengolunatone
+
+337	
+Ihana Mazezka
+US
+22	7 - 6 - 1	56.98%	57.79%	
+gholdengolunatone
+
+338	
+Gilbert Hoang
+CA
+22	7 - 6 - 1	56.82%	54.16%	
+ceruledge
+
+339	
+Ryan Noble
+CA
+22	6 - 4 - 4	56.81%	55.30%	
+grimmsnarlfroslass
+
+340	
+Mathieu Cantin-Roy
+CA
+22	6 - 4 - 4	56.68%	56.33%	
+charizardnoctowl
+
+341	
+John Pedro
+CA
+22	7 - 6 - 1	56.63%	55.01%	
+charizardpidgeot
+
+342	
+Maxime Turck
+CA
+22	6 - 4 - 4	56.25%	55.46%	
+gholdengolunatone
+
+343	
+Carlos Martinez
+US
+22	7 - 6 - 1	56.24%	55.89%	
+zoroark
+
+344	
+Alexandre Ouellette
+CA
+22	7 - 6 - 1	56.02%	56.02%	
+garchomp
+
+345	
+Reilly Cooper
+US
+22	6 - 4 - 4	55.76%	55.03%	
+zoroark
+
+346	
+Lake Lubrano
+US
+22	7 - 6 - 1	55.68%	53.59%	
+zoroark
+
+347	
+Enqi Zhang
+CN
+22	7 - 6 - 1	55.29%	54.19%	
+alakazamdudunsparce
+
+348	
+Olivia Wilson
+US
+22	7 - 6 - 1	54.98%	53.70%	
+raging-boltogerpon
+
+349	
+Charles Pope
+US
+22	7 - 6 - 1	54.60%	52.00%	
+dragapultcharizard
+
+350	
+Korbin Kovac
+US
+22	7 - 6 - 1	54.47%	53.69%	
+charizardnoctowl
+
+351	
+Ethan Rios
+US
+22	6 - 4 - 4	54.44%	57.60%	
+zoroark
+
+352	
+Bree Nimer
+CA
+22	7 - 6 - 1	52.44%	57.97%	
+gholdengolunatone
+
+353	
+Cameron Herring
+US
+22	6 - 4 - 4	51.40%	55.33%	
+gardevoir
+
+354	
+Mark Tiu
+CA
+22	7 - 6 - 1	49.65%	54.61%	
+dragapultdusknoir
+
+355	
+Matthew Dean
+CA
+22	7 - 6 - 1	49.01%	52.30%	
+gholdengotyphlosion
+
+356	
+Tommy Thich
+CA
+21	7 - 7 - 0	63.22%	58.79%	
+charizardnoctowl
+
+357	
+Ryan Hrin
+US
+21	6 - 5 - 3	59.60%	57.00%	
+seakingthwackey
+
+358	
+Marco Cifuentes D
+CL
+21	6 - 5 - 3	59.57%	57.61%	
+absol-megakangaskhan-mega
+
+359	
+Kiel Reid
+US
+21	7 - 5 - 0 drop	59.03%	59.85%	
+raging-boltogerpon
+
+360	
+Anthony Di Donato
+CA
+21	6 - 5 - 3	58.72%	55.15%	
+garchomp
+
+361	
+Adrian Johnston
+CA
+21	7 - 7 - 0	58.47%	58.09%	
+joltikpikachu
+
+362	
+Francis Desgagné
+CA
+21	6 - 5 - 3	57.72%	53.68%	
+kangaskhan-megabouffalant
+
+363	
+Stefan Tabaco
+US
+21	6 - 5 - 3	55.99%	54.78%	
+gardevoir
+
+364	
+Luis Maldonado
+US
+21	6 - 5 - 3	55.78%	56.33%	
+gholdengolunatone
+
+365	
+James Harding
+US
+21	6 - 5 - 3	55.20%	56.50%	
+gholdengolunatone
+
+366	
+Khoa Tong
+US
+21	6 - 5 - 3	54.27%	54.41%	
+zoroark
+
+367	
+Juan Contla
+US
+21	6 - 5 - 3	53.38%	59.71%	
+charizardnoctowl
+
+368	
+Kara Wherry
+CA
+21	6 - 5 - 3	52.84%	52.77%	
+ursaluna-bloodmoonlunatone
+
+369	
+Leroy Morgado
+CA
+21	6 - 5 - 3	52.79%	52.86%	
+dragapultdusknoir
+
+370	
+Jessica Sloyan
+US
+21	6 - 5 - 3	52.51%	51.96%	
+iron-thornscrustle
+
+371	
+Jonathan Pasqua
+CA
+21	6 - 5 - 3	50.64%	54.60%	
+dragapultdusknoir
+
+372	
+Logan McKay
+CA
+20	6 - 5 - 2 drop	59.31%	57.73%	
+gardevoirjellicent
+
+373	
+Eric Wu
+US
+20	6 - 6 - 2	58.84%	54.20%	
+gholdengolunatone
+
+374	
+Joe Bryant
+US
+20	6 - 6 - 2	58.18%	56.90%	
+ceruledge
+
+375	
+Daniel Sopko
+US
+20	5 - 4 - 5	58.12%	57.37%	
+gholdengolunatone
+
+376	
+Amram Edery
+CA
+20	6 - 6 - 2	55.80%	54.59%	
+gholdengolunatone
+
+377	
+Alex Nickerson
+CA
+20	6 - 6 - 2	55.17%	54.08%	
+charizardnoctowl
+
+378	
+John Sarcilla
+CA
+20	6 - 6 - 2	54.16%	54.73%	
+dipplinthwackey
+
+379	
+Cristian Estrada
+US
+20	6 - 6 - 2	53.68%	55.44%	
+dragapultdusknoir
+
+380	
+Ray Howard
+CA
+20	6 - 6 - 2	52.89%	54.38%	
+gholdengolunatone
+
+381	
+Jerrick Gumila
+US
+20	5 - 4 - 5	52.54%	51.36%	
+gardevoir
+
+382	
+John Nguyen
+CA
+20	6 - 6 - 2	52.17%	55.05%	
+charizardpidgeot
+
+383	
+Isaiah Cheville
+US
+20	6 - 6 - 2	52.01%	55.79%	
+gardevoirjellicent
+
+384	
+Jay Medeiros
+CA
+20	6 - 6 - 2	51.83%	53.47%	
+gholdengolunatone
+
+385	
+Joseph La Madrid
+CA
+20	6 - 6 - 2	51.45%	53.34%	
+gardevoir
+
+386	
+William Courcy
+CA
+20	6 - 6 - 2	51.36%	54.61%	
+gholdengolunatone
+
+387	
+Paul Doherty
+UK
+20	6 - 5 - 2 drop	49.78%	50.97%	
+charizardnoctowl
+
+388	
+Derrick Hong
+CA
+19	6 - 7 - 1	61.61%	56.50%	
+dragapultdusknoir
+
+389	
+Mike Morton
+US
+19	5 - 4 - 4 drop	58.89%	53.14%	
+charizardpidgeot
+
+390	
+Jac Carter
+US
+19	6 - 7 - 1	58.31%	56.52%	
+gholdengolunatone
+
+391	
+Dominic Mansuetto
+US
+19	6 - 7 - 1	57.33%	53.22%	
+charizardnoctowl
+
+392	
+William Timmermeyer
+US
+19	6 - 7 - 1	57.27%	56.14%	
+raging-boltogerpon
+
+393	
+Jessica Siders
+US
+19	6 - 7 - 1	56.95%	55.48%	
+gardevoirjellicent
+
+394	
+Cody Smith
+US
+19	6 - 6 - 1 drop	55.18%	53.81%	
+gholdengolunatone
+
+395	
+Joshua Meza
+US
+19	6 - 7 - 1	54.72%	55.63%	
+gholdengolunatone
+
+396	
+Aidan Torchia
+CA
+19	6 - 7 - 1	52.54%	52.76%	
+charizardpidgeot
+
+397	
+Kenneth Hung
+CA
+19	6 - 6 - 1 drop	49.37%	52.73%	
+dragapultdusknoir
+
+398	
+Weihao Huang
+CA
+19	5 - 5 - 4	49.29%	54.10%	
+gholdengolunatone
+
+399	
+Parker Lawson
+US
+19	6 - 2 - 1 drop	46.17%	54.95%	
+flareonnoctowl
+
+400	
+David Dong
+US
+18	5 - 5 - 3 drop	61.91%	56.16%	
+gardevoirjellicent
+
+401	
+Aaron Walker
+US
+18	5 - 6 - 3	57.88%	56.31%	
+gardevoirjellicent
+
+402	
+Shawn Chauvin
+CA
+18	5 - 6 - 3	57.05%	54.81%	
+dragapultdusknoir
+
+403	
+Meili Swanson
+US
+18	5 - 5 - 3 drop	56.40%	54.25%	
+gardevoirjellicent
+
+404	
+William Smith
+US
+18	6 - 8 - 0	55.85%	57.18%	
+gholdengolunatone
+
+405	
+Xavier Robillard
+CA
+18	5 - 6 - 3	51.21%	51.58%	
+charizardnoctowl
+
+406	
+Mike Gyssels
+CA
+17	5 - 2 - 2 drop	61.19%	56.07%	
+dragapultdusknoir
+
+407	
+Robby Weidman
+US
+17	5 - 5 - 2 drop	58.90%	57.55%	
+charizardpidgeot
+
+408	
+Thomas McCabe
+US
+17	5 - 7 - 2	56.78%	53.68%	
+gholdengojoltik
+
+409	
+Jeffrey Deka
+CA
+17	5 - 5 - 2 drop	54.34%	56.27%	
+gholdengolunatone
+
+410	
+TJ Heying
+US
+16	5 - 3 - 1 drop	63.97%	55.62%	
+ceruledge
+
+411	
+Wesley Tam
+CA
+16	5 - 3 - 1 drop	61.27%	54.14%	
+grimmsnarlfroslass
+
+412	
+Shashi Naraine
+CA
+16	5 - 4 - 1 drop	60.50%	54.72%	
+gholdengolunatone
+
+413	
+Carter Brush
+CA
+16	5 - 6 - 1 drop	60.32%	55.55%	
+gardevoirjellicent
+
+414	
+Tristan Maier
+US
+16	5 - 4 - 1 drop	59.30%	54.78%	
+gardevoirjellicent
+
+415	
+Sean Foisy
+US
+16	5 - 3 - 1 drop	58.41%	54.81%	
+gholdengolunatone
+
+416	
+John Drouin
+CA
+16	5 - 8 - 1	58.29%	55.80%	
+gardevoirjellicent
+
+Day 2 end
+417	
+Ramon Miranda
+US
+15	5 - 3 - 0	68.08%	59.18%	
+dragapultdusknoir
+
+418	
+Allan Pan
+CA
+15	5 - 3 - 0	66.41%	57.60%	
+raging-boltogerpon
+
+419	
+Fayez Syed
+US
+15	5 - 3 - 0	63.28%	54.81%	
+charizardnoctowl
+
+420	
+Bodan Nuttall-licht
+CA
+15	4 - 1 - 3	63.02%	53.18%	
+gardevoirjellicent
+
+421	
+Adam Kalamat
+CA
+15	5 - 3 - 0	62.50%	56.40%	
+gardevoir
+
+422	
+Krystal Florendo
+CA
+15	5 - 3 - 0	61.72%	56.36%	
+charizardnoctowl
+
+423	
+Benedict Brenner
+US
+15	5 - 3 - 0	61.25%	56.93%	
+charizardnoctowl
+
+424	
+Sebastian Lashmet
+US
+15	4 - 1 - 3	61.05%	56.94%	
+gardevoirjellicent
+
+425	
+Francis Savard
+CA
+15	5 - 3 - 0	60.94%	56.37%	
+gholdengolunatone
+
+426	
+Austin Drake
+CA
+15	5 - 3 - 0	60.16%	54.37%	
+gardevoirjellicent
+
+427	
+BILLY CHAN
+CA
+15	5 - 3 - 0	60.16%	53.30%	
+gholdengolunatone
+
+428	
+Lucas Huculak
+CA
+15	5 - 3 - 0	59.38%	53.46%	
+pidgeot
+
+429	
+Cameron Roberts
+US
+15	5 - 3 - 0	59.15%	53.38%	
+gholdengolunatone
+
+430	
+Drew Stephenson
+UK
+15	5 - 3 - 0	59.02%	55.83%	
+gholdengolunatone
+
+431	
+Ciaran Farah
+CA
+15	5 - 3 - 0	58.59%	55.02%	
+gholdengolunatone
+
+432	
+Dennis Peroff
+CA
+15	5 - 3 - 0	57.18%	55.62%	
+charizardnoctowl
+
+433	
+Daniel Chan
+CA
+15	5 - 3 - 0	57.03%	54.47%	
+gholdengolunatone
+
+434	
+Tim Vince
+CA
+15	5 - 3 - 0	57.03%	53.48%	
+dragapultdusknoir
+
+435	
+Evan Bryant
+US
+15	5 - 3 - 0	56.92%	55.23%	
+gardevoir
+
+436	
+Ivan Lukens
+US
+15	5 - 3 - 0	56.81%	54.28%	
+charizarddragapult
+
+437	
+Paul Miller
+US
+15	5 - 3 - 0	56.56%	56.07%	
+dragapultdusknoir
+
+438	
+Michael Gallo
+CA
+15	5 - 3 - 0	56.45%	56.18%	
+dragapultdusknoir
+
+439	
+Robert Marshal
+US
+15	5 - 3 - 0	56.45%	53.55%	
+gholdengolunatone
+
+440	
+Brandon Sinclair
+CA
+15	5 - 3 - 0	55.73%	51.78%	
+grimmsnarlfroslass
+
+441	
+Steven Vuong
+CA
+15	5 - 3 - 0	55.47%	54.27%	
+gholdengolunatone
+
+442	
+Brennan Browley
+CA
+15	5 - 3 - 0	55.47%	53.91%	
+gholdengolunatone
+
+443	
+Liam Clary
+US
+15	4 - 1 - 3	55.06%	53.01%	
+gardevoir
+
+444	
+Ash Lafford
+CA
+15	5 - 3 - 0	54.95%	50.91%	
+gardevoirjellicent
+
+445	
+Landen Dwyer
+CA
+15	5 - 3 - 0	54.69%	50.03%	
+charizardnoctowl
+
+446	
+Logan Anna
+US
+15	5 - 3 - 0	54.11%	53.98%	
+gholdengolunatone
+
+447	
+Jacky Su
+CA
+15	5 - 3 - 0	54.09%	54.08%	
+gholdengolunatone
+
+448	
+Luke Levy
+US
+15	4 - 1 - 3	54.02%	52.49%	
+gholdengolunatone
+
+449	
+Jacob Faville
+US
+15	4 - 1 - 3	53.96%	53.45%	
+zoroark
+
+450	
+Vernon Tsoi
+CA
+15	5 - 3 - 0	53.91%	53.25%	
+dragapultdusknoir
+
+451	
+Matthew Shade
+US
+15	4 - 1 - 3	53.91%	52.32%	
+alakazamdudunsparce
+
+452	
+Caleb Gedemer
+US
+15	5 - 3 - 0	53.68%	54.79%	
+gholdengolunatone
+
+453	
+Gabriel Kuchera
+CA
+15	5 - 3 - 0	53.57%	55.56%	
+dragapultdusknoir
+
+454	
+Nate Hathaway
+US
+15	5 - 3 - 0	53.44%	51.94%	
+gholdengolunatone
+
+455	
+Jose Roberto CABRIALES DE HOYOS
+MX
+15	5 - 3 - 0	53.27%	52.84%	
+charizardnoctowl
+
+456	
+Cote Duffy
+CA
+15	5 - 3 - 0	52.97%	53.33%	
+charizardnoctowl
+
+457	
+Solomon Im
+US
+15	5 - 3 - 0	52.46%	52.15%	
+dragapultdusknoir
+
+458	
+Sean Van Alen
+US
+15	5 - 3 - 0	52.40%	51.65%	
+gardevoir
+
+459	
+Jacob St-Onge
+CA
+15	5 - 3 - 0	52.34%	53.81%	
+lopunny-megadusknoir
+
+460	
+Millan Patel
+US
+15	5 - 3 - 0	52.34%	52.03%	
+gardevoir
+
+461	
+Dino Fudoli
+US
+15	5 - 3 - 0	51.97%	54.69%	
+raging-boltogerpon
+
+462	
+James Wesser
+US
+15	5 - 3 - 0	51.88%	53.19%	
+kangaskhan-megabouffalant
+
+463	
+Eric Tortoza
+BR
+15	5 - 3 - 0	51.56%	54.33%	
+dragapultdusknoir
+
+464	
+Julio Santos De Leon
+US
+15	5 - 3 - 0	51.56%	53.24%	
+dragapultdusknoir
+
+465	
+Djanice St-Hilaire
+CA
+15	5 - 3 - 0	51.30%	50.73%	
+ceruledge
+
+466	
+Steven Lapthorne
+CA
+15	5 - 3 - 0	50.87%	48.43%	
+charizardnoctowl
+
+467	
+Adam Tam
+CA
+15	5 - 3 - 0	50.78%	52.43%	
+charizardnoctowl
+
+468	
+Abijah Jongsma
+CA
+15	5 - 3 - 0	50.63%	53.82%	
+gardevoirjellicent
+
+469	
+Novah Strutt
+CA
+15	5 - 3 - 0	50.31%	53.64%	
+charizardnoctowl
+
+470	
+Esteban Tinajero
+US
+15	5 - 3 - 0	49.89%	55.80%	
+gholdengolunatone
+
+471	
+Anthony Saso
+US
+15	5 - 3 - 0	49.89%	54.66%	
+gholdengolunatone
+
+472	
+Chris Morello
+CA
+15	5 - 3 - 0	49.53%	52.30%	
+charizardnoctowl
+
+473	
+Hayden Mikolayenko
+CA
+15	5 - 3 - 0	49.42%	57.25%	
+gholdengolunatone
+
+474	
+Dominick Ciampi
+US
+15	5 - 3 - 0	49.08%	55.13%	
+kangaskhan-megabouffalant
+
+475	
+Ryan Himes
+US
+15	5 - 3 - 0	48.36%	55.91%	
+gholdengolunatone
+
+476	
+Jeremiah Neumann
+US
+15	5 - 3 - 0	48.33%	53.00%	
+ceruledge
+
+477	
+Nathaniel Liao-Park
+CA
+15	5 - 3 - 0	48.33%	52.37%	
+garchomp
+
+478	
+Chris Derocher
+US
+15	5 - 3 - 0	48.33%	51.27%	
+zoroark
+
+479	
+Ivan Stoyanov
+CA
+15	4 - 1 - 3	48.18%	56.57%	
+froslassmunkidori
+
+480	
+Andrew James Whitcomb
+US
+15	5 - 3 - 0	47.92%	53.38%	
+slowking
+
+481	
+Jackson Hall
+US
+15	5 - 3 - 0	47.86%	56.84%	
+gholdengolunatone
+
+482	
+Andrew Martin
+US
+15	5 - 3 - 0	47.19%	55.42%	
+charizardpidgeot
+
+483	
+Jack Lea
+US
+15	5 - 3 - 0	47.19%	51.29%	
+gardevoir
+
+484	
+Matthew Potteiger
+US
+15	5 - 3 - 0	47.08%	52.70%	
+dragapultcharizard
+
+485	
+Nazim Belguendouz
+CA
+15	4 - 1 - 3	46.73%	54.28%	
+gholdengolunatone
+
+486	
+Bianca Lépine
+CA
+15	5 - 3 - 0	46.47%	52.10%	
+lopunny-megadusknoir
+
+487	
+Nabeel Iqbal
+CA
+15	5 - 3 - 0	46.44%	57.92%	
+grimmsnarlfroslass
+
+488	
+Hubert Zhu
+CA
+15	5 - 3 - 0	46.24%	50.60%	
+joltikpikachu
+
+489	
+Luke Harvey
+US
+15	5 - 3 - 0	46.24%	48.40%	
+gholdengolunatone
+
+490	
+Ronnie Marin
+US
+15	5 - 3 - 0	46.19%	48.87%	
+dragapultdusknoir
+
+491	
+Jaden Sailer
+US
+15	5 - 3 - 0	45.94%	54.34%	
+charizardnoctowl
+
+492	
+Eric Rodriguez
+US
+15	5 - 3 - 0	45.94%	55.73%	
+dragapultdusknoir
+
+493	
+Zack Dietrick
+US
+15	5 - 3 - 0	45.74%	56.36%	
+flareonnoctowl
+
+494	
+Stephen L Kent
+UK
+15	5 - 3 - 0	44.90%	49.10%	
+kangaskhan-megabouffalant
+
+495	
+Johann Collecchia
+FR
+15	5 - 3 - 0	44.90%	48.56%	
+gardevoir
+
+496	
+Jacob Szettella
+US
+15	5 - 3 - 0	44.73%	51.71%	
+dragapultdusknoir
+
+497	
+Alex Alvarez
+US
+15	5 - 3 - 0	44.62%	51.99%	
+charizardnoctowl
+
+498	
+Zhaoyu Li
+CA
+15	4 - 1 - 3	43.99%	55.56%	
+gholdengolunatone
+
+499	
+Benjamin Kulhom
+US
+15	5 - 3 - 0	43.68%	51.82%	
+gardevoirjellicent
+
+500	
+Francesco Moscillo
+CA
+15	5 - 3 - 0	42.89%	49.55%	
+dragapultdusknoir
+
+501	
+Nick Mirecki
+US
+15	5 - 3 - 0	42.50%	50.60%	
+dragapultdusknoir
+
+502	
+Lyra Kraemer
+US
+15	5 - 3 - 0	42.29%	49.43%	
+absol-megakangaskhan-mega
+
+503	
+Mathieu Faucher
+CA
+15	5 - 3 - 0	39.35%	51.63%	
+noctowlogerpon-wellspring
+
+504	
+Edward Jin
+CA
+15	5 - 3 - 0	39.21%	47.57%	
+charizardnoctowl
+
+505	
+Bobby Ou
+US
+15	5 - 3 - 0	37.76%	48.33%	
+dragapultdusknoir
+
+506	
+Ira Norwood
+US
+14	4 - 2 - 2	65.74%	54.59%	
+gholdengolunatone
+
+507	
+Matt Bacnis
+US
+14	4 - 2 - 2	65.63%	59.48%	
+charizardnoctowl
+
+508	
+Joseph Chigbrow
+US
+14	4 - 2 - 2	64.58%	55.49%	
+zoroark
+
+509	
+Hamza Khan
+CA
+14	4 - 2 - 2	64.17%	59.67%	
+gholdengojoltik
+
+510	
+justin horkman
+US
+14	4 - 2 - 2	64.06%	56.06%	
+grimmsnarlfroslass
+
+511	
+Jonathan Cloutier
+CA
+14	4 - 2 - 2	61.77%	54.88%	
+greninja
+
+512	
+Alex Andreichuk
+UK
+14	4 - 2 - 2	61.72%	54.02%	
+gholdengolunatone
+
+513	
+Jeremy Gumila
+US
+14	4 - 2 - 2	61.72%	53.97%	
+dragapultdusknoir
+
+514	
+Ian Baumgarner
+US
+14	4 - 2 - 2	61.72%	52.72%	
+ceruledge
+
+515	
+Robert Fiorini
+US
+14	4 - 2 - 2	61.46%	54.62%	
+gholdengolunatone
+
+516	
+Zack Pavao
+CA
+14	4 - 2 - 2	60.94%	54.36%	
+dragapultcharizard
+
+517	
+Dan O'Brien
+US
+14	4 - 2 - 2	60.94%	52.98%	
+kangaskhan-megabouffalant
+
+518	
+Alessio Amorelli
+CA
+14	4 - 2 - 2	60.78%	49.58%	
+gholdengolunatone
+
+519	
+Andrew Weiss
+US
+14	4 - 2 - 2	60.68%	54.09%	
+gholdengolunatone
+
+520	
+Eric Liu
+US
+14	4 - 2 - 2	59.78%	53.90%	
+charizardpidgeot
+
+521	
+Raphaël Gauthier
+CA
+14	4 - 2 - 2	59.69%	55.08%	
+zoroark
+
+522	
+Josh Wilmerding
+US
+14	4 - 2 - 2	59.69%	53.40%	
+kangaskhan-megabouffalant
+
+523	
+Diamonti Noble
+US
+14	4 - 2 - 2	59.11%	55.49%	
+zoroark
+
+524	
+Edward Vo
+US
+14	4 - 2 - 2	58.33%	50.71%	
+zoroark
+
+525	
+James Morris
+US
+14	4 - 2 - 2	58.13%	56.82%	
+grimmsnarlfroslass
+
+526	
+David Gibb
+CA
+14	4 - 2 - 2	57.81%	53.89%	
+dragapultdusknoir
+
+527	
+Alexander Remick
+US
+14	4 - 2 - 2	57.70%	54.47%	
+dragapultdusknoir
+
+528	
+Jordan Delmonte
+CA
+14	4 - 2 - 2	57.34%	52.37%	
+conkeldurr
+
+529	
+Emmett Wilson
+US
+14	4 - 2 - 2	57.29%	55.89%	
+kangaskhan-megabouffalant
+
+530	
+Connor Mackenzie
+CA
+14	4 - 2 - 2	57.29%	55.23%	
+gholdengolunatone
+
+531	
+Kelvin Chan
+CA
+14	4 - 2 - 2	57.29%	54.59%	
+dragapultdusknoir
+
+532	
+Jackson Ford
+CA
+14	4 - 2 - 2	57.14%	53.35%	
+charizardpidgeot
+
+533	
+Kenny Ngo
+US
+14	4 - 2 - 2	57.03%	53.61%	
+grimmsnarlfroslass
+
+534	
+Matthew Zhou
+CA
+14	3 - 0 - 5	56.25%	55.56%	
+gardevoir
+
+535	
+Bradley Dallaire
+US
+14	4 - 2 - 2	56.25%	53.81%	
+dragapultdusknoir
+
+536	
+Nathan Louie
+CA
+14	4 - 2 - 2	56.14%	51.31%	
+zoroark
+
+537	
+Peter Ma
+CA
+14	4 - 2 - 2	55.99%	55.28%	
+gholdengolunatone
+
+538	
+Christian Crespo
+US
+14	4 - 2 - 2	55.80%	58.06%	
+ursaluna-bloodmoonlunatone
+
+539	
+Roddy Munro
+CA
+14	4 - 2 - 2	55.36%	53.44%	
+gholdengolunatone
+
+540	
+Grant Walworth
+US
+14	4 - 2 - 2	55.23%	54.10%	
+gardevoir
+
+541	
+Charlie Thompson
+CA
+14	4 - 2 - 2	55.11%	52.73%	
+gardevoir
+
+542	
+Martial Kadour
+CA
+14	4 - 2 - 2	55.05%	51.20%	
+raging-boltogerpon
+
+543	
+MK Choy
+US
+14	4 - 2 - 2	54.80%	52.98%	
+gardevoir
+
+544	
+Jose Luis Perez Acosta
+CA
+14	4 - 2 - 2	54.69%	60.16%	
+zoroark
+
+545	
+Adam Mogensen
+CA
+14	4 - 2 - 2	54.69%	53.49%	
+dragapultdusknoir
+
+546	
+Luna Dunham
+US
+14	4 - 2 - 2	54.69%	49.58%	
+gholdengolunatone
+
+547	
+Eric Leger
+CA
+14	4 - 2 - 2	54.43%	51.46%	
+typhlosion
+
+548	
+Alex Soucy
+US
+14	4 - 2 - 2	54.22%	53.73%	
+gholdengolunatone
+
+549	
+Mateus Portilho
+US
+14	4 - 2 - 2	54.17%	52.35%	
+charizardnoctowl
+
+550	
+Frank Jimenez
+US
+14	4 - 2 - 2	53.91%	54.65%	
+gholdengolunatone
+
+551	
+Alex Butler
+CA
+14	4 - 2 - 2	53.91%	54.63%	
+gholdengolunatone
+
+552	
+Collin Merli-Matthews
+US
+14	4 - 2 - 2	53.65%	54.46%	
+lopunny-megadusknoir
+
+553	
+Christopher Palmer
+US
+14	4 - 2 - 2	53.65%	54.38%	
+charizardpidgeot
+
+554	
+Matthew Wood
+CA
+14	4 - 2 - 2	53.44%	55.57%	
+charizardpidgeot
+
+555	
+Christina Melnychuk
+CA
+14	4 - 2 - 2	53.24%	54.29%	
+gholdengolunatone
+
+556	
+Joshua Sambrano
+US
+14	4 - 2 - 2	52.08%	54.85%	
+charizardnoctowl
+
+557	
+Johnathan Lopez
+CA
+14	4 - 2 - 2	51.91%	50.01%	
+raging-boltogerpon
+
+558	
+Stéphane Ivanoff
+FR
+14	4 - 2 - 2	51.45%	52.98%	
+gholdengolunatone
+
+559	
+Riley Malik
+US
+14	4 - 2 - 2	51.29%	52.72%	
+charizardnoctowl
+
+560	
+Tanner Bradley
+US
+14	4 - 2 - 2	51.19%	56.56%	
+gholdengolunatone
+
+561	
+Takashi Yoneda
+US
+14	4 - 2 - 2	51.09%	55.29%	
+grimmsnarlfroslass
+
+562	
+Evan Noronha
+CA
+14	3 - 0 - 5	50.31%	52.59%	
+gholdengolunatone
+
+563	
+Steven Martin
+US
+14	4 - 2 - 2	50.21%	52.07%	
+gardevoir
+
+564	
+Mikaël Delisle
+CA
+14	4 - 2 - 2	50.00%	51.21%	
+raging-boltogerpon
+
+565	
+Li Wan
+CA
+14	4 - 2 - 2	49.87%	49.08%	
+dragapultdusknoir
+
+566	
+Gabriel Rabin
+CA
+14	4 - 2 - 2	49.85%	55.41%	
+dragapultdusknoir
+
+567	
+Armando Genis
+US
+14	4 - 2 - 2	49.53%	47.83%	
+gholdengolunatone
+
+568	
+Frederick Hinder
+US
+14	4 - 2 - 2	49.42%	51.64%	
+raging-boltogerpon
+
+569	
+Ethan Mathias
+CA
+14	4 - 2 - 2	49.30%	51.03%	
+noctowlogerpon-wellspring
+
+570	
+Austin Murray
+CA
+14	4 - 2 - 2	48.96%	53.30%	
+gardevoirjellicent
+
+571	
+Noah Lopez
+CA
+14	4 - 2 - 2	48.18%	52.06%	
+gholdengolunatone
+
+572	
+Dylan Sabo
+US
+14	4 - 2 - 2	47.91%	55.37%	
+gardevoirjellicent
+
+573	
+Jack Weaver
+US
+14	4 - 2 - 2	47.66%	49.55%	
+dragapultdusknoir
+
+574	
+Stuart Sakaluk
+CA
+14	4 - 2 - 2	47.43%	53.24%	
+gholdengolunatone
+
+575	
+Tejas Patel
+CA
+14	4 - 2 - 2	47.25%	49.69%	
+gholdengolunatone
+
+576	
+Jordan Folsom
+US
+14	4 - 2 - 2	46.80%	54.98%	
+dragapultdusknoir
+
+577	
+Eli Sang
+US
+14	4 - 2 - 2	46.67%	52.59%	
+gholdengolunatone
+
+578	
+Nguyen Nguyen
+US
+14	4 - 2 - 2	46.13%	49.18%	
+gholdengolunatone
+
+579	
+Michal Zaglewski
+US
+14	4 - 2 - 2	45.99%	50.10%	
+gholdengolunatone
+
+580	
+Jose Casillas
+US
+14	4 - 2 - 2	45.72%	50.87%	
+venusaur-mega
+
+581	
+Eric Suttle
+CA
+14	4 - 2 - 2	45.31%	50.57%	
+charizardnoctowl
+
+582	
+Jacob Skeens
+US
+14	4 - 2 - 2	45.05%	51.30%	
+charizardnoctowl
+
+583	
+Josie Squadroni
+US
+14	4 - 2 - 2	43.64%	51.33%	
+noctowlogerpon-wellspring
+
+584	
+Lucas Bratton
+US
+14	4 - 2 - 2	43.44%	49.80%	
+gardevoirjellicent
+
+585	
+Kent Painchaud
+CA
+14	4 - 2 - 2	41.56%	48.47%	
+raging-boltogerpon
+
+586	
+Mateo Miskic
+CA
+14	4 - 2 - 2	40.54%	47.97%	
+gholdengolunatone
+
+587	
+William Hughes
+US
+14	4 - 2 - 2	40.47%	50.18%	
+seakingthwackey
+
+588	
+Joaquin Cardenas
+US
+13	4 - 3 - 1	67.08%	53.07%	
+zoroark
+
+589	
+Jan Michael Ortiz
+US
+13	4 - 3 - 1	64.06%	53.49%	
+zoroark
+
+590	
+Mitchell Cuillerier
+CA
+13	4 - 3 - 1	63.28%	57.51%	
+charizardnoctowl
+
+591	
+Clifton Dalgard
+US
+13	4 - 3 - 1	63.17%	55.18%	
+joltikpikachu
+
+592	
+Gracen Hunter
+US
+13	4 - 3 - 1	63.02%	53.98%	
+charizardnoctowl
+
+593	
+Carter Goodrich
+US
+13	4 - 3 - 1	62.50%	55.31%	
+gholdengolunatone
+
+594	
+Benjamin Peacock
+US
+13	4 - 3 - 1	62.50%	54.70%	
+charizardpidgeot
+
+595	
+Liam Bancej
+CA
+13	4 - 3 - 1	62.24%	53.93%	
+absol-megakangaskhan-mega
+
+596	
+Duncan Crowley
+US
+13	4 - 3 - 1	61.72%	58.49%	
+greninja
+
+597	
+Kevin Wu
+US
+13	4 - 3 - 1	61.64%	53.66%	
+gholdengolunatone
+
+598	
+Zachary Trybus
+US
+13	4 - 3 - 1	61.25%	54.72%	
+gholdengolunatone
+
+599	
+Brett Gorney
+US
+13	4 - 3 - 1	60.94%	54.91%	
+absol-megakangaskhan-mega
+
+600	
+Adarsh Kumar
+US
+13	4 - 3 - 1	60.94%	50.99%	
+gardevoirjellicent
+
+601	
+Ryan Fragale
+CA
+13	4 - 3 - 1	60.78%	55.98%	
+kangaskhan-megabouffalant
+
+602	
+Tyler Keller
+US
+13	4 - 3 - 1	60.78%	55.68%	
+dragapultdusknoir
+
+603	
+Paul Lee
+US
+13	4 - 3 - 1	60.27%	59.20%	
+grimmsnarlfroslass
+
+604	
+Craig Phillips
+US
+13	4 - 3 - 1	60.16%	52.57%	
+charizardnoctowl
+
+605	
+Anna Shen
+US
+13	4 - 3 - 1	60.16%	52.09%	
+dragapultdusknoir
+
+606	
+Matt Walter
+US
+13	4 - 3 - 1	60.16%	50.98%	
+gholdengolunatone
+
+607	
+Tyler Arney
+CA
+13	4 - 3 - 1	59.69%	55.62%	
+alakazamdudunsparce
+
+608	
+Jackson Rousseau
+US
+13	4 - 3 - 1	59.38%	56.89%	
+gardevoirjellicent
+
+609	
+Justin Perea
+US
+13	4 - 3 - 1	59.22%	50.88%	
+dragapultdusknoir
+
+610	
+blake wray
+US
+13	4 - 3 - 1	59.11%	55.61%	
+zoroark
+
+611	
+Thompson Nelson
+CA
+13	4 - 3 - 1	58.91%	55.35%	
+gholdengolunatone
+
+612	
+Ethan Alcan
+US
+13	4 - 3 - 1	58.59%	51.98%	
+zoroark
+
+613	
+Patrick Rampton
+US
+13	4 - 3 - 1	58.59%	51.79%	
+gholdengolunatone
+
+614	
+Jacob Avchen
+US
+13	4 - 3 - 1	58.44%	52.50%	
+charizardnoctowl
+
+615	
+Justin Poist
+US
+13	4 - 3 - 1	58.13%	54.20%	
+gardevoirjellicent
+
+616	
+Manoah Jong
+CA
+13	4 - 3 - 1	58.07%	54.43%	
+slaking
+
+617	
+Alejandro Malagon
+US
+13	4 - 3 - 1	58.07%	52.90%	
+charizardnoctowl
+
+618	
+Joan Morsa
+US
+13	4 - 3 - 1	57.81%	52.10%	
+gholdengolunatone
+
+619	
+Eric Corazzola
+CA
+13	4 - 3 - 1	57.81%	50.69%	
+gholdengolunatone
+
+620	
+Jared Grimes
+US
+13	4 - 3 - 1	57.55%	53.75%	
+charizardnoctowl
+
+621	
+Seth Savage
+US
+13	4 - 3 - 1	57.48%	52.60%	
+gholdengolunatone
+
+622	
+Michael Kelly
+US
+13	4 - 3 - 1	57.40%	54.09%	
+gholdengolunatone
+
+623	
+Brendan Acri
+US
+13	4 - 3 - 1	57.29%	54.02%	
+gardevoirjellicent
+
+624	
+Cole Boeckman
+US
+13	4 - 3 - 1	57.14%	51.52%	
+charizardpidgeot
+
+625	
+Edward Davanzo
+CA
+13	4 - 3 - 1	57.08%	55.01%	
+gholdengolunatone
+
+626	
+Nicole Crouthamel
+US
+13	4 - 3 - 1	57.03%	56.38%	
+charizardnoctowl
+
+627	
+Bryan Lyons
+US
+13	4 - 3 - 1	57.03%	55.57%	
+dragapultdusknoir
+
+628	
+Jason Ngo
+CA
+13	4 - 3 - 1	57.03%	52.30%	
+joltikpikachu
+
+629	
+Chaz Blanks
+US
+13	3 - 1 - 4	56.96%	53.25%	
+gholdengolunatone
+
+630	
+Noah Tremblett
+CA
+13	4 - 3 - 1	56.77%	53.15%	
+grimmsnarlfroslass
+
+631	
+Joseph Moore-Costa
+US
+13	4 - 3 - 1	56.51%	53.07%	
+dragapultdusknoir
+
+632	
+Maxim Korobov
+US
+13	4 - 3 - 1	56.35%	54.73%	
+gardevoir
+
+633	
+Nicholas Chivaran
+CA
+13	4 - 3 - 1	56.25%	53.92%	
+dragapultdusknoir
+
+634	
+Marcos Gonzalez
+US
+13	4 - 3 - 1	56.25%	53.22%	
+chien-paobaxcalibur
+
+635	
+YIYUAN YANG
+CA
+13	4 - 3 - 1	56.25%	52.60%	
+lopunny-megadusknoir
+
+636	
+Joshua Jair Pedrero Gomez
+MX
+13	4 - 3 - 1	56.25%	51.97%	
+dragapultdusknoir
+
+637	
+Nolan O'Brien
+CA
+13	4 - 3 - 1	56.09%	53.81%	
+dragapultdusknoir
+
+638	
+Dat Nguyen
+US
+13	4 - 3 - 1	55.99%	54.59%	
+seakingthwackey
+
+639	
+Wesley Hu
+CA
+13	4 - 3 - 1	55.99%	51.36%	
+gardevoir
+
+640	
+Suzanne Chung
+CA
+13	4 - 3 - 1	55.73%	51.85%	
+dragapultdusknoir
+
+641	
+Kris Kavanagh
+US
+13	4 - 3 - 1	55.56%	51.54%	
+lopunny-megadusknoir
+
+642	
+Jeffrey Kiesling
+US
+13	4 - 3 - 1	55.47%	54.06%	
+alakazamdudunsparce
+
+643	
+Isaac Kim
+CA
+13	4 - 3 - 1	55.47%	53.22%	
+charizardnoctowl
+
+644	
+Adam Foster
+CA
+13	4 - 3 - 1	55.47%	53.18%	
+ursaluna-bloodmoonlunatone
+
+645	
+Matthew Hubbard
+US
+13	4 - 3 - 1	55.31%	52.92%	
+ogerponmeganium
+
+646	
+Wen Xuan Qiu
+CA
+13	4 - 3 - 1	55.13%	54.80%	
+gardevoir
+
+647	
+Collin Jerard
+US
+13	4 - 3 - 1	55.00%	53.50%	
+gardevoir
+
+648	
+Linus Peasgood
+CA
+13	4 - 3 - 1	55.00%	52.87%	
+raging-boltogerpon
+
+649	
+Alixander Hilger
+US
+13	3 - 1 - 4	55.00%	52.48%	
+grimmsnarlfroslass
+
+650	
+Peter Ho
+CA
+13	4 - 3 - 1	55.00%	49.88%	
+grimmsnarlfroslass
+
+651	
+Cody Graham
+US
+13	4 - 3 - 1	54.84%	56.25%	
+gholdengolunatone
+
+652	
+Aaron Fulton
+US
+13	4 - 3 - 1	54.80%	52.71%	
+absol-megakangaskhan-mega
+
+653	
+Daulton Trahan
+US
+13	4 - 3 - 1	54.69%	54.44%	
+gholdengo
+
+654	
+Félix Gadouas
+CA
+13	4 - 3 - 1	54.69%	53.96%	
+dragapultdusknoir
+
+655	
+Joseph Fragomeni
+US
+13	4 - 3 - 1	54.69%	52.52%	
+gardevoir
+
+656	
+Jordan Hoadley
+CA
+13	4 - 3 - 1	54.22%	51.39%	
+gholdengolunatone
+
+657	
+Gage Oke
+CA
+13	4 - 3 - 1	54.20%	52.63%	
+gholdengolunatone
+
+658	
+Evan Woudstra
+CA
+13	4 - 3 - 1	54.17%	52.75%	
+gholdengolunatone
+
+659	
+Tyler Nagy
+US
+13	4 - 3 - 1	54.11%	55.88%	
+gholdengolunatone
+
+660	
+Rose Gregson
+UK
+13	4 - 3 - 1	54.02%	57.23%	
+gardevoir
+
+661	
+Jack Snow
+CA
+13	4 - 3 - 1	53.91%	53.74%	
+ceruledge
+
+662	
+Jonathan Rodriguez
+US
+13	4 - 3 - 1	53.55%	52.20%	
+gardevoir
+
+663	
+Anthony Tziavas
+CA
+13	4 - 3 - 1	53.49%	52.51%	
+absol-megakangaskhan-mega
+
+664	
+Elliot Miller
+US
+13	4 - 3 - 1	53.42%	54.09%	
+kangaskhan-megabouffalant
+
+665	
+Alex Leksan
+US
+13	4 - 3 - 1	53.13%	54.35%	
+zoroark
+
+666	
+Lucas Hernandez
+US
+13	3 - 1 - 4	53.13%	54.16%	
+dragapultdusknoir
+
+667	
+Angelo Lezada
+CA
+13	4 - 3 - 1	53.13%	52.38%	
+gholdengolunatone
+
+668	
+Giacomo Bertizzolo
+CA
+13	4 - 3 - 1	53.13%	48.93%	
+gardevoirjellicent
+
+669	
+Hunter Givone
+US
+13	4 - 3 - 1	53.13%	48.32%	
+dragapultdusknoir
+
+670	
+Charles Wang
+CA
+13	4 - 3 - 1	52.98%	55.47%	
+charizardnoctowl
+
+671	
+Hal Johnston
+US
+13	4 - 3 - 1	52.90%	53.03%	
+charizardnoctowl
+
+672	
+Samuel Kulczyk
+CA
+13	4 - 3 - 1	52.90%	47.85%	
+absol-megakangaskhan-mega
+
+673	
+Jessie Jr Ortega
+CA
+13	4 - 3 - 1	52.86%	54.81%	
+dragapultdusknoir
+
+674	
+Braeden Foster
+CA
+13	4 - 3 - 1	52.75%	51.27%	
+charizardnoctowl
+
+675	
+Sean Moser
+US
+13	4 - 3 - 1	52.60%	52.93%	
+zoroark
+
+676	
+Anthony Lozano
+US
+13	4 - 3 - 1	52.34%	54.64%	
+gholdengolunatone
+
+677	
+Kevin Sheehan
+CA
+13	4 - 3 - 1	52.34%	52.88%	
+dragapultdusknoir
+
+678	
+Aloy Paul
+CA
+13	4 - 3 - 1	52.19%	52.31%	
+raging-boltogerpon
+
+679	
+Tyler Martin
+US
+13	4 - 3 - 1	52.19%	50.36%	
+typhlosion
+
+680	
+Austin Windsor
+UK
+13	4 - 3 - 1	52.14%	57.68%	
+gardevoir
+
+681	
+David Shi
+CA
+13	4 - 3 - 1	52.14%	54.43%	
+venusaur-mega
+
+682	
+Christopher Venier
+CA
+13	4 - 3 - 1	52.08%	54.28%	
+gholdengolunatone
+
+683	
+Kyle Smith
+CA
+13	4 - 3 - 1	52.08%	53.56%	
+garchomp
+
+684	
+Gilbert Chen
+CA
+13	4 - 3 - 1	51.88%	53.91%	
+flareonnoctowl
+
+685	
+Sam-Pirum Meam
+CA
+13	4 - 3 - 1	51.86%	54.07%	
+gholdengolunatone
+
+686	
+Ely Greenfeld
+US
+13	4 - 3 - 1	51.67%	51.23%	
+charizardnoctowl
+
+687	
+William Yang
+US
+13	4 - 3 - 1	51.61%	53.68%	
+raging-boltogerpon
+
+688	
+Jason Rupert
+US
+13	4 - 3 - 1	51.56%	53.53%	
+gardevoir
+
+689	
+Vincent Mari Pasco
+CA
+13	4 - 3 - 1	51.56%	52.90%	
+zoroark
+
+690	
+Aneil Saini
+CA
+13	4 - 3 - 1	51.56%	52.84%	
+gardevoirjellicent
+
+691	
+Rebeca Perea
+US
+13	4 - 3 - 1	51.56%	51.86%	
+raging-boltogerpon
+
+692	
+Trevor Tran
+US
+13	4 - 3 - 1	51.56%	50.85%	
+gardevoir
+
+693	
+Christopher Wigelsworth
+US
+13	4 - 3 - 1	51.56%	50.36%	
+charizardnoctowl
+
+694	
+Cooper Morgan
+CA
+13	4 - 3 - 1	51.56%	49.37%	
+zoroark
+
+695	
+Sanjeev Raj
+CA
+13	4 - 3 - 1	51.41%	51.31%	
+dragapultdusknoir
+
+696	
+Lily Morgan
+US
+13	4 - 3 - 1	51.30%	50.62%	
+zoroark
+
+697	
+Sean Worcester
+US
+13	4 - 3 - 1	51.15%	54.35%	
+gholdengolunatone
+
+698	
+Cedric Grenier
+CA
+13	4 - 3 - 1	51.15%	50.18%	
+slowking
+
+699	
+Jonathan Gerraughty
+US
+13	4 - 3 - 1	51.09%	51.83%	
+gardevoirjellicent
+
+700	
+Sadie Wheeler
+US
+13	4 - 3 - 1	51.09%	50.75%	
+lucario-megahariyama
+
+701	
+Hunter Smith
+US
+13	4 - 3 - 1	50.89%	55.09%	
+absol-megakangaskhan-mega
+
+702	
+Zander Bennett
+US
+13	4 - 3 - 1	50.83%	55.99%	
+gardevoir
+
+703	
+Donald Cao
+US
+13	4 - 3 - 1	50.78%	53.19%	
+gholdengolunatone
+
+704	
+Jeremy Willsher
+CA
+13	4 - 3 - 1	50.78%	51.95%	
+gardevoir
+
+705	
+Jonathan Yang
+CA
+13	4 - 3 - 1	50.78%	51.75%	
+dragapultcharizard
+
+706	
+Harry Rachel
+US
+13	4 - 3 - 1	50.78%	49.54%	
+zoroark
+
+707	
+Nicholas Zhang
+CA
+13	4 - 3 - 1	50.74%	53.17%	
+zoroark
+
+708	
+David Iannuzzi
+CA
+13	4 - 3 - 1	50.63%	51.47%	
+kangaskhan-megabouffalant
+
+709	
+Joe Bernard
+UK
+13	4 - 3 - 1	50.63%	50.96%	
+gholdengolunatone
+
+710	
+Andrew Tham
+US
+13	4 - 3 - 1	50.56%	55.46%	
+grimmsnarlfroslass
+
+711	
+Greg Poist
+US
+13	4 - 3 - 1	50.56%	49.93%	
+charizardnoctowl
+
+712	
+Collin Quan
+CA
+13	4 - 3 - 1	50.52%	53.48%	
+dragapultdusknoir
+
+713	
+Kade jones
+US
+13	4 - 3 - 1	50.52%	51.99%	
+lucario-megahariyama
+
+714	
+Rachael Sennett
+US
+13	4 - 3 - 1	50.52%	50.08%	
+dragapultcharizard
+
+715	
+Vivian Bresnahan
+US
+13	4 - 3 - 1	50.51%	52.04%	
+dragapultdusknoir
+
+716	
+Christopher Tsimiklis
+CA
+13	4 - 3 - 1	50.36%	52.91%	
+gholdengolunatone
+
+717	
+Noah Ruffin
+US
+13	4 - 3 - 1	50.31%	51.72%	
+charizardnoctowl
+
+718	
+Zach Laska
+US
+13	4 - 3 - 1	50.14%	52.02%	
+gardevoir
+
+719	
+John Sundstrom
+US
+13	4 - 3 - 1	50.00%	52.57%	
+gholdengolunatone
+
+720	
+David Veronica
+US
+13	4 - 3 - 1	50.00%	51.56%	
+gholdengolunatone
+
+721	
+Solomon Shurge
+US
+13	4 - 3 - 1	50.00%	49.68%	
+noctowlogerpon-wellspring
+
+722	
+Toni Ibarra
+US
+13	4 - 3 - 1	49.89%	52.85%	
+dragapultdusknoir
+
+723	
+Kyle Pacheco
+CA
+13	4 - 3 - 1	49.84%	54.64%	
+charizardpidgeot
+
+724	
+Kaylee Hatfield
+US
+13	4 - 3 - 1	49.79%	53.81%	
+gholdengolunatone
+
+725	
+Naomi Torres
+US
+13	3 - 1 - 4	49.78%	55.67%	
+gardevoir
+
+726	
+Patrick Dolan
+CA
+13	4 - 3 - 1	49.69%	48.83%	
+noctowlogerpon-wellspring
+
+727	
+Cameron Ware
+US
+13	4 - 3 - 1	49.63%	55.66%	
+dragapultcharizard
+
+728	
+Stephen Tran
+US
+13	4 - 3 - 1	49.58%	50.14%	
+zoroark
+
+729	
+Ludwig Llanos
+US
+13	4 - 3 - 1	49.58%	49.90%	
+gholdengolunatone
+
+730	
+Tucker Louis
+US
+13	4 - 3 - 1	49.58%	48.32%	
+charizardnoctowl
+
+731	
+Ryan Kohen
+CA
+13	4 - 3 - 1	49.57%	52.30%	
+gholdengolunatone
+
+732	
+Joshua Savundranayagam
+CA
+13	4 - 3 - 1	49.53%	53.31%	
+gholdengolunatone
+
+733	
+Olaf Rodriguez
+US
+13	4 - 3 - 1	49.52%	55.05%	
+kangaskhan-megabouffalant
+
+734	
+Avery Murphy
+US
+13	4 - 3 - 1	49.52%	52.18%	
+charizardnoctowl
+
+735	
+Tim Marmol
+US
+13	4 - 3 - 1	49.52%	51.58%	
+dragapultdusknoir
+
+736	
+Gregor Scott
+US
+13	4 - 3 - 1	49.48%	51.36%	
+raging-boltogerpon
+
+737	
+Lucas Worrod
+CA
+13	4 - 3 - 1	49.32%	49.73%	
+greninja
+
+738	
+Mark Andrew Mendoza
+CA
+13	4 - 3 - 1	49.22%	51.94%	
+crustle
+
+739	
+Ryan Tutin
+CA
+13	4 - 3 - 1	49.00%	51.58%	
+conkeldurr
+
+740	
+Yihao Chen
+US
+13	4 - 3 - 1	48.96%	52.06%	
+grimmsnarlfroslass
+
+741	
+Jimmy Thich
+CA
+13	4 - 3 - 1	48.74%	51.47%	
+flareonnoctowl
+
+742	
+Charley Yi
+CA
+13	4 - 3 - 1	48.59%	56.10%	
+gardevoir
+
+743	
+Jeremy Schilling
+CA
+13	4 - 3 - 1	48.54%	51.55%	
+zoroark
+
+744	
+Haohang Dang
+US
+13	4 - 3 - 1	48.49%	50.38%	
+gardevoirjellicent
+
+745	
+Jason Karimi
+CA
+13	4 - 3 - 1	48.44%	52.46%	
+charizardnoctowl
+
+746	
+Jeremy Alexander
+CA
+13	4 - 3 - 1	48.44%	51.49%	
+gholdengolunatone
+
+747	
+NIcole Gibson
+US
+13	4 - 3 - 1	48.44%	49.84%	
+raging-boltogerpon
+
+748	
+Kyle Viernes
+CA
+13	4 - 3 - 1	48.28%	52.52%	
+sharpedo-megatoxtricity
+
+749	
+Joshua Hipsher
+US
+13	4 - 3 - 1	48.21%	50.80%	
+dragapultcharizard
+
+750	
+Michele Lesage
+CA
+13	4 - 3 - 1	48.21%	50.28%	
+gholdengolunatone
+
+751	
+Andrew Gutierrez
+US
+13	4 - 3 - 1	48.18%	55.10%	
+alakazamdudunsparce
+
+752	
+Ashish Puri
+CA
+13	4 - 3 - 1	48.18%	49.18%	
+charizardnoctowl
+
+753	
+John Braker
+US
+13	4 - 3 - 1	47.95%	54.54%	
+dragapultdusknoir
+
+754	
+Marielyn Belanger
+CA
+13	4 - 3 - 1	47.91%	52.86%	
+gholdengolunatone
+
+755	
+Nathaniel Hartlieb
+US
+13	4 - 3 - 1	47.69%	49.89%	
+lopunny-megadusknoir
+
+756	
+Donny Nguyen
+US
+13	4 - 3 - 1	47.66%	53.91%	
+zoroark
+
+757	
+Paul Irwin
+CA
+13	4 - 3 - 1	47.66%	50.19%	
+absol-megakangaskhan-mega
+
+758	
+Josiah Smith
+US
+13	4 - 3 - 1	47.50%	52.30%	
+ursaluna-bloodmoonlunatone
+
+759	
+Matthew Jaffrey
+US
+13	4 - 3 - 1	47.43%	52.54%	
+absol-megakangaskhan-mega
+
+760	
+Sean Hargrave
+CA
+13	4 - 3 - 1	47.40%	52.37%	
+ursaluna-bloodmoonlunatone
+
+761	
+Alexis Gonzalez
+US
+13	4 - 3 - 1	47.17%	50.73%	
+zoroark
+
+762	
+Justin Chiang
+CA
+13	4 - 3 - 1	46.88%	49.78%	
+dragapultcharizard
+
+763	
+Ben Perets
+CA
+13	4 - 3 - 1	46.83%	54.30%	
+gholdengolunatone
+
+764	
+Joseph Anderson
+US
+13	4 - 3 - 1	46.43%	51.55%	
+charizardnoctowl
+
+765	
+Sunny Lee
+CA
+13	4 - 3 - 1	46.29%	51.93%	
+joltikpikachu
+
+766	
+Elijah Crawford
+CA
+13	4 - 3 - 1	46.13%	49.48%	
+gholdengolunatone
+
+767	
+Joaquin Bailey-Musacchio
+US
+13	4 - 3 - 1	46.09%	51.32%	
+grimmsnarlfroslass
+
+768	
+Riddhi Mautbar
+CA
+13	4 - 3 - 1	45.97%	55.17%	
+charizardpidgeot
+
+769	
+John Paul Zissler
+US
+13	4 - 3 - 1	45.94%	52.62%	
+zoroark
+
+770	
+Fred Paquin
+CA
+13	4 - 3 - 1	45.87%	50.40%	
+seakingthwackey
+
+771	
+Nikolai Hixon
+US
+13	4 - 3 - 1	45.83%	51.54%	
+seakingthwackey
+
+772	
+Gabriel Rouleau
+CA
+13	4 - 3 - 1	45.73%	50.84%	
+charizardnoctowl
+
+773	
+elijah castillo-esper
+US
+13	4 - 3 - 1	45.72%	48.37%	
+dragapultdusknoir
+
+774	
+Caleb Wheeler
+US
+13	4 - 3 - 1	45.57%	53.11%	
+gholdengolunatone
+
+775	
+Spencer Lussier
+CA
+13	4 - 3 - 1	45.50%	56.24%	
+gholdengolunatone
+
+776	
+Nicholas Yang
+CA
+13	4 - 3 - 1	45.16%	51.36%	
+gholdengolunatone
+
+777	
+Jonathan poirier
+CA
+13	4 - 3 - 1	45.05%	50.93%	
+alakazamdudunsparce
+
+778	
+Gavriel Lowie
+CA
+13	4 - 3 - 1	44.84%	48.96%	
+gardevoirjellicent
+
+779	
+Alexander Meddings
+US
+13	4 - 3 - 1	44.62%	53.83%	
+gholdengolunatone
+
+780	
+Ian Munro
+US
+13	3 - 1 - 4	44.57%	50.34%	
+grimmsnarlfroslass
+
+781	
+Christian Solis
+US
+13	4 - 3 - 1	44.53%	48.52%	
+gholdengojoltik
+
+782	
+Rogan Duenas
+CA
+13	4 - 3 - 1	44.05%	48.54%	
+ceruledge
+
+783	
+Tyler Ashe
+CA
+13	4 - 3 - 1	43.80%	56.03%	
+dragapultdusknoir
+
+784	
+Baylee Young
+CA
+13	4 - 3 - 1	43.75%	49.52%	
+gholdengolunatone
+
+785	
+Jon Oldale
+CA
+13	4 - 3 - 1	43.75%	49.33%	
+gholdengolunatone
+
+786	
+Hunter Butler
+US
+13	4 - 3 - 1	43.59%	52.11%	
+charizardpidgeot
+
+787	
+Devon Birkner
+CA
+13	4 - 3 - 1	43.23%	47.10%	
+dragapultdusknoir
+
+788	
+Amanda Majano
+13	3 - 1 - 4	43.19%	49.08%	
+palafin-hero
+
+789	
+Willow Vitton
+US
+13	4 - 3 - 1	42.93%	50.35%	
+gardevoirjellicent
+
+790	
+Dylan Khan
+CA
+13	4 - 3 - 1	42.50%	48.27%	
+zoroark
+
+791	
+Harrison Lee
+US
+13	4 - 3 - 1	41.93%	52.90%	
+dragapultdusknoir
+
+792	
+Joshua Wheeler
+US
+13	4 - 3 - 1	41.41%	49.17%	
+gardevoir
+
+793	
+Richard Cornwall
+US
+13	4 - 3 - 1	41.25%	49.44%	
+grimmsnarlfroslass
+
+794	
+Kai Shahmeen Kasim
+US
+13	4 - 3 - 1	40.92%	52.16%	
+gholdengolunatone
+
+795	
+Colin Luangrath
+US
+13	4 - 3 - 1	40.71%	46.29%	
+dragapultdusknoir
+
+796	
+Liam Champagnie-Ellington
+US
+13	4 - 3 - 1	38.78%	48.85%	
+charizardnoctowl
+
+797	
+Zack Campbell
+CA
+13	4 - 3 - 1	38.62%	48.36%	
+ceruledge
+
+798	
+Manav Dubey
+CA
+13	4 - 3 - 1	36.56%	50.10%	
+gardevoirjellicent
+
+799	
+Tyler Sleegers
+CA
+13	4 - 3 - 1	36.20%	47.50%	
+raging-boltogerpon
+
+800	
+Dax Brule
+CA
+13	3 - 1 - 4	35.27%	47.53%	
+absol-megakangaskhan-mega
+
+801	
+Adam Berke
+US
+12	4 - 4 - 0	68.75%	54.94%	
+gholdengolunatone
+
+802	
+Austin Stamegna
+US
+12	4 - 4 - 0	67.97%	55.35%	
+dragapultdusknoir
+
+803	
+Chantel Fochuk
+CA
+12	4 - 3 - 0 drop	67.35%	52.17%	
+dragapultdusknoir
+
+804	
+Nathan Cheney
+US
+12	4 - 3 - 0 drop	63.47%	55.47%	
+charizardnoctowl
+
+805	
+Ben Clark
+US
+12	4 - 3 - 0 drop	62.86%	49.07%	
+gardevoir
+
+806	
+Maurice Shih
+US
+12	4 - 4 - 0	62.50%	53.36%	
+gholdengolunatone
+
+807	
+Nabil Shawwa
+CA
+12	3 - 2 - 3	62.50%	52.96%	
+gholdengolunatone
+
+808	
+Joshua Gang
+US
+12	4 - 3 - 0 drop	59.69%	55.32%	
+seakingthwackey
+
+809	
+Harel Manhaim
+US
+12	4 - 3 - 0 drop	59.18%	56.10%	
+greninja
+
+810	
+Andrew Mahone
+US
+12	4 - 3 - 0 drop	59.18%	54.44%	
+gholdengolunatone
+
+811	
+Thomas vuong
+CA
+12	3 - 2 - 3	59.13%	54.13%	
+charizardnoctowl
+
+812	
+George Burden
+CA
+12	4 - 4 - 0	59.11%	57.73%	
+dragapultcharizard
+
+813	
+Justin Torres
+US
+12	4 - 3 - 0 drop	58.67%	54.53%	
+kangaskhan-megabouffalant
+
+814	
+Nicholas Hoang
+CA
+12	4 - 4 - 0	58.59%	53.10%	
+gardevoirjellicent
+
+815	
+Sean Burke
+US
+12	4 - 4 - 0	58.26%	51.24%	
+kangaskhan-megabouffalant
+
+816	
+Sergio Rios
+CA
+12	4 - 3 - 0 drop	58.16%	57.62%	
+dragapultdusknoir
+
+817	
+Carlo Tutor
+CA
+12	4 - 4 - 0	58.07%	51.30%	
+charizardpidgeot
+
+818	
+Paul Cacioppo
+US
+12	4 - 4 - 0	57.92%	52.23%	
+noctowlogerpon-wellspring
+
+819	
+Christina Korsak
+US
+12	4 - 4 - 0	57.81%	53.69%	
+lopunny-mega
+
+820	
+Giordan Dolan
+US
+12	4 - 4 - 0	57.55%	54.05%	
+gholdengolunatone
+
+821	
+Brendan Cevasco
+US
+12	4 - 4 - 0	57.34%	52.05%	
+iron-handsmagneton
+
+822	
+Tecara Newton
+CA
+12	4 - 4 - 0	56.88%	51.87%	
+dragapultdusknoir
+
+823	
+Kiefer Brown
+CA
+12	4 - 4 - 0	56.71%	51.33%	
+blaziken
+
+824	
+Olivia Peterson
+US
+12	4 - 3 - 0 drop	56.22%	56.19%	
+charizardnoctowl
+
+825	
+Jeffrey Falberg
+US
+12	4 - 4 - 0	56.14%	54.55%	
+gholdengolunatone
+
+826	
+Chris Barry
+US
+12	4 - 4 - 0	55.99%	49.27%	
+charizardnoctowl
+
+827	
+Eric Doan
+CA
+12	4 - 4 - 0	55.92%	52.54%	
+absol-megakangaskhan-mega
+
+828	
+Cristian Ferrie
+CA
+12	4 - 4 - 0	55.73%	54.35%	
+gardevoirjellicent
+
+829	
+Guocong Yan
+US
+12	4 - 4 - 0	55.62%	53.83%	
+charizardpidgeot
+
+830	
+Joshua Cataggatan
+US
+12	3 - 2 - 3	55.47%	53.96%	
+gholdengolunatone
+
+831	
+Anna Garcia
+US
+12	4 - 4 - 0	55.00%	54.73%	
+gardevoirjellicent
+
+832	
+Danielle Bernstein
+US
+12	3 - 2 - 3	54.95%	54.44%	
+gardevoirjellicent
+
+833	
+Adam Baltrusaitis
+US
+12	4 - 3 - 0 drop	54.80%	52.79%	
+dragapultdusknoir
+
+834	
+Brad Critchley
+CA
+12	4 - 4 - 0	54.43%	52.34%	
+charizardnoctowl
+
+835	
+Omar Francis
+US
+12	3 - 2 - 3	54.33%	52.46%	
+dragapultdusknoir
+
+836	
+Kenan Scott
+CA
+12	4 - 4 - 0	54.28%	48.14%	
+dragapultdusknoir
+
+837	
+Shawn Rochette
+CA
+12	4 - 4 - 0	54.17%	49.55%	
+dragapultdusknoir
+
+838	
+Ayana May
+US
+12	4 - 4 - 0	54.06%	51.30%	
+gardevoirjellicent
+
+839	
+Sam DiFrancesco
+CA
+12	4 - 4 - 0	54.02%	54.25%	
+charizardnoctowl
+
+840	
+Amber Hume
+US
+12	3 - 2 - 3	54.02%	52.39%	
+kangaskhan-megabouffalant
+
+841	
+Ryan Weid
+US
+12	3 - 2 - 3	53.91%	52.13%	
+alakazamdudunsparce
+
+842	
+Timmy Vu
+CA
+12	4 - 4 - 0	53.91%	51.44%	
+dipplinthwackey
+
+843	
+Joshua Soifer
+CA
+12	4 - 3 - 0 drop	53.57%	51.63%	
+charizardnoctowl
+
+844	
+Eric Thieleman
+US
+12	4 - 4 - 0	53.57%	49.79%	
+gholdengolunatone
+
+845	
+Roberto Donato
+CA
+12	4 - 4 - 0	53.50%	52.27%	
+alakazamdudunsparce
+
+846	
+Connor Barash
+US
+12	3 - 2 - 3	53.44%	53.62%	
+absol-megakangaskhan-mega
+
+847	
+Nick Illenz
+US
+12	4 - 4 - 0	53.24%	51.90%	
+gholdengolunatone
+
+848	
+Glenn Huang
+CA
+12	4 - 4 - 0	53.13%	53.91%	
+charizardpidgeot
+
+849	
+Owen Dalgard
+US
+12	4 - 4 - 0	53.13%	50.94%	
+dragapultdusknoir
+
+850	
+Brian Duong
+CA
+12	4 - 4 - 0	53.01%	49.37%	
+flareonnoctowl
+
+851	
+Joshua Guthrie
+CA
+12	3 - 2 - 3	52.72%	52.75%	
+alakazamdudunsparce
+
+852	
+Dewuiz Martinez
+US
+12	4 - 4 - 0	52.66%	53.79%	
+dragapultdusknoir
+
+853	
+Brian Ha
+US
+12	4 - 4 - 0	52.66%	53.56%	
+gholdengolunatone
+
+854	
+James Blanchard
+CA
+12	4 - 4 - 0	52.60%	53.81%	
+charizardnoctowl
+
+855	
+Christian Heighton
+CA
+12	4 - 4 - 0	52.60%	53.33%	
+gholdengolunatone
+
+856	
+Joshua Davies
+US
+12	4 - 4 - 0	52.54%	50.70%	
+dragapultdusknoir
+
+857	
+Leo Ray
+US
+12	3 - 2 - 3	52.43%	52.58%	
+gholdengolunatone
+
+858	
+Courtney Ravers
+US
+12	4 - 4 - 0	52.34%	52.41%	
+flareonnoctowl
+
+859	
+Seabass McChops
+US
+12	4 - 4 - 0	52.34%	51.61%	
+raging-boltogerpon
+
+860	
+Gilbert Chan
+CA
+12	3 - 2 - 3	52.34%	47.08%	
+gardevoirjellicent
+
+861	
+Carter Randall
+CA
+12	4 - 4 - 0	51.97%	53.01%	
+gardevoir
+
+862	
+Brian Morales
+US
+12	3 - 2 - 3	51.89%	52.45%	
+charizardnoctowl
+
+863	
+Dylan Clark
+US
+12	4 - 4 - 0	51.82%	52.36%	
+dragapultdusknoir
+
+864	
+Jayesh Madani
+US
+12	4 - 4 - 0	51.82%	50.20%	
+charizardnoctowl
+
+865	
+Jandaile De Guzman
+CA
+12	4 - 4 - 0	51.71%	53.90%	
+greninja
+
+866	
+Marvin Lu Banzon
+CA
+12	3 - 2 - 3	51.56%	51.31%	
+grimmsnarlfroslass
+
+867	
+Yafed Marrero
+US
+12	4 - 4 - 0	51.56%	46.22%	
+joltikpikachu
+
+868	
+Grayson Lang
+US
+12	4 - 4 - 0	51.35%	54.55%	
+gholdengolunatone
+
+869	
+Julian Worobiec
+CA
+12	4 - 4 - 0	51.35%	51.45%	
+dragapultdusknoir
+
+870	
+Matthew Tam
+US
+12	4 - 4 - 0	51.30%	50.95%	
+gardevoirjellicent
+
+871	
+Claire Freeman
+US
+12	4 - 4 - 0	51.04%	53.46%	
+gholdengolunatone
+
+872	
+luc Daigle
+CA
+12	4 - 4 - 0	51.04%	51.24%	
+raging-boltogerpon
+
+873	
+Adam Emerson
+US
+12	3 - 2 - 3	50.98%	49.59%	
+gardevoir
+
+874	
+Erik Arts
+CA
+12	4 - 4 - 0	50.89%	50.30%	
+gholdengolunatone
+
+875	
+Josh Todd
+CA
+12	4 - 4 - 0	50.78%	51.71%	
+raging-boltogerpon
+
+876	
+Tom Day
+CA
+12	4 - 4 - 0	50.76%	51.82%	
+charizardnoctowl
+
+877	
+George Ji
+CA
+12	4 - 4 - 0	50.57%	50.72%	
+gardevoirjellicent
+
+878	
+Andy Shen
+CA
+12	4 - 4 - 0	50.52%	48.90%	
+charizardpidgeot
+
+879	
+Benjamin Menzner
+US
+12	4 - 3 - 0 drop	50.51%	54.01%	
+dragapultdusknoir
+
+880	
+Connor Milne
+CA
+12	4 - 4 - 0	50.15%	48.17%	
+ceruledge
+
+881	
+Justin Patenaude
+CA
+12	3 - 2 - 3	50.14%	48.56%	
+substitute
+
+882	
+Shawn Brown
+CA
+12	3 - 2 - 3	49.89%	50.87%	
+lopunny-megadusknoir
+
+883	
+Eric Levchuk
+CA
+12	4 - 4 - 0	49.84%	54.77%	
+ceruledge
+
+884	
+Michael Carusillo
+US
+12	4 - 4 - 0	49.84%	51.43%	
+charizardnoctowl
+
+885	
+Kevin Castillo
+US
+12	3 - 2 - 3	49.84%	50.02%	
+charizardnoctowl
+
+886	
+Kelsie Cercone
+CA
+12	3 - 2 - 3	49.01%	50.75%	
+gardevoir
+
+887	
+Elijah John Valencia
+CA
+12	3 - 2 - 3	48.96%	47.34%	
+absol-megakangaskhan-mega
+
+888	
+Jon Carson
+CA
+12	4 - 4 - 0	48.75%	49.31%	
+gholdengolunatone
+
+889	
+Maxwell Johnson
+US
+12	4 - 4 - 0	48.75%	48.87%	
+substitute
+
+890	
+Kellan Jarvis
+US
+12	4 - 3 - 0 drop	48.67%	53.00%	
+noctowlogerpon-wellspring
+
+891	
+Sam Tran
+US
+12	4 - 4 - 0	48.64%	47.42%	
+gardevoir
+
+892	
+Ryan Smith
+US
+12	3 - 2 - 3	48.02%	49.59%	
+charizardnoctowl
+
+893	
+James Dougherty
+US
+12	4 - 4 - 0	47.97%	53.94%	
+dragapultdusknoir
+
+894	
+Gavin Pham
+CA
+12	3 - 2 - 3	47.97%	51.99%	
+charizardnoctowl
+
+895	
+David Edelson
+US
+12	4 - 4 - 0	47.97%	51.06%	
+lopunny-megadusknoir
+
+896	
+Joanne Burden
+CA
+12	3 - 2 - 3	47.88%	49.02%	
+ceruledge
+
+897	
+Sammy Allen
+US
+12	4 - 4 - 0	47.71%	54.39%	
+raging-boltogerpon
+
+898	
+Nathan Ritchie
+CA
+12	4 - 4 - 0	47.66%	53.60%	
+flareonnoctowl
+
+899	
+Austin Weiss-Laroche
+CA
+12	4 - 3 - 0 drop	47.65%	54.40%	
+gholdengolunatone
+
+900	
+Jason Martin
+CA
+12	4 - 4 - 0	47.54%	50.26%	
+gholdengolunatone
+
+901	
+Andrew Sicard
+CA
+12	3 - 2 - 3	47.34%	53.60%	
+dragapultdusknoir
+
+902	
+Robert Burley
+US
+12	3 - 2 - 3	47.24%	50.69%	
+charizardnoctowl
+
+903	
+Sevrin Layden
+US
+12	4 - 4 - 0	46.96%	49.56%	
+charizardnoctowl
+
+904	
+Marc-Olivier Boucher
+CA
+12	4 - 4 - 0	46.88%	46.80%	
+joltikpikachu
+
+905	
+Lucas Reyes
+CA
+12	4 - 4 - 0	46.76%	44.99%	
+toxtricityabsol-mega
+
+906	
+Eric Lin
+CA
+12	3 - 2 - 3	46.35%	48.82%	
+gardevoir
+
+907	
+Justin Bean
+US
+12	4 - 4 - 0	46.33%	52.68%	
+gholdengolunatone
+
+908	
+Michael Huddleston
+US
+12	4 - 4 - 0	46.09%	49.67%	
+dragapultdusknoir
+
+909	
+Hélène Moreau
+CA
+12	4 - 4 - 0	45.57%	46.25%	
+alakazamdudunsparce
+
+910	
+Joel Bergman
+CA
+12	4 - 4 - 0	45.50%	55.91%	
+joltikpikachu
+
+911	
+Casey Staten
+US
+12	4 - 4 - 0	45.46%	50.43%	
+gholdengolunatone
+
+912	
+Bryant Breier
+US
+12	4 - 4 - 0	45.31%	51.53%	
+seakingthwackey
+
+913	
+Caitlin Decker
+CA
+12	4 - 4 - 0	45.09%	49.91%	
+gholdengolunatone
+
+914	
+Alexander Green
+CA
+12	4 - 4 - 0	44.98%	51.27%	
+ceruledge
+
+915	
+Connor Kennedy
+CA
+12	4 - 4 - 0	44.98%	47.54%	
+gholdengolunatone
+
+916	
+Steven Hamula
+US
+12	4 - 4 - 0	44.79%	47.54%	
+gholdengolunatone
+
+917	
+Drew Hansen
+CA
+12	4 - 4 - 0	44.41%	50.85%	
+gholdengolunatone
+
+918	
+Songshan Guo
+CA
+12	4 - 4 - 0	44.27%	48.20%	
+dragapultdusknoir
+
+919	
+Brandon Juan Ringor
+US
+12	4 - 4 - 0	43.80%	49.81%	
+noctowlogerpon-wellspring
+
+920	
+Gabriel Bocsa
+CA
+12	4 - 4 - 0	43.74%	50.53%	
+zoroark
+
+921	
+Caleb Frost
+US
+12	4 - 4 - 0	43.64%	47.54%	
+gholdengolunatone
+
+922	
+Mihajlo Radic
+CA
+12	4 - 3 - 0 drop	43.57%	53.66%	
+greninja
+
+923	
+Benjamin Yeung
+CA
+12	4 - 4 - 0	43.23%	51.51%	
+charizardpidgeot
+
+924	
+EJ Crespo
+US
+12	4 - 4 - 0	43.23%	50.09%	
+flareonnoctowl
+
+925	
+Jonathan Andrews
+US
+12	4 - 4 - 0	42.71%	49.25%	
+gardevoirjellicent
+
+926	
+Kevin Corona
+US
+12	3 - 2 - 3	42.37%	48.90%	
+lucario-megahariyama
+
+927	
+Emily Brown
+US
+12	3 - 2 - 3	41.41%	49.04%	
+grimmsnarlfroslass
+
+928	
+Guillaume Pelletier
+CA
+12	4 - 4 - 0	41.29%	46.38%	
+gardevoirjellicent
+
+929	
+Kyle Shapcott
+US
+12	4 - 4 - 0	41.25%	44.91%	
+gholdengodudunsparce
+
+930	
+Emmett Lorenzen
+US
+12	4 - 4 - 0	40.51%	49.29%	
+gardevoir
+
+931	
+Cameron Henry
+CA
+12	4 - 4 - 0	40.14%	47.22%	
+ceruledge
+
+932	
+Iris Carnelian
+US
+12	4 - 4 - 0	39.84%	48.44%	
+flareonnoctowl
+
+933	
+Shawn Curtis
+US
+12	4 - 4 - 0	37.50%	44.71%	
+dragapultcharizard
+
+934	
+Quang Thong Ngo
+CA
+12	4 - 4 - 0	37.24%	45.70%	
+substitute
+
+935	
+Bryan Cresswell
+CA
+11	3 - 2 - 2 drop	65.82%	53.77%	
+alakazamdudunsparce
+
+936	
+Paul Boittiaux
+FR
+11	3 - 2 - 2 drop	64.39%	54.86%	
+dragapultdusknoir
+
+937	
+Brennon Conner
+US
+11	3 - 3 - 2	64.06%	53.71%	
+gardevoir
+
+938	
+Alex Crowe
+CA
+11	3 - 2 - 2 drop	63.88%	53.69%	
+raging-boltogerpon
+
+939	
+Connor Keyes
+US
+11	3 - 3 - 2	60.16%	52.94%	
+charizardnoctowl
+
+940	
+Joseph Bjerg
+US
+11	3 - 3 - 2	58.91%	54.40%	
+gardevoirjellicent
+
+941	
+Michele Schiraldi
+CA
+11	3 - 3 - 2	58.71%	51.75%	
+gardevoir
+
+942	
+Jeroni Mestres
+CA
+11	3 - 3 - 2	58.59%	55.06%	
+charizardnoctowl
+
+943	
+David Regalado
+US
+11	3 - 3 - 2	58.59%	50.73%	
+alakazamdudunsparce
+
+944	
+Gabriel Smart
+US
+11	3 - 3 - 2	58.48%	55.84%	
+gholdengolunatone
+
+945	
+Joseph Zhu
+US
+11	3 - 3 - 2	58.37%	49.72%	
+gholdengolunatone
+
+946	
+Ryan Ferry
+US
+11	3 - 3 - 2	58.13%	50.25%	
+gholdengolunatone
+
+947	
+Rohaan Huda
+CA
+11	3 - 3 - 2	57.03%	54.16%	
+absol-megakangaskhan-mega
+
+948	
+Kyle Full
+US
+11	3 - 3 - 2	56.82%	50.92%	
+charizardpidgeot
+
+949	
+salvador cedillo
+US
+11	3 - 3 - 2	55.99%	50.83%	
+zoroark
+
+950	
+Christian Loza
+US
+11	3 - 2 - 2 drop	55.82%	56.10%	
+ceruledge
+
+951	
+Jason Bruce
+US
+11	3 - 3 - 2	55.78%	55.77%	
+ceruledge
+
+952	
+Brody Brochu
+CA
+11	3 - 3 - 2	55.73%	56.95%	
+charizardnoctowl
+
+953	
+Erick Mejia Uzeda
+CA
+11	3 - 3 - 2	55.31%	53.37%	
+gardevoirjellicent
+
+954	
+Jingyang Ng
+SG
+11	3 - 2 - 2 drop	55.31%	53.45%	
+gardevoir
+
+955	
+Bryan Medina
+US
+11	3 - 3 - 2	55.00%	48.41%	
+gholdengolunatone
+
+956	
+Madeo Arturi
+CA
+11	3 - 3 - 2	54.69%	52.57%	
+grimmsnarlfroslass
+
+957	
+Mackenzie Laramie
+CA
+11	3 - 3 - 2	54.69%	50.02%	
+charizardpidgeot
+
+958	
+Jacob Ritson
+CA
+11	3 - 3 - 2	54.58%	50.57%	
+absol-megakangaskhan-mega
+
+959	
+jenna fenwick
+CA
+11	3 - 3 - 2	54.58%	50.57%	
+dragapultdusknoir
+
+960	
+Edward Soto Jr.
+US
+11	3 - 3 - 2	54.43%	55.04%	
+gholdengolunatone
+
+961	
+Johnny Tam
+CA
+11	3 - 3 - 2	54.43%	50.27%	
+gardevoir
+
+962	
+Ryan Krats
+CA
+11	3 - 3 - 2	54.33%	51.14%	
+zoroark
+
+963	
+James Wang
+CA
+11	2 - 0 - 5 drop	54.08%	52.05%	
+dragapultdusknoir
+
+964	
+Ellie Serrano
+US
+11	3 - 3 - 2	53.86%	52.72%	
+grimmsnarlfroslass
+
+965	
+Adam Cowie
+CA
+11	3 - 3 - 2	53.79%	53.20%	
+gholdengolunatone
+
+966	
+Émile Lalande
+CA
+11	3 - 2 - 2 drop	53.33%	53.40%	
+raging-boltogerpon
+
+967	
+Jacob Crittenden
+CA
+11	3 - 2 - 2 drop	53.06%	55.73%	
+charizardnoctowl
+
+968	
+Matteo Distefano
+CA
+11	3 - 3 - 2	53.01%	51.50%	
+dragapultdusknoir
+
+969	
+Mason Bowser
+US
+11	3 - 3 - 2	52.97%	51.32%	
+zoroark
+
+970	
+Joel Emerson
+CA
+11	3 - 3 - 2	52.97%	50.49%	
+dragapultdusknoir
+
+971	
+Jeff Su
+CA
+11	3 - 3 - 2	52.92%	49.01%	
+gardevoir
+
+972	
+Allen Terry
+US
+11	3 - 3 - 2	52.86%	55.38%	
+kangaskhan-megabouffalant
+
+973	
+Jeffrey Dancause
+CA
+11	3 - 3 - 2	52.66%	52.63%	
+mewtwospidops
+
+974	
+cory jackson
+US
+11	3 - 2 - 2 drop	52.55%	52.30%	
+charizardnoctowl
+
+975	
+Konstantinos Kousidis
+US
+11	3 - 3 - 2	52.34%	48.75%	
+dragapultdusknoir
+
+976	
+George Alonso
+US
+11	3 - 3 - 2	52.32%	51.20%	
+dragapultdusknoir
+
+977	
+LUCA CACCAVELLA
+CA
+11	3 - 3 - 2	51.90%	51.85%	
+gholdengolunatone
+
+978	
+William Yin
+CA
+11	3 - 3 - 2	51.71%	51.08%	
+grimmsnarlfroslass
+
+979	
+Alejandro Vina
+CA
+11	3 - 2 - 2 drop	51.63%	53.61%	
+charizardnoctowl
+
+980	
+Gabriel Boisclair
+CA
+11	3 - 3 - 2	51.61%	48.02%	
+charizardnoctowl
+
+981	
+Davey McGinnis
+US
+11	3 - 3 - 2	51.56%	53.11%	
+gholdengolunatone
+
+982	
+Ryan Hughes
+US
+11	3 - 3 - 2	51.56%	49.31%	
+gardevoir
+
+983	
+Cody Criner
+US
+11	3 - 3 - 2	51.50%	51.56%	
+gholdengolunatone
+
+984	
+Chase Hoffman
+US
+11	3 - 3 - 2	51.34%	45.84%	
+charizardnoctowl
+
+985	
+Nicholas Frank
+US
+11	3 - 3 - 2	51.04%	49.66%	
+palafin-hero
+
+986	
+Alex Cowen
+CA
+11	2 - 1 - 5	50.52%	48.23%	
+dragapultdusknoir
+
+987	
+Gabriel Dupuy
+CA
+11	3 - 2 - 2 drop	50.34%	50.75%	
+gardevoirjellicent
+
+988	
+Ethan Majidi
+CA
+11	3 - 2 - 2 drop	50.27%	49.94%	
+gardevoir
+
+989	
+Noah Delmundo
+CA
+11	3 - 3 - 2	50.00%	55.49%	
+gholdengolunatone
+
+990	
+Anthony Cazzola
+US
+11	3 - 3 - 2	50.00%	49.97%	
+gholdengolunatone
+
+991	
+Himmuth Singh
+CA
+11	3 - 3 - 2	49.88%	49.81%	
+grimmsnarlfroslass
+
+992	
+Daniel Leighton
+CA
+11	3 - 3 - 2	49.83%	47.81%	
+gholdengolunatone
+
+993	
+Jerry Xue
+CA
+11	3 - 3 - 2	49.69%	51.49%	
+kangaskhan-megabouffalant
+
+994	
+Janakan Sanmugakumar
+CA
+11	3 - 3 - 2	49.67%	51.06%	
+raging-boltogerpon
+
+995	
+Erick Jason Reyno
+US
+11	3 - 3 - 2	49.48%	49.66%	
+charizardpidgeot
+
+996	
+Callie Moore
+CA
+11	3 - 3 - 2	49.37%	51.41%	
+gholdengolunatone
+
+997	
+Eugene Garcia
+CA
+11	3 - 3 - 2	49.37%	49.42%	
+gholdengotyphlosion
+
+998	
+Antoine Perrot
+CA
+11	3 - 3 - 2	49.22%	48.51%	
+zoroark
+
+999	
+Randall Ni
+CA
+11	3 - 3 - 2	48.85%	50.65%	
+gholdengolunatone
+
+1000	
+Andrew Varenhorst
+US
+11	3 - 3 - 2	48.75%	50.12%	
+noctowlogerpon-wellspring
+
+1001	
+Gerardo Galvez
+CL
+11	3 - 3 - 2	47.66%	52.99%	
+charizardnoctowl
+
+1002	
+Alex Chandler
+US
+11	3 - 2 - 2 drop	47.65%	51.36%	
+charizardnoctowl
+
+1003	
+Matthew Sonachansingh
+CA
+11	3 - 3 - 2	47.58%	51.74%	
+gardevoirjellicent
+
+1004	
+Keunhyuk Choi
+US
+11	3 - 3 - 2	47.50%	51.01%	
+grimmsnarlfroslass
+
+1005	
+Aurora Foxworth
+US
+11	3 - 3 - 2	47.50%	50.39%	
+gardevoir
+
+1006	
+Maxwell Wyatt
+US
+11	3 - 3 - 2	47.06%	49.60%	
+charizardnoctowl
+
+1007	
+Hannah Mandell
+US
+11	3 - 3 - 2	47.06%	48.39%	
+grimmsnarlfroslass
+
+1008	
+Patrick McKay
+CA
+11	3 - 3 - 2	46.98%	48.08%	
+gardevoir
+
+1009	
+Dylan Leonard
+CA
+11	3 - 3 - 2	46.61%	44.92%	
+gardevoirjellicent
+
+1010	
+Christopher Wu
+CA
+11	3 - 3 - 2	46.09%	50.51%	
+gholdengolunatone
+
+1011	
+Edelgard Fox
+US
+11	3 - 3 - 2	46.09%	50.14%	
+dragapultdusknoir
+
+1012	
+Errol Gonsalves
+CA
+11	3 - 3 - 2	45.98%	46.37%	
+gholdengo
+
+1013	
+Tyler Elliott
+US
+11	3 - 3 - 2	45.61%	50.18%	
+gholdengolunatone
+
+1014	
+Gabriel Shih
+US
+11	3 - 3 - 2	45.42%	51.15%	
+gardevoir
+
+1015	
+Jessie DAndrea
+US
+11	3 - 3 - 2	45.31%	50.75%	
+gholdengolunatone
+
+1016	
+Thomas Wolf
+US
+11	3 - 3 - 2	45.00%	50.14%	
+gholdengolunatone
+
+1017	
+Noah Hathaway
+US
+11	3 - 3 - 2	44.79%	53.00%	
+ceruledge
+
+1018	
+Daniel Cinelli
+CA
+11	3 - 3 - 2	44.64%	47.72%	
+gholdengolunatone
+
+1019	
+Jaime Cortes
+MX
+11	3 - 3 - 2	44.27%	48.05%	
+kangaskhan-megabouffalant
+
+1020	
+Tyler Bottom
+US
+11	3 - 3 - 2	43.75%	48.28%	
+gholdengolunatone
+
+1021	
+Matthew Warren
+CA
+11	3 - 3 - 2	43.75%	47.17%	
+dragapultdusknoir
+
+1022	
+Andrew Spoelstra
+US
+11	3 - 3 - 2	43.75%	46.43%	
+gardevoir
+
+1023	
+Emily Louie
+CA
+11	2 - 1 - 5	43.64%	47.47%	
+charizardpidgeot
+
+1024	
+Vincent Phung
+CA
+11	3 - 3 - 2	43.27%	49.41%	
+gardevoir
+
+1025	
+Ian Gridley
+US
+11	3 - 3 - 2	43.23%	49.56%	
+gardevoirjellicent
+
+1026	
+Justin Slowik
+US
+11	3 - 3 - 2	42.97%	47.91%	
+gholdengolunatone
+
+1027	
+Sanjeev Viswan
+US
+11	3 - 3 - 2	42.97%	47.70%	
+gardevoirjellicent
+
+1028	
+Andrew Haga
+US
+11	3 - 3 - 2	42.34%	49.38%	
+dragapultcharizard
+
+1029	
+Greg Minklei
+US
+11	3 - 3 - 2	41.72%	49.24%	
+zoroark
+
+1030	
+Jayden Galita
+CA
+11	3 - 3 - 2	41.41%	48.81%	
+charizardnoctowl
+
+1031	
+Cordell Chigbrow
+US
+11	3 - 3 - 2	40.62%	47.70%	
+greninja
+
+1032	
+Wing Hong So
+CA
+11	3 - 3 - 2	40.04%	52.95%	
+charizardnoctowl
+
+1033	
+Ethan Siu
+CA
+11	3 - 3 - 2	39.90%	48.64%	
+typhlosion
+
+1034	
+Lincoln Jung
+CA
+11	3 - 3 - 2	39.83%	50.23%	
+gholdengolunatone
+
+1035	
+Izabella Ogburn
+US
+11	3 - 3 - 2	39.82%	49.85%	
+ceruledge
+
+1036	
+Rene Aquino
+CA
+11	3 - 3 - 2	39.69%	54.30%	
+gholdengolunatone
+
+1037	
+Bryce Gray
+CA
+11	3 - 3 - 2	37.76%	51.10%	
+sharpedo-megatoxtricity
+
+1038	
+Anson Chen
+CA
+10	3 - 3 - 1 drop	72.45%	54.23%	
+charizardnoctowl
+
+1039	
+Anthony Chernyak
+CA
+10	3 - 3 - 1 drop	65.31%	56.01%	
+substitute
+
+1040	
+Iyla Sutherland
+US
+10	3 - 3 - 1 drop	64.29%	52.11%	
+iron-thornscrustle
+
+1041	
+Alejandro Flores
+US
+10	3 - 3 - 1 drop	64.29%	50.81%	
+gholdengolunatone
+
+1042	
+Zachary Shook
+US
+10	3 - 4 - 1	62.24%	54.82%	
+grimmsnarlfroslass
+
+1043	
+Jayson Donnelly
+CA
+10	3 - 4 - 1	61.72%	57.09%	
+gholdengolunatone
+
+1044	
+James Fitzgerald
+CA
+10	3 - 4 - 1	60.94%	50.85%	
+dragapultdusknoir
+
+1045	
+Lucas Bolt
+US
+10	3 - 3 - 1 drop	60.20%	50.36%	
+gholdengolunatone
+
+1046	
+Jaime Garcia
+CA
+10	3 - 4 - 1	60.16%	49.64%	
+gholdengolunatone
+
+1047	
+Brian Mackes
+US
+10	3 - 4 - 1	59.93%	48.93%	
+ceruledge
+
+1048	
+Daniel Serrano Fernandez
+US
+10	3 - 4 - 1	59.69%	52.69%	
+gholdengolunatone
+
+1049	
+Yucong Shi
+CA
+10	3 - 4 - 1	59.38%	55.74%	
+lucario-megahariyama
+
+1050	
+Malthe Bogø
+DK
+10	3 - 4 - 1	59.38%	51.82%	
+charizardnoctowl
+
+1051	
+Jacob Gillette
+US
+10	3 - 3 - 1 drop	59.01%	52.70%	
+dragapult
+
+1052	
+Anthony Spanitz
+US
+10	3 - 3 - 1 drop	58.84%	53.48%	
+conkeldurr
+
+1053	
+Dylan King
+CA
+10	3 - 3 - 1 drop	58.16%	50.19%	
+gholdengolunatone
+
+1054	
+Andre Segarra
+US
+10	3 - 2 - 1 drop	58.06%	57.78%	
+substitute
+
+1055	
+Devin Steisel
+US
+10	3 - 3 - 1 drop	57.24%	55.75%	
+gardevoir
+
+1056	
+Victor Lam
+CA
+10	3 - 3 - 1 drop	57.14%	55.71%	
+charizardpidgeot
+
+1057	
+Dave Bergeron Tremblay
+CA
+10	3 - 4 - 1	57.03%	50.56%	
+grimmsnarlfroslass
+
+1058	
+Logan Chayer
+CA
+10	3 - 4 - 1	57.03%	49.45%	
+charizardnoctowl
+
+1059	
+Chad Kelley
+US
+10	3 - 2 - 1 drop	56.94%	51.66%	
+gardevoirjellicent
+
+1060	
+James Juliano
+US
+10	3 - 4 - 1	56.51%	49.28%	
+gholdengolunatone
+
+1061	
+Adam Jordan
+CA
+10	2 - 2 - 4	56.25%	49.31%	
+gardevoirjellicent
+
+1062	
+Alejandro Garcia
+US
+10	3 - 4 - 1	56.25%	48.12%	
+lopunny-megadusknoir
+
+1063	
+James Jiang
+CA
+10	3 - 3 - 1 drop	56.12%	49.95%	
+gardevoirjellicent
+
+1064	
+Eric Brodeur
+US
+10	3 - 3 - 1 drop	56.12%	48.54%	
+gardevoir
+
+1065	
+Serhat Ciftci
+CA
+10	3 - 4 - 1	56.03%	48.51%	
+gholdengolunatone
+
+1066	
+Konstantinos Krikelis
+CA
+10	3 - 4 - 1	55.83%	49.71%	
+charizardpidgeot
+
+1067	
+eric laforet
+CA
+10	3 - 4 - 1	55.68%	50.64%	
+gholdengolunatone
+
+1068	
+Blake Daryaie
+US
+10	3 - 4 - 1	55.25%	51.68%	
+gardevoir
+
+1069	
+Zak Braun
+US
+10	3 - 4 - 1	55.25%	46.49%	
+charizardnoctowl
+
+1070	
+Joshua Javillo
+US
+10	3 - 4 - 1	55.21%	49.87%	
+charizardnoctowl
+
+1071	
+Alexander LeaTrea
+US
+10	3 - 4 - 1	55.21%	47.37%	
+ceruledge
+
+1072	
+Adam Orfao
+CA
+10	3 - 4 - 1	54.74%	53.12%	
+dragapult
+
+1073	
+Jacob Pellizzon
+CA
+10	3 - 4 - 1	54.69%	48.60%	
+dragapultcharizard
+
+1074	
+Carter Duong
+US
+10	3 - 4 - 1	54.43%	51.32%	
+gardevoir
+
+1075	
+Neil Ong
+CA
+10	3 - 4 - 1	54.43%	46.89%	
+charizardnoctowl
+
+1076	
+Andrew Liu
+CA
+10	3 - 3 - 1 drop	54.42%	50.43%	
+dragapultdusknoir
+
+1077	
+Spencer Gilreath
+US
+10	3 - 4 - 1	54.32%	50.28%	
+gardevoir
+
+1078	
+Braydon Castle
+CA
+10	3 - 4 - 1	54.27%	51.37%	
+charizardnoctowl
+
+1079	
+Koki Takanashi
+US
+10	3 - 4 - 1	54.27%	50.62%	
+zoroark
+
+1080	
+David Hughlett
+US
+10	3 - 4 - 1	54.22%	46.96%	
+gardevoirjellicent
+
+1081	
+Cor Vanderwolf
+CA
+10	3 - 3 - 1 drop	53.91%	47.98%	
+gholdengolunatone
+
+1082	
+Neal Stuntz
+US
+10	3 - 4 - 1	53.91%	51.93%	
+gholdengolunatone
+
+1083	
+Leander Chatfield
+US
+10	3 - 4 - 1	53.68%	52.39%	
+greninja
+
+1084	
+Mario Vivas
+CA
+10	3 - 4 - 1	53.68%	51.78%	
+raging-boltbellibolt
+
+1085	
+Juan Pablo Gaitan Torrente
+CO
+10	3 - 4 - 1	53.65%	50.67%	
+zoroark
+
+1086	
+Sam Gulas
+US
+10	3 - 4 - 1	53.39%	54.26%	
+chien-paobaxcalibur
+
+1087	
+Kevin Zhu
+CA
+10	3 - 4 - 1	53.39%	52.06%	
+gardevoir
+
+1088	
+Stephen Lowe
+US
+10	3 - 3 - 1 drop	53.32%	54.24%	
+kangaskhan-megabouffalant
+
+1089	
+Christopher Perry
+CA
+10	3 - 4 - 1	53.13%	52.58%	
+zoroark
+
+1090	
+Zhen Zhang
+US
+10	3 - 4 - 1	53.13%	51.60%	
+gholdengolunatone
+
+1091	
+Tian jin
+CA
+10	3 - 4 - 1	52.97%	51.44%	
+gholdengolunatone
+
+1092	
+Daniel Kus
+US
+10	3 - 4 - 1	52.90%	46.87%	
+charizardnoctowl
+
+1093	
+Matthew Lovern
+US
+10	3 - 4 - 1	52.66%	52.63%	
+gardevoirjellicent
+
+1094	
+Jake Santiago
+CA
+10	3 - 3 - 1 drop	52.65%	45.34%	
+gholdengolunatone
+
+1095	
+Caleb Becker
+US
+10	3 - 4 - 1	52.34%	49.25%	
+gholdengolunatone
+
+1096	
+Adam Mohney
+US
+10	3 - 4 - 1	52.14%	49.06%	
+kangaskhan-megabouffalant
+
+1097	
+Brandon Mcnorton
+CA
+10	3 - 4 - 1	52.08%	50.13%	
+gardevoirjellicent
+
+1098	
+Erick Emmanuel Villaseñor Chagoya
+MX
+10	3 - 4 - 1	51.90%	51.55%	
+dragapultdusknoir
+
+1099	
+Chun Kit Li
+CA
+10	3 - 4 - 1	51.82%	50.10%	
+venusaur-mega
+
+1100	
+Kolton Kovac
+US
+10	3 - 4 - 1	51.56%	56.22%	
+charizardnoctowl
+
+1101	
+Amberly Lozano
+US
+10	3 - 4 - 1	51.56%	50.33%	
+gholdengolunatone
+
+1102	
+Daniel Carranza Bonilla
+US
+10	3 - 3 - 1 drop	51.53%	52.85%	
+joltikpikachu
+
+1103	
+Elijah Talley
+US
+10	2 - 1 - 4 drop	51.36%	48.82%	
+venusaur-mega
+
+1104	
+Frank Richardson
+US
+10	3 - 4 - 1	51.34%	53.49%	
+charizardnoctowl
+
+1105	
+Alexander Chea
+US
+10	3 - 4 - 1	51.30%	49.63%	
+charizardpidgeot
+
+1106	
+Vaughn Weber
+US
+10	3 - 4 - 1	51.30%	49.41%	
+charizardpidgeot
+
+1107	
+Anthony Di Carlo
+CA
+10	3 - 4 - 1	51.30%	48.51%	
+raging-boltogerpon
+
+1108	
+Andrew Jiang
+CA
+10	3 - 4 - 1	51.30%	48.10%	
+gardevoirjellicent
+
+1109	
+aaron wang
+CA
+10	3 - 4 - 1	51.15%	50.63%	
+gholdengolunatone
+
+1110	
+Bill Li
+CA
+10	3 - 3 - 1 drop	51.02%	50.00%	
+gardevoirjellicent
+
+1111	
+Juan Ipiales Higuita
+CA
+10	3 - 4 - 1	50.78%	50.47%	
+dragapultdusknoir
+
+1112	
+Christian Villarosa
+US
+10	3 - 4 - 1	50.78%	50.16%	
+kangaskhan-megabouffalant
+
+1113	
+Andrew Banwell
+US
+10	3 - 3 - 1 drop	50.54%	50.07%	
+charizardnoctowl
+
+1114	
+Eric Lau
+CA
+10	3 - 4 - 1	50.52%	50.37%	
+kangaskhan-megabouffalant
+
+1115	
+Kevin Gomez
+CA
+10	3 - 3 - 1 drop	50.44%	52.52%	
+charizardnoctowl
+
+1116	
+Robbie Boone
+US
+10	3 - 4 - 1	50.15%	48.50%	
+gholdengolunatone
+
+1117	
+Henry Zhou
+US
+10	3 - 4 - 1	50.05%	54.83%	
+gholdengolunatone
+
+1118	
+Alex Ognjanovic
+CA
+10	3 - 3 - 1 drop	50.03%	48.53%	
+iron-handsmagneton
+
+1119	
+Dominic Lo
+TH
+10	3 - 4 - 1	49.79%	50.73%	
+gardevoir
+
+1120	
+Nicholas Hughes
+US
+10	3 - 4 - 1	49.78%	50.88%	
+gholdengolunatone
+
+1121	
+Jack Rudzitis
+CA
+10	3 - 4 - 1	49.74%	52.45%	
+dragapultdusknoir
+
+1122	
+Daniel Zhou
+CA
+10	3 - 4 - 1	49.74%	50.50%	
+gholdengolunatone
+
+1123	
+Ashley Haskins
+US
+10	3 - 4 - 1	49.68%	49.72%	
+alakazamdudunsparce
+
+1124	
+Lauren Green
+CA
+10	3 - 4 - 1	49.62%	50.71%	
+ceruledge
+
+1125	
+Matthew Hernandez
+CA
+10	3 - 4 - 1	49.57%	53.31%	
+charizardnoctowl
+
+1126	
+Jonathan French
+US
+10	3 - 4 - 1	49.48%	49.02%	
+venusaur-mega
+
+1127	
+Noah Gardner
+US
+10	3 - 4 - 1	49.48%	47.97%	
+dragapultdusknoir
+
+1128	
+Juan Carlos Casasola Cacho
+MX
+10	2 - 2 - 4	49.40%	52.42%	
+dragapultdusknoir
+
+1129	
+Nathan Hollar
+US
+10	3 - 4 - 1	49.26%	49.29%	
+gholdengolunatone
+
+1130	
+Justin Kim
+CA
+10	3 - 4 - 1	49.22%	48.60%	
+charizardpidgeot
+
+1131	
+Sean Webster
+US
+10	3 - 4 - 1	49.00%	47.45%	
+alakazamdudunsparce
+
+1132	
+Ethan Chapman
+US
+10	3 - 3 - 1 drop	48.98%	49.45%	
+gholdengolunatone
+
+1133	
+Donny McCoy
+US
+10	3 - 4 - 1	48.96%	51.86%	
+noctowlogerpon-wellspring
+
+1134	
+Aurius Keanu Medalla
+CA
+10	3 - 4 - 1	48.96%	49.72%	
+meowscarada
+
+1135	
+Alberto Bonsanto
+MX
+10	3 - 4 - 1	48.70%	52.05%	
+gardevoir
+
+1136	
+Izzy Zoltan
+US
+10	3 - 3 - 1 drop	48.50%	48.57%	
+zoroark
+
+1137	
+John Cameron Reilley
+US
+10	3 - 4 - 1	48.44%	49.69%	
+ceruledge
+
+1138	
+ERL ETORMA
+CA
+10	3 - 4 - 1	48.28%	47.16%	
+charizardnoctowl
+
+1139	
+Anthony Ellis
+US
+10	3 - 4 - 1	48.18%	46.53%	
+gholdengojoltik
+
+1140	
+Kabir Virji
+CA
+10	3 - 4 - 1	47.95%	48.24%	
+gardevoir
+
+1141	
+Jonathan Santana
+US
+10	3 - 4 - 1	47.92%	48.30%	
+noctowlogerpon-wellspring
+
+1142	
+Tianyang Yang
+CA
+10	3 - 4 - 1	47.92%	47.93%	
+gholdengolunatone
+
+1143	
+Kelvin Zhang
+US
+10	2 - 2 - 4	47.66%	49.76%	
+dragapultdusknoir
+
+1144	
+Melanie Cousineau
+CA
+10	3 - 4 - 1	47.66%	48.36%	
+alakazamdudunsparce
+
+1145	
+Alexander Van
+CA
+10	3 - 4 - 1	47.50%	47.40%	
+noctowlogerpon-wellspring
+
+1146	
+Paul Cote
+CA
+10	3 - 3 - 1 drop	47.48%	52.83%	
+dragapultdusknoir
+
+1147	
+Ari Spruill
+US
+10	3 - 3 - 1 drop	47.45%	54.36%	
+gardevoirjellicent
+
+1148	
+Megan Dietrick
+US
+10	3 - 4 - 1	47.40%	50.54%	
+typhlosion
+
+1149	
+Jonathan Gazmen
+CA
+10	3 - 4 - 1	47.40%	50.06%	
+kangaskhan-megabouffalant
+
+1150	
+Donovan Toro
+US
+10	3 - 4 - 1	47.32%	48.30%	
+dragapultdusknoir
+
+1151	
+Natalie Miller
+US
+10	3 - 4 - 1	47.19%	51.08%	
+roaring-moondudunsparce
+
+1152	
+Fenghua Li
+CA
+10	3 - 4 - 1	47.19%	44.88%	
+gardevoir
+
+1153	
+Rebecca Gaul
+US
+10	3 - 3 - 1 drop	47.11%	51.36%	
+dragapultdusknoir
+
+1154	
+Kevin Endrijaitis
+US
+10	3 - 4 - 1	47.03%	45.73%	
+gardevoirjellicent
+
+1155	
+Nate Sienkiewicz
+US
+10	3 - 4 - 1	46.88%	48.16%	
+charizardnoctowl
+
+1156	
+Gordy Brown
+US
+10	3 - 4 - 1	46.88%	47.17%	
+alakazamdudunsparce
+
+1157	
+Joshua Busch
+US
+10	3 - 4 - 1	46.72%	48.62%	
+lucario-megahariyama
+
+1158	
+Sarah Harvey
+CA
+10	3 - 4 - 1	46.65%	47.88%	
+gholdengolunatone
+
+1159	
+Aidan Tauber
+US
+10	3 - 4 - 1	46.54%	49.59%	
+gholdengolunatone
+
+1160	
+Elias Photopoulos
+US
+10	3 - 3 - 1 drop	46.53%	54.38%	
+gholdengolunatone
+
+1161	
+Ivan Rodrguez
+US
+10	3 - 4 - 1	46.46%	50.64%	
+gholdengolunatone
+
+1162	
+Nicholas Ly
+CA
+10	3 - 3 - 1 drop	46.43%	51.12%	
+charizardpidgeot
+
+1163	
+Steven Slowka
+CA
+10	3 - 4 - 1	46.09%	48.16%	
+flareonnoctowl
+
+1164	
+Drew Reeves
+US
+10	3 - 4 - 1	46.09%	44.45%	
+alakazamdudunsparce
+
+1165	
+corey duong
+US
+10	3 - 4 - 1	45.98%	47.50%	
+dragapultdusknoir
+
+1166	
+Jason Tan
+CA
+10	3 - 4 - 1	45.94%	48.36%	
+noctowlogerpon-wellspring
+
+1167	
+Mark Aberin
+CA
+10	3 - 3 - 1 drop	45.92%	47.35%	
+gholdengolunatone
+
+1168	
+Eui Cho
+US
+10	3 - 3 - 1 drop	45.90%	49.15%	
+dragapultdusknoir
+
+1169	
+Jonathan Mak
+CA
+10	3 - 4 - 1	45.83%	47.74%	
+gholdengolunatone
+
+1170	
+Mitch Baldwin
+CA
+10	3 - 3 - 1 drop	45.75%	49.60%	
+ursaluna-bloodmoonlunatone
+
+1171	
+Benjamin Barreto
+US
+10	3 - 3 - 1 drop	45.58%	54.19%	
+substitute
+
+1172	
+Éli St-Hilaire
+CA
+10	3 - 4 - 1	45.31%	47.40%	
+grimmsnarlfroslass
+
+1173	
+Evan Proctor
+US
+10	3 - 4 - 1	45.31%	44.62%	
+charizardnoctowl
+
+1174	
+Jamie Aldcorn
+CA
+10	3 - 4 - 1	45.31%	44.51%	
+raging-boltogerpon
+
+1175	
+Brad Taylor
+UK
+10	3 - 4 - 1	45.16%	49.49%	
+gholdengolunatone
+
+1176	
+Connor Yetman
+CA
+10	3 - 4 - 1	44.90%	52.07%	
+absol-megakangaskhan-mega
+
+1177	
+Samuel Castellano
+CA
+10	2 - 2 - 4	44.79%	49.31%	
+gardevoir
+
+1178	
+James Washer
+US
+10	3 - 4 - 1	44.79%	47.55%	
+kangaskhan-megabouffalant
+
+1179	
+Ashton Meace
+CA
+10	3 - 3 - 1 drop	44.69%	54.02%	
+gholdengolunatone
+
+1180	
+Avery Biggers
+US
+10	3 - 4 - 1	44.62%	46.09%	
+alakazamdudunsparce
+
+1181	
+Samantha Sudhai
+CA
+10	3 - 3 - 1 drop	44.42%	48.66%	
+charizardnoctowl
+
+1182	
+Gabriel Machabée
+CA
+10	3 - 4 - 1	44.27%	54.19%	
+raging-boltogerpon
+
+1183	
+James Merrick
+CA
+10	3 - 4 - 1	44.15%	45.55%	
+charizardnoctowl
+
+1184	
+Samantha Kuhn
+US
+10	3 - 3 - 1 drop	43.88%	48.83%	
+gholdengolunatone
+
+1185	
+Alec Avedissian
+CA
+10	3 - 4 - 1	43.44%	53.20%	
+dragapultdusknoir
+
+1186	
+David Stressman
+US
+10	3 - 4 - 1	43.26%	48.58%	
+dragapultdusknoir
+
+1187	
+Stephanie Bennet
+US
+10	3 - 4 - 1	42.97%	46.96%	
+alakazamdudunsparce
+
+1188	
+Ruochen Tang
+US
+10	1 - 0 - 7	42.70%	48.27%	
+zoroark
+
+1189	
+William Milne
+CA
+10	3 - 3 - 1 drop	42.55%	49.69%	
+gardevoirjellicent
+
+1190	
+Vincent Geiger
+US
+10	3 - 4 - 1	42.50%	46.51%	
+gardevoirjellicent
+
+1191	
+Chase Farley
+US
+10	3 - 4 - 1	42.40%	44.56%	
+gholdengolunatone
+
+1192	
+Dartagnan Fancher
+US
+10	3 - 4 - 1	42.26%	46.03%	
+charizardnoctowl
+
+1193	
+YOHEI WATAI
+JP
+10	2 - 2 - 4	42.22%	47.05%	
+noctowlogerpon-wellspring
+
+1194	
+Michael Bergeron
+US
+10	3 - 4 - 1	42.19%	47.76%	
+charizardpidgeot
+
+1195	
+Matthew Tam
+CA
+10	3 - 4 - 1	42.08%	47.12%	
+garchomp
+
+1196	
+Tommy Dussault
+CA
+10	3 - 4 - 1	41.96%	49.11%	
+dragapultdusknoir
+
+1197	
+Riley Janowicz
+US
+10	3 - 4 - 1	41.55%	49.90%	
+greninja
+
+1198	
+Jean-Christophe Fournier
+CA
+10	2 - 2 - 4	41.46%	48.73%	
+flareonnoctowl
+
+1199	
+Ben Sofer
+US
+10	3 - 4 - 1	41.41%	48.57%	
+hydreigon
+
+1200	
+Ben Helsel
+US
+10	3 - 4 - 1	41.25%	47.52%	
+dragapultdusknoir
+
+1201	
+Ryan Chan
+US
+10	3 - 4 - 1	40.63%	44.31%	
+dragapultdusknoir
+
+1202	
+Dominic Cote
+CA
+10	3 - 4 - 1	40.47%	46.09%	
+kangaskhan-megabouffalant
+
+1203	
+Conan Craig
+US
+10	3 - 4 - 1	40.40%	50.21%	
+dragapultdusknoir
+
+1204	
+Mathieu Guay
+CA
+10	3 - 4 - 1	40.36%	48.23%	
+seakingthwackey
+
+1205	
+Joshua Gracia
+US
+10	3 - 3 - 1 drop	38.61%	49.77%	
+gholdengojoltik
+
+1206	
+John Dionido
+CA
+10	3 - 3 - 1 drop	34.01%	49.24%	
+gholdengolunatone
+
+1207	
+Nick Hope
+CA
+9	3 - 3 - 0 drop	69.44%	48.19%	
+greninja
+
+1208	
+Tyler Znoj
+CA
+9	3 - 3 - 0 drop	67.78%	52.75%	
+gholdengolunatone
+
+1209	
+Brenden Littlefield
+US
+9	3 - 3 - 0 drop	66.67%	52.36%	
+zoroark
+
+1210	
+Harry Yaole
+CA
+9	3 - 3 - 0 drop	63.89%	49.58%	
+zoroark
+
+1211	
+Thor Peterson
+US
+9	3 - 5 - 0	63.17%	51.70%	
+gardevoirjellicent
+
+1212	
+Jose Marzan
+US
+9	3 - 3 - 0 drop	62.50%	52.69%	
+gholdengolunatone
+
+1213	
+Samuel Martino
+CA
+9	3 - 5 - 0	62.50%	50.50%	
+charizardnoctowl
+
+1214	
+Elineury Collado
+US
+9	3 - 3 - 0 drop	62.50%	46.81%	
+zoroark
+
+1215	
+May White
+CA
+9	3 - 3 - 0 drop	62.22%	52.09%	
+gardevoirjellicent
+
+1216	
+Andrew Creech
+CA
+9	3 - 3 - 0 drop	61.11%	51.53%	
+gholdengolunatone
+
+1217	
+Brian VanGelder
+US
+9	3 - 3 - 0 drop	61.11%	51.44%	
+gardevoirjellicent
+
+1218	
+Jason Nieves
+US
+9	3 - 3 - 0 drop	61.11%	51.25%	
+charizardpidgeot
+
+1219	
+Oliver Gooch
+UK
+9	2 - 1 - 3 drop	61.11%	51.11%	
+charizardnoctowl
+
+1220	
+Corey Robinson
+US
+9	3 - 3 - 0 drop	60.83%	53.78%	
+gholdengolunatone
+
+1221	
+William Zhou
+CA
+9	3 - 4 - 0 drop	60.20%	50.85%	
+dragapultdusknoir
+
+1222	
+Garrett Todd
+CA
+9	3 - 4 - 0 drop	60.20%	50.03%	
+gholdengolunatone
+
+1223	
+Charlie Appleby
+CA
+9	3 - 3 - 0 drop	59.72%	51.94%	
+charizardnoctowl
+
+1224	
+Ivan Aulbrook
+CA
+9	3 - 3 - 0 drop	59.72%	51.53%	
+dragapultdusknoir
+
+1225	
+Justin So
+CA
+9	3 - 3 - 0 drop	59.44%	54.63%	
+gholdengolunatone
+
+1226	
+Mario Velazquez
+CA
+9	3 - 3 - 0 drop	59.17%	50.80%	
+grimmsnarl
+
+1227	
+Benjamin Nace
+US
+9	3 - 4 - 0 drop	58.44%	53.51%	
+dragapultdusknoir
+
+1228	
+Samuel Gay
+US
+9	3 - 3 - 0 drop	58.33%	53.43%	
+gardevoir
+
+1229	
+Jacob Hamill
+CA
+9	3 - 3 - 0 drop	58.33%	49.85%	
+ceruledge
+
+1230	
+Ryan Antonucci
+US
+9	3 - 3 - 0 drop	58.33%	49.54%	
+gardevoirjellicent
+
+1231	
+Kyle Pyykkonen
+US
+9	3 - 5 - 0	57.81%	51.77%	
+dragapultdusknoir
+
+1232	
+Matthew Clarke
+UK
+9	3 - 3 - 0 drop	56.94%	54.86%	
+dragapultdusknoir
+
+1233	
+Kyle Chan
+CA
+9	3 - 3 - 0 drop	56.94%	53.84%	
+gholdengolunatone
+
+1234	
+Kyle Patterson
+US
+9	3 - 3 - 0 drop	56.94%	49.68%	
+greninja
+
+1235	
+Jason Hitzfield
+US
+9	3 - 3 - 0 drop	56.94%	49.12%	
+joltikpikachu
+
+1236	
+Alex Peters
+CA
+9	3 - 3 - 0 drop	56.67%	52.56%	
+zoroark
+
+1237	
+Michael Jun-Dundas
+CA
+9	3 - 3 - 0 drop	56.67%	52.13%	
+gholdengolunatone
+
+1238	
+Robert Simpson
+CA
+9	3 - 3 - 0 drop	56.67%	51.78%	
+zoroark
+
+1239	
+Kyler Short
+CA
+9	3 - 4 - 0 drop	56.63%	50.34%	
+miraidoneelektrik
+
+1240	
+Bradley Jones larocque
+CA
+9	3 - 4 - 0 drop	56.29%	48.51%	
+kangaskhan-megabouffalant
+
+1241	
+David Aquino
+CA
+9	3 - 4 - 0 drop	55.61%	58.64%	
+joltikpikachu
+
+1242	
+Mark Dizon
+CA
+9	3 - 3 - 0 drop	55.56%	50.41%	
+charizardnoctowl
+
+1243	
+Will Skop
+US
+9	3 - 3 - 0 drop	55.56%	50.05%	
+charizardnoctowl
+
+1244	
+Juhyung Lee
+CA
+9	3 - 5 - 0	55.36%	52.16%	
+crustle
+
+1245	
+joseph modeen
+US
+9	3 - 5 - 0	53.96%	49.43%	
+raging-boltogerpon
+
+1246	
+Austin Versteeg
+CA
+9	3 - 4 - 0 drop	53.91%	48.40%	
+dragapultdusknoir
+
+1247	
+Landen Kaetler
+CA
+9	3 - 4 - 0 drop	52.55%	50.97%	
+gholdengolunatone
+
+1248	
+Danny Bazzi
+US
+9	3 - 5 - 0	52.34%	50.77%	
+gholdengolunatone
+
+1249	
+David Hall
+CA
+9	3 - 5 - 0	52.34%	48.79%	
+grimmsnarlfroslass
+
+1250	
+stuart Miller
+CA
+9	3 - 5 - 0	52.08%	52.04%	
+gholdengolunatone
+
+1251	
+Callahan Fleming
+US
+9	3 - 4 - 0 drop	52.04%	53.64%	
+charizardnoctowl
+
+1252	
+Loc Nguyen
+US
+9	3 - 4 - 0 drop	51.70%	49.86%	
+garchomp
+
+1253	
+Christian Cantelon
+CA
+9	3 - 5 - 0	51.56%	51.32%	
+iron-handsmagneton
+
+1254	
+Philip Franco
+US
+9	3 - 5 - 0	51.56%	48.77%	
+gardevoirjellicent
+
+1255	
+Christian LaBella
+CA
+9	3 - 3 - 0 drop	51.39%	53.62%	
+zoroark
+
+1256	
+Devin Holland
+US
+9	2 - 1 - 3 drop	51.39%	53.44%	
+zoroark
+
+1257	
+Eian Drinkwater
+US
+9	3 - 3 - 0 drop	51.39%	49.81%	
+dragapultdusknoir
+
+1258	
+Jarod Bennet
+US
+9	3 - 5 - 0	51.30%	51.33%	
+alakazamdudunsparce
+
+1259	
+Charles Gu
+CA
+9	3 - 4 - 0 drop	51.19%	51.36%	
+charizardnoctowl
+
+1260	
+Chad Abner
+US
+9	3 - 4 - 0 drop	51.19%	50.12%	
+gholdengolunatone
+
+1261	
+Lindsay Reid
+US
+9	3 - 4 - 0 drop	51.02%	46.86%	
+raging-boltogerpon
+
+1262	
+Justin O’Neill
+CA
+9	2 - 3 - 3	50.78%	49.88%	
+gholdengolunatone
+
+1263	
+Shadow Maine
+US
+9	3 - 5 - 0	50.78%	49.77%	
+gholdengolunatone
+
+1264	
+Kevin Bonilla
+US
+9	2 - 3 - 3	50.68%	50.60%	
+gholdengolunatone
+
+1265	
+Eli Grove
+US
+9	3 - 4 - 0 drop	50.61%	53.63%	
+gardevoirjellicent
+
+1266	
+Michael Meal
+CA
+9	3 - 4 - 0 drop	50.51%	54.19%	
+gholdengolunatone
+
+1267	
+Adrian D’Souza
+CA
+9	3 - 3 - 0 drop	50.00%	47.88%	
+gholdengolunatone
+
+1268	
+Luke Morsa
+US
+9	2 - 2 - 3 drop	49.32%	60.27%	
+gardevoir
+
+1269	
+Edouard Moinard
+CA
+9	3 - 5 - 0	49.22%	45.71%	
+joltikpikachu
+
+1270	
+Cameron Cole
+CA
+9	3 - 4 - 0 drop	49.18%	56.40%	
+lopunny-megadusknoir
+
+1271	
+Matthew Hajjar
+US
+9	3 - 5 - 0	49.01%	47.05%	
+latias-mega
+
+1272	
+Sujith Jagan
+CA
+9	2 - 3 - 3	48.75%	47.63%	
+alakazamdudunsparce
+
+1273	
+Jessica Shen
+CA
+9	2 - 3 - 3	48.70%	48.47%	
+alakazamdudunsparce
+
+1274	
+Sophia Stehlik
+CA
+9	3 - 3 - 0 drop	48.61%	54.72%	
+gholdengo
+
+1275	
+Manav Govil
+US
+9	3 - 3 - 0 drop	48.61%	53.70%	
+gardevoir
+
+1276	
+Lucas Thiele
+US
+9	3 - 3 - 0 drop	48.61%	52.69%	
+dragapultdusknoir
+
+1277	
+Josh Theal
+CA
+9	3 - 4 - 0 drop	48.57%	49.89%	
+spidops
+
+1278	
+Connor Rowe
+US
+9	2 - 2 - 3 drop	48.47%	46.08%	
+gardevoirjellicent
+
+1279	
+Charlie Barra
+US
+9	3 - 5 - 0	48.44%	52.29%	
+charizardnoctowl
+
+1280	
+Brooks Clark
+US
+9	3 - 5 - 0	48.44%	49.00%	
+dragapultdusknoir
+
+1281	
+Ethan Graham
+CA
+9	3 - 4 - 0 drop	48.44%	52.52%	
+dragapultcharizard
+
+1282	
+Jeremy Kwok
+CA
+9	3 - 3 - 0 drop	48.33%	53.88%	
+garchomp
+
+1283	
+Iain Harding
+US
+9	3 - 5 - 0	47.81%	51.44%	
+gardevoirjellicent
+
+1284	
+Robin Clair
+CA
+9	2 - 3 - 3	47.66%	45.13%	
+charizard
+
+1285	
+David Choi
+CA
+9	3 - 3 - 0 drop	47.22%	54.72%	
+noctowlogerpon-wellspring
+
+1286	
+Brad Brown
+US
+9	3 - 5 - 0	46.99%	47.45%	
+raging-boltogerpon
+
+1287	
+Jacob Solomon
+CA
+9	3 - 3 - 0 drop	46.94%	51.65%	
+dragapultdusknoir
+
+1288	
+Mohid Siddique
+CA
+9	3 - 3 - 0 drop	46.67%	48.70%	
+dragapultdusknoir
+
+1289	
+Meghan Desjardins
+CA
+9	2 - 3 - 3	46.18%	46.38%	
+alakazamdudunsparce
+
+1290	
+Kevin Hughes
+US
+9	3 - 5 - 0	46.07%	49.60%	
+gholdengolunatone
+
+1291	
+Perry-Anthony Snyder
+CA
+9	3 - 5 - 0	45.87%	44.96%	
+substitute
+
+1292	
+Eric Milot
+CA
+9	3 - 3 - 0 drop	45.83%	53.54%	
+charizardnoctowl
+
+1293	
+David Dinka
+CA
+9	3 - 5 - 0	45.63%	48.02%	
+gholdengolunatone
+
+1294	
+Kenny Packala
+US
+9	3 - 5 - 0	45.31%	50.29%	
+kangaskhan-megabouffalant
+
+1295	
+Anthony Lopez
+US
+9	3 - 5 - 0	45.31%	46.88%	
+zoroark
+
+1296	
+Peter Pham
+CA
+9	3 - 4 - 0 drop	45.07%	46.67%	
+ceruledge
+
+1297	
+Marshall Cary
+US
+9	3 - 5 - 0	44.98%	47.15%	
+gardevoir
+
+1298	
+Dan Mopsick
+US
+9	3 - 5 - 0	44.94%	47.45%	
+raging-boltogerpon
+
+1299	
+Jeffrey Engson
+CA
+9	3 - 5 - 0	44.46%	48.35%	
+dragapultdusknoir
+
+1300	
+Shelby Huddleston
+US
+9	3 - 3 - 0 drop	44.44%	49.85%	
+dragapultdusknoir
+
+1301	
+Gabriel Hebert
+CA
+9	3 - 5 - 0	44.27%	45.57%	
+gholdengolunatone
+
+1302	
+Kelvin Duong
+CA
+9	2 - 3 - 3	44.01%	49.87%	
+gardevoir
+
+1303	
+Robert Dillworth
+US
+9	3 - 5 - 0	43.95%	50.50%	
+gholdengolunatone
+
+1304	
+Marcelo Gil
+US
+9	3 - 5 - 0	43.75%	46.70%	
+joltikpikachu
+
+1305	
+Nicholas Olson
+US
+9	3 - 5 - 0	43.75%	45.51%	
+greninja
+
+1306	
+Kyle Chrenek
+CA
+9	2 - 3 - 3	43.27%	47.15%	
+absol-megakangaskhan-mega
+
+1307	
+Avner Melamed
+CA
+9	3 - 5 - 0	43.13%	48.02%	
+zoroark
+
+1308	
+Sujith Nalabolu
+US
+9	3 - 4 - 0 drop	43.03%	47.47%	
+charizardnoctowl
+
+1309	
+NINGXI WANG
+CA
+9	3 - 5 - 0	42.89%	45.14%	
+gholdengolunatone
+
+1310	
+Hanna Richir
+US
+9	2 - 3 - 3	42.76%	49.25%	
+gholdengojoltik
+
+1311	
+Nathaniel Leclerc
+CA
+9	2 - 3 - 3	42.54%	50.80%	
+gholdengolunatone
+
+1312	
+bret obrien
+US
+9	3 - 5 - 0	42.37%	49.65%	
+joltikpikachu
+
+1313	
+Dalton Hiltz
+CA
+9	3 - 5 - 0	42.22%	50.11%	
+flareonnoctowl
+
+1314	
+Kevin Zelaya
+US
+9	3 - 5 - 0	41.96%	44.93%	
+lopunny-megadusknoir
+
+1315	
+Cole Chevalier
+CA
+9	2 - 3 - 3	41.92%	48.12%	
+grimmsnarl
+
+1316	
+Ashla Gaetano
+US
+9	3 - 5 - 0	41.67%	47.96%	
+gardevoir
+
+1317	
+Erik Renaud
+CA
+9	3 - 5 - 0	41.41%	47.24%	
+charizardnoctowl
+
+1318	
+Juniemar Paa
+CA
+9	2 - 3 - 3	41.41%	46.65%	
+flareonnoctowl
+
+1319	
+Joshua Hildinger
+US
+9	3 - 5 - 0	41.25%	48.48%	
+joltikpikachu
+
+1320	
+Nicolas Tomaro
+CA
+9	3 - 5 - 0	40.94%	48.63%	
+charizardnoctowl
+
+1321	
+Ted Blake
+US
+9	3 - 5 - 0	40.94%	45.59%	
+dragapultdusknoir
+
+1322	
+Jaykob Jankowski
+US
+9	1 - 1 - 6	40.92%	47.69%	
+gardevoir
+
+1323	
+Paul Athayde
+CA
+9	3 - 4 - 0 drop	40.82%	49.22%	
+lopunny-megadusknoir
+
+1324	
+Leonardo Cardelli
+CA
+9	2 - 3 - 3	40.51%	47.08%	
+dragapultdusknoir
+
+1325	
+Alan Parrales
+US
+9	3 - 5 - 0	40.31%	46.99%	
+lopunny-megadusknoir
+
+1326	
+Joseph Dunkley
+CA
+9	3 - 5 - 0	40.10%	43.52%	
+lopunny-megadusknoir
+
+1327	
+Joshua De Michele
+US
+9	3 - 4 - 0 drop	40.00%	52.12%	
+gholdengolunatone
+
+1328	
+Nolan Byrne
+US
+9	3 - 5 - 0	39.58%	47.57%	
+gardevoirjellicent
+
+1329	
+Adam Garzon
+CA
+9	2 - 3 - 3	38.91%	49.18%	
+gholdengolunatone
+
+1330	
+HECTOR IBARRA
+US
+9	3 - 4 - 0 drop	38.78%	47.11%	
+lopunny-megadusknoir
+
+1331	
+Luigi Carmine Del Gusto
+FR
+9	2 - 3 - 3	38.54%	48.93%	
+ceruledge
+
+1332	
+Reid Goodrich
+US
+9	3 - 5 - 0	38.28%	45.15%	
+kangaskhan-megabouffalant
+
+1333	
+Devin Pratchler
+CA
+9	2 - 3 - 3	37.24%	44.04%	
+charizardpidgeot
+
+1334	
+Yanni Bellefroid Lefkakis
+CA
+9	3 - 3 - 0 drop	37.22%	44.96%	
+dragapultdusknoir
+
+1335	
+Teagon Dreher
+US
+9	2 - 3 - 3	36.92%	45.53%	
+dragapultdusknoir
+
+1336	
+Michael Bertorelli
+CA
+9	3 - 5 - 0	35.53%	45.04%	
+dragapultdusknoir
+
+1337	
+Tan Le
+CA
+9	2 - 3 - 3	35.16%	43.39%	
+gardevoirjellicent
+
+1338	
+Alan Ames
+CA
+9	3 - 5 - 0	32.55%	43.15%	
+gholdengolunatone
+
+1339	
+Clarence Chen
+US
+8	2 - 2 - 2 drop	65.28%	53.94%	
+gholdengolunatone
+
+1340	
+Mohamadou Ndiaye
+US
+8	2 - 2 - 2 drop	65.28%	51.16%	
+dragapultdusknoir
+
+1341	
+SHOICHI SUZUKI
+JP
+8	2 - 2 - 2 drop	65.28%	48.15%	
+gholdengolunatone
+
+1342	
+Adriano Candido Jr
+US
+8	2 - 3 - 2 drop	63.47%	50.76%	
+charizardnoctowl
+
+1343	
+Savio Joseph
+CA
+8	2 - 2 - 2 drop	62.50%	50.88%	
+gholdengolunatone
+
+1344	
+Idhant Gode
+US
+8	2 - 2 - 2 drop	61.11%	56.34%	
+gardevoir
+
+1345	
+Thomas Chow
+CA
+8	2 - 2 - 2 drop	61.11%	52.27%	
+charizardnoctowl
+
+1346	
+Hubert Mireault
+CA
+8	2 - 2 - 2 drop	61.11%	51.39%	
+gardevoir
+
+1347	
+Pearce Blend
+US
+8	2 - 2 - 2 drop	61.11%	49.68%	
+zoroark
+
+1348	
+James Fay
+US
+8	2 - 3 - 2 drop	60.71%	54.25%	
+grimmsnarlfroslass
+
+1349	
+Mike Romano
+US
+8	2 - 2 - 2 drop	59.72%	50.88%	
+dragapultdusknoir
+
+1350	
+Deven Al-Khoury
+CA
+8	2 - 2 - 2 drop	59.72%	50.23%	
+gholdengolunatone
+
+1351	
+Alex Fedo
+US
+8	2 - 2 - 2 drop	58.33%	49.91%	
+charizardpidgeot
+
+1352	
+Mark Gunther
+CA
+8	2 - 2 - 2 drop	58.33%	48.29%	
+absol-megakangaskhan-mega
+
+1353	
+Stephanie Lahaie
+CA
+8	2 - 2 - 2 drop	58.33%	47.08%	
+alakazamdudunsparce
+
+1354	
+Andrew Iozzo
+CA
+8	2 - 3 - 2 drop	57.14%	51.36%	
+dragapultcharizard
+
+1355	
+Travis Beckwith
+US
+8	2 - 2 - 2 drop	56.94%	54.17%	
+gholdengolunatone
+
+1356	
+Montgomery LeBlanc
+US
+8	2 - 2 - 2 drop	56.94%	51.25%	
+gardevoir
+
+1357	
+James Apolinario
+CA
+8	2 - 2 - 2 drop	56.94%	50.14%	
+absol-megakangaskhan-mega
+
+1358	
+Tung-Lin Wu
+CA
+8	2 - 2 - 2 drop	55.28%	52.50%	
+joltikpikachu
+
+1359	
+Sean Jen
+US
+8	2 - 2 - 2 drop	55.00%	52.28%	
+dragapultdusknoir
+
+1360	
+Yang-hua Chu
+US
+8	2 - 4 - 2	54.48%	52.13%	
+raging-boltogerpon
+
+1361	
+Matthew McCoag
+CA
+8	2 - 3 - 2 drop	54.29%	48.57%	
+dragapultdusknoir
+
+1362	
+Chongyang Wang
+CA
+8	2 - 2 - 2 drop	54.17%	52.78%	
+gholdengolunatone
+
+1363	
+Luke Morton
+UK
+8	2 - 2 - 2 drop	54.17%	50.37%	
+charizardnoctowl
+
+1364	
+Alex Demorizi
+CA
+8	2 - 2 - 2 drop	54.17%	48.10%	
+charizardpidgeot
+
+1365	
+Adam Burda
+US
+8	2 - 2 - 2 drop	54.17%	47.64%	
+charizardnoctowl
+
+1366	
+Yunrong Cai
+US
+8	2 - 2 - 2 drop	53.19%	53.39%	
+gardevoir
+
+1367	
+Mason Adolfs
+US
+8	2 - 2 - 2 drop	52.78%	53.10%	
+gardevoir
+
+1368	
+Rodolfo Ruacho
+US
+8	2 - 2 - 2 drop	52.78%	51.20%	
+venusaur-mega
+
+1369	
+Luke Paul
+US
+8	2 - 2 - 2 drop	52.78%	50.07%	
+dragapultcharizard
+
+1370	
+Emmet McGarrigle
+IE
+8	2 - 4 - 2	51.88%	45.78%	
+charizardpidgeot
+
+1371	
+Adam Weiss
+US
+8	2 - 4 - 2	51.72%	45.66%	
+dragapultdusknoir
+
+1372	
+Seth D'Mello
+CA
+8	2 - 4 - 2	51.30%	48.82%	
+kangaskhan-megabouffalant
+
+1373	
+Layla Bell
+US
+8	2 - 3 - 2 drop	51.19%	48.42%	
+gholdengo
+
+1374	
+Rob Werner
+US
+8	2 - 2 - 2 drop	51.11%	51.21%	
+gholdengolunatone
+
+1375	
+Jefferson Ng
+CA
+8	2 - 2 - 2 drop	51.11%	48.06%	
+gholdengojoltik
+
+1376	
+Carlos Motta
+US
+8	2 - 4 - 2	50.00%	47.84%	
+gardevoir
+
+1377	
+Brett Johnson
+US
+8	2 - 3 - 2 drop	49.49%	49.60%	
+roaring-moon
+
+1378	
+Abe Morales
+US
+8	2 - 3 - 2 drop	49.25%	49.94%	
+iron-thornscrustle
+
+1379	
+Michael Pinera
+CA
+8	2 - 4 - 2	49.22%	50.80%	
+absol-megakangaskhan-mega
+
+1380	
+James Bratton
+US
+8	2 - 4 - 2	49.11%	46.07%	
+noctowlogerpon-wellspring
+
+1381	
+Kenneth Xu
+US
+8	2 - 3 - 2 drop	48.67%	49.20%	
+gholdengolunatone
+
+1382	
+Samuel Thivierge
+CA
+8	2 - 2 - 2 drop	48.61%	49.31%	
+absol-megakangaskhan-mega
+
+1383	
+Josh Amos
+CA
+8	2 - 4 - 2	48.44%	46.94%	
+gardevoir
+
+1384	
+Alexander Teeter
+CA
+8	2 - 4 - 2	48.44%	46.19%	
+gholdengolunatone
+
+1385	
+Aapo Antikainen
+FI
+8	2 - 2 - 2 drop	48.06%	52.31%	
+joltikpikachu
+
+1386	
+Benjamin Guay
+CA
+8	2 - 4 - 2	47.92%	46.52%	
+slaking
+
+1387	
+Michael Carlino
+US
+8	2 - 4 - 2	47.77%	46.07%	
+charizardpidgeot
+
+1388	
+Trevor Wu
+CA
+8	2 - 4 - 2	46.98%	50.02%	
+charizardnoctowl
+
+1389	
+Anthony Harter
+US
+8	2 - 4 - 2	46.88%	49.32%	
+gholdengolunatone
+
+1390	
+Daniel Holt
+CA
+8	2 - 4 - 2	46.88%	46.87%	
+gholdengolunatone
+
+1391	
+Christopher Prozeralik
+US
+8	2 - 3 - 2 drop	46.80%	47.82%	
+gardevoir
+
+1392	
+Scott Smith
+US
+8	2 - 3 - 2 drop	46.26%	50.86%	
+gardevoir
+
+1393	
+Nicholas Brentana
+US
+8	2 - 4 - 2	46.09%	45.87%	
+charizardpidgeot
+
+1394	
+Matthew Farkas
+CA
+8	2 - 2 - 2 drop	45.83%	48.52%	
+charizardnoctowl
+
+1395	
+Maddox Beaudry
+CA
+8	2 - 2 - 2 drop	45.56%	50.51%	
+dragapultdusknoir
+
+1396	
+Aleksander Ryan
+US
+8	2 - 2 - 2 drop	45.56%	49.23%	
+gholdengolunatone
+
+1397	
+Adrien Neret
+BE
+8	2 - 4 - 2	45.16%	46.59%	
+charizardnoctowl
+
+1398	
+Shane DeSouza
+CA
+8	2 - 4 - 2	45.05%	43.90%	
+charizardnoctowl
+
+1399	
+Anthony Pham
+CA
+8	2 - 4 - 2	44.57%	46.51%	
+dragapultdusknoir
+
+1400	
+Phil Smith
+CA
+8	2 - 4 - 2	44.53%	42.99%	
+raging-boltogerpon
+
+1401	
+Jiahua Zhang
+CA
+8	2 - 2 - 2 drop	44.17%	49.97%	
+gholdengolunatone
+
+1402	
+Austin Ditschun
+CA
+8	2 - 2 - 2 drop	43.89%	52.41%	
+gardevoirjellicent
+
+1403	
+David Cynoske
+US
+8	2 - 4 - 2	43.80%	43.84%	
+gholdengolunatone
+
+1404	
+Taryn Discher
+US
+8	2 - 4 - 2	43.59%	49.56%	
+flareonnoctowl
+
+1405	
+MATTHEW JI
+CA
+8	2 - 2 - 2 drop	43.06%	48.47%	
+froslassmunkidori
+
+1406	
+Anon Cheewakarn
+US
+8	2 - 2 - 2 drop	43.06%	47.73%	
+dragapultdusknoir
+
+1407	
+Patrick Knapp
+US
+8	2 - 2 - 2 drop	42.50%	50.80%	
+dragapultdusknoir
+
+1408	
+Kris Harsh
+US
+8	2 - 4 - 2	42.19%	48.32%	
+dragapultdusknoir
+
+1409	
+Adam Vigil
+US
+8	2 - 4 - 2	41.96%	47.38%	
+gardevoirjellicent
+
+1410	
+Maximus Evans
+CA
+8	2 - 2 - 2 drop	41.94%	52.27%	
+charizardnoctowl
+
+1411	
+Drew Wakefield
+US
+8	2 - 4 - 2	41.93%	45.64%	
+gholdengolunatone
+
+1412	
+Denise Ng
+CA
+8	2 - 4 - 2	41.41%	41.90%	
+gholdengolunatone
+
+1413	
+Ian Venton
+US
+8	1 - 2 - 5	41.20%	50.90%	
+alakazamdudunsparce
+
+1414	
+Ping Hei Chau
+CA
+8	2 - 4 - 2	41.14%	49.50%	
+gardevoir
+
+1415	
+Eddie Wazermas
+CA
+8	2 - 4 - 2	41.03%	45.70%	
+charizardpidgeot
+
+1416	
+Gabriel Anayas
+CA
+8	2 - 4 - 2	40.10%	46.48%	
+noctowlogerpon-wellspring
+
+1417	
+Jason Babbitt
+CA
+8	2 - 4 - 2	39.84%	45.49%	
+zoroark
+
+1418	
+Scott Wade
+US
+8	2 - 4 - 2	39.35%	46.62%	
+gardevoir
+
+1419	
+Holly Sturm
+US
+8	2 - 4 - 2	38.68%	45.18%	
+gardevoirjellicent
+
+1420	
+Mylaine Bélanger
+CA
+8	2 - 4 - 2	37.98%	48.61%	
+gardevoir
+
+1421	
+Murat Gursoz
+US
+8	1 - 2 - 5	37.50%	46.86%	
+gardevoir
+
+1422	
+Jacob Prete
+US
+8	2 - 4 - 2	37.50%	44.54%	
+alakazamdudunsparce
+
+1423	
+Daniel Vono
+CA
+8	2 - 4 - 2	34.84%	46.36%	
+dragapultdusknoir
+
+1424	
+Louis Gagne
+CA
+8	2 - 4 - 2	34.53%	44.36%	
+garchomp
+
+1425	
+Owen McGrath
+US
+7	2 - 3 - 1 drop	66.67%	49.40%	
+zoroark
+
+1426	
+Ryan Harrington
+US
+7	2 - 3 - 1 drop	66.67%	46.30%	
+gholdengolunatone
+
+1427	
+Giancarlo Bortolon
+CA
+7	2 - 3 - 1 drop	63.89%	54.54%	
+lopunny-megadusknoir
+
+1428	
+Dorian Djuric
+CA
+7	2 - 3 - 1 drop	63.89%	51.90%	
+sharpedo-megatoxtricity
+
+1429	
+Ryan Graywacz
+US
+7	2 - 3 - 1 drop	61.11%	48.99%	
+zoroark
+
+1430	
+Michael Outler
+US
+7	2 - 3 - 1 drop	60.83%	50.92%	
+gardevoirjellicent
+
+1431	
+Joseph Hong
+US
+7	2 - 3 - 1 drop	60.28%	49.49%	
+dragapultdusknoir
+
+1432	
+Andrew Dookram
+CA
+7	2 - 3 - 1 drop	59.72%	49.31%	
+joltikpikachu
+
+1433	
+Matthew Young
+CA
+7	2 - 3 - 1 drop	59.72%	47.82%	
+gholdengolunatone
+
+1434	
+Ewing Leung
+CA
+7	2 - 3 - 1 drop	59.72%	47.81%	
+gholdengolunatone
+
+1435	
+Edward Valencia
+US
+7	2 - 3 - 1 drop	59.72%	47.48%	
+gardevoirjellicent
+
+1436	
+Landon Howard
+US
+7	2 - 3 - 1 drop	58.33%	50.65%	
+sharpedo-megatoxtricity
+
+1437	
+Pablo Mercado
+CA
+7	2 - 3 - 1 drop	58.33%	49.91%	
+gardevoir
+
+1438	
+Lucas Rodrigues
+US
+7	2 - 3 - 1 drop	58.33%	48.06%	
+noctowlogerpon-wellspring
+
+1439	
+Jarred Ingersoll
+US
+7	2 - 3 - 1 drop	58.33%	46.81%	
+gholdengolunatone
+
+1440	
+ryan thorne
+CA
+7	2 - 3 - 1 drop	57.50%	49.02%	
+alakazamdudunsparce
+
+1441	
+James Ribis
+US
+7	2 - 2 - 1 drop	57.00%	51.40%	
+charizarddragapult
+
+1442	
+Frank Masi
+US
+7	2 - 3 - 1 drop	56.94%	53.17%	
+froslassmunkidori
+
+1443	
+James McDaid
+US
+7	2 - 3 - 1 drop	56.94%	49.58%	
+gholdengolunatone
+
+1444	
+Noah Dove-Smith
+CA
+7	2 - 3 - 1 drop	56.94%	47.78%	
+gholdengolunatone
+
+1445	
+Justin Li
+CA
+7	2 - 3 - 1 drop	56.94%	47.26%	
+grimmsnarlfroslass
+
+1446	
+Josh Noah
+US
+7	2 - 4 - 1 drop	56.46%	49.45%	
+noctowlogerpon-wellspring
+
+1447	
+Lucas Ma
+CA
+7	2 - 3 - 1 drop	56.39%	48.56%	
+noctowlogerpon-wellspring
+
+1448	
+Ali Hakimi
+LB
+7	2 - 3 - 1 drop	55.83%	53.62%	
+pidgeot
+
+1449	
+Stjepan Peharda
+US
+7	2 - 3 - 1 drop	55.56%	49.04%	
+dragapultdusknoir
+
+1450	
+Christopher Gonzalez
+US
+7	2 - 3 - 1 drop	55.56%	48.66%	
+kangaskhan-megabouffalant
+
+1451	
+Jesse Woods
+CA
+7	2 - 3 - 1 drop	55.56%	48.56%	
+gholdengotyphlosion
+
+1452	
+Luke Guido
+CA
+7	2 - 3 - 1 drop	55.56%	47.59%	
+charizardpidgeot
+
+1453	
+Nicholas Hacquebord
+US
+7	2 - 4 - 1 drop	55.10%	47.25%	
+gardevoirjellicent
+
+1454	
+Adam Chois
+US
+7	2 - 3 - 1 drop	55.00%	50.95%	
+dragapultdusknoir
+
+1455	
+Lukasz Ramsay
+CA
+7	2 - 3 - 1 drop	55.00%	50.95%	
+gholdengolunatone
+
+1456	
+Sean Thomas Erlington
+CA
+7	2 - 4 - 1 drop	54.69%	45.04%	
+gholdengolunatone
+
+1457	
+James McCreedy
+CA
+7	2 - 3 - 1 drop	54.17%	52.92%	
+gholdengolunatone
+
+1458	
+Amir Asgarali
+CA
+7	2 - 3 - 1 drop	54.17%	49.77%	
+gholdengolunatone
+
+1459	
+Emmanuel Abraha
+CA
+7	2 - 3 - 1 drop	54.17%	47.92%	
+dragapultdusknoir
+
+1460	
+Karl Mattern
+CA
+7	2 - 2 - 1 drop	54.00%	52.40%	
+dragapultdusknoir
+
+1461	
+Casey Bennink
+US
+7	2 - 3 - 1 drop	53.61%	46.60%	
+gardevoirjellicent
+
+1462	
+Ronald Sharpsteen
+US
+7	2 - 3 - 1 drop	53.06%	45.38%	
+lucario-megahariyama
+
+1463	
+Daymon Baird-Morton
+CA
+7	2 - 3 - 1 drop	52.78%	55.51%	
+charizardnoctowl
+
+1464	
+Jenna Welsh
+CA
+7	2 - 3 - 1 drop	52.78%	52.33%	
+gholdengolunatone
+
+1465	
+Jonathan Green
+CA
+7	2 - 3 - 1 drop	52.78%	51.99%	
+absol-megakangaskhan-mega
+
+1466	
+Jakob Friedman
+US
+7	2 - 3 - 1 drop	52.78%	49.91%	
+absol-megakangaskhan-mega
+
+1467	
+douglas dillin
+US
+7	2 - 4 - 1 drop	52.55%	50.12%	
+gholdengolunatone
+
+1468	
+Alec Pinson
+US
+7	2 - 4 - 1 drop	52.55%	48.80%	
+gholdengolunatone
+
+1469	
+Justin Stites
+US
+7	2 - 3 - 1 drop	52.22%	47.70%	
+gholdengolunatone
+
+1470	
+Carleigh Young
+US
+7	2 - 3 - 1 drop	52.22%	45.17%	
+zacian-crownedsnorlax
+
+1471	
+Jonathan Chan
+US
+7	2 - 4 - 1 drop	51.90%	48.44%	
+greninja
+
+1472	
+Chris Catalano
+CA
+7	2 - 3 - 1 drop	51.67%	45.80%	
+gholdengolunatone
+
+1473	
+Tyler Mathews
+US
+7	2 - 3 - 1 drop	51.39%	49.92%	
+lopunny-megadusknoir
+
+1474	
+Michael Hunter
+IE
+7	2 - 5 - 1	51.34%	49.85%	
+gardevoir
+
+1475	
+William Benson-Pilon
+CA
+7	2 - 5 - 1	51.34%	48.14%	
+gholdengolunatone
+
+1476	
+Troy Campbell
+US
+7	2 - 3 - 1 drop	51.11%	50.06%	
+roaring-moon
+
+1477	
+Junoh Loy
+CA
+7	2 - 5 - 1	51.04%	50.87%	
+gholdengolunatone
+
+1478	
+Ben Dobberstein
+US
+7	2 - 3 - 1 drop	50.83%	52.55%	
+gholdengolunatone
+
+1479	
+Devin Nguyen
+CA
+7	2 - 3 - 1 drop	50.83%	48.72%	
+charizardnoctowl
+
+1480	
+Caroline Dochez
+CA
+7	1 - 3 - 4	50.78%	43.79%	
+dragapultdusknoir
+
+1481	
+Tyler Tasch
+US
+7	2 - 3 - 1 drop	50.69%	53.24%	
+gholdengolunatone
+
+1482	
+Daniel Sutch
+US
+7	2 - 4 - 1 drop	50.51%	48.35%	
+dragapultdusknoir
+
+1483	
+Bryan Hunter
+US
+7	2 - 3 - 1 drop	50.00%	49.42%	
+froslassmunkidori
+
+1484	
+Austin Brodeur
+CA
+7	2 - 4 - 1 drop	50.00%	48.56%	
+kangaskhan-megabouffalant
+
+1485	
+Isabella Greet
+US
+7	2 - 3 - 1 drop	50.00%	45.95%	
+gardevoir
+
+1486	
+Shyane Wiegers
+CA
+7	2 - 3 - 1 drop	49.72%	53.19%	
+charizardnoctowl
+
+1487	
+Frank Thorne
+CA
+7	2 - 5 - 1	49.06%	50.78%	
+charizardpidgeot
+
+1488	
+Joseph Bisaillon
+US
+7	2 - 4 - 1 drop	48.98%	48.08%	
+gholdengolunatone
+
+1489	
+Étienne Chabot
+CA
+7	2 - 3 - 1 drop	48.61%	52.91%	
+gholdengolunatone
+
+1490	
+Rene Mejia
+US
+7	2 - 4 - 1 drop	48.57%	48.39%	
+ho-oharmarouge
+
+1491	
+Liam Dunn
+CA
+7	2 - 5 - 1	48.44%	46.16%	
+gardevoirjellicent
+
+1492	
+Max Elsass
+US
+7	2 - 3 - 1 drop	48.33%	53.04%	
+gholdengolunatone
+
+1493	
+Jason Blacquiere
+CA
+7	2 - 3 - 1 drop	48.33%	50.61%	
+ho-oharmarouge
+
+1494	
+Fanni Horvath
+US
+7	1 - 3 - 4	48.18%	45.50%	
+dragapultdusknoir
+
+1495	
+Adrian Pui
+CA
+7	2 - 4 - 1 drop	48.13%	52.36%	
+gardevoir
+
+1496	
+Marc-Olivier Duval
+CA
+7	2 - 3 - 1 drop	48.06%	49.99%	
+grimmsnarlfroslass
+
+1497	
+Layla Merritt
+US
+7	2 - 4 - 1 drop	47.96%	46.89%	
+dragapultdusknoir
+
+1498	
+Christopher Garcia
+US
+7	2 - 4 - 1 drop	47.82%	48.15%	
+joltikpikachu
+
+1499	
+Jonathan Roy
+CA
+7	2 - 4 - 1 drop	47.79%	46.95%	
+charizardnoctowl
+
+1500	
+Victoria Barry
+US
+7	2 - 5 - 1	47.66%	45.85%	
+gholdengolunatone
+
+1501	
+Max Kerby
+US
+7	2 - 4 - 1 drop	47.28%	51.82%	
+zoroark
+
+1502	
+Chris Wilkinson
+US
+7	2 - 3 - 1 drop	47.22%	50.85%	
+gardevoirjellicent
+
+1503	
+Mustafa Tobah
+US
+7	2 - 3 - 1 drop	47.22%	46.30%	
+gardevoir
+
+1504	
+Maximus Tran Tran
+US
+7	2 - 3 - 1 drop	47.22%	45.79%	
+gholdengolunatone
+
+1505	
+Matthew Kish
+US
+7	2 - 4 - 1 drop	47.11%	47.24%	
+gholdengolunatone
+
+1506	
+Dan Benipayo
+US
+7	2 - 4 - 1 drop	47.04%	45.63%	
+greninja
+
+1507	
+Justin Thompson
+CA
+7	2 - 2 - 1 drop	47.00%	51.58%	
+gholdengolunatone
+
+1508	
+Sammy Gardner-Bell
+CA
+7	2 - 5 - 1	46.76%	50.76%	
+raging-boltogerpon
+
+1509	
+Joshua Knudson
+US
+7	2 - 3 - 1 drop	46.67%	49.70%	
+charizardnoctowl
+
+1510	
+Sherwin Lam
+CA
+7	2 - 3 - 1 drop	46.67%	47.73%	
+gholdengolunatone
+
+1511	
+Francesco Scaglione
+CA
+7	2 - 5 - 1	46.09%	45.81%	
+zoroark
+
+1512	
+Dominic Venezian
+US
+7	2 - 3 - 1 drop	45.83%	50.29%	
+dragapultdusknoir
+
+1513	
+Juniper Hertel
+CA
+7	2 - 3 - 1 drop	45.83%	47.73%	
+charizardnoctowl
+
+1514	
+Nicholas Chiang
+CA
+7	2 - 4 - 1 drop	45.41%	50.70%	
+gholdengolunatone
+
+1515	
+Christopher Hayes
+US
+7	2 - 5 - 1	45.31%	45.15%	
+lucario-megahariyama
+
+1516	
+Michael Cornwall
+UK
+7	2 - 3 - 1 drop	45.28%	44.57%	
+charizardpidgeot
+
+1517	
+Alonso Avella Sanchez
+US
+7	2 - 5 - 1	45.16%	44.14%	
+gholdengolunatone
+
+1518	
+Peter Agopian
+US
+7	2 - 5 - 1	44.53%	48.31%	
+gholdengolunatone
+
+1519	
+Yuehua (Tony) Liu
+CA
+7	2 - 5 - 1	44.53%	47.14%	
+gardevoirjellicent
+
+1520	
+Joshua John Dagan
+CA
+7	2 - 5 - 1	44.53%	45.25%	
+charizardpidgeot
+
+1521	
+Niko Jones
+CA
+7	2 - 5 - 1	44.53%	42.06%	
+zoroark
+
+1522	
+Ginger Rock
+US
+7	2 - 3 - 1 drop	44.44%	50.51%	
+venusaur-mega
+
+1523	
+Mitchell Pehora
+CA
+7	2 - 3 - 1 drop	44.44%	48.51%	
+charizardnoctowl
+
+1524	
+Mitch Watson
+CA
+7	2 - 3 - 1 drop	44.44%	47.48%	
+gholdengolunatone
+
+1525	
+Maximino Mendez
+US
+7	2 - 4 - 1 drop	44.39%	47.20%	
+charizardnoctowl
+
+1526	
+Joshua Chigbrow
+US
+7	2 - 5 - 1	44.27%	45.76%	
+gholdengolunatone
+
+1527	
+Kim Stewart
+IE
+7	1 - 3 - 4	44.12%	45.52%	
+charizardpidgeot
+
+1528	
+andrew amistad
+CA
+7	2 - 5 - 1	44.11%	48.52%	
+gholdengolunatone
+
+1529	
+stanley wong
+US
+7	2 - 3 - 1 drop	43.89%	49.98%	
+dragapultdusknoir
+
+1530	
+Hanna Thorne
+CA
+7	2 - 5 - 1	43.75%	47.08%	
+garchomp
+
+1531	
+Shicong Zhao
+US
+7	2 - 5 - 1	43.75%	46.27%	
+dragapultdusknoir
+
+1532	
+Jeshua Contreras
+US
+7	2 - 4 - 1 drop	43.71%	47.30%	
+dragapultdusknoir
+
+1533	
+DyllanRobert Wloch
+US
+7	2 - 4 - 1 drop	43.47%	51.07%	
+ceruledge
+
+1534	
+Liam Corrigan-Ross
+CA
+7	2 - 4 - 1 drop	43.40%	46.18%	
+charizardnoctowl
+
+1535	
+Joshua Giorgione
+US
+7	2 - 4 - 1 drop	43.37%	48.00%	
+charizardnoctowl
+
+1536	
+Ian Perras
+US
+7	2 - 4 - 1 drop	43.16%	48.17%	
+alakazamdudunsparce
+
+1537	
+Jean-Philippe Moreau
+CA
+7	1 - 3 - 4	43.07%	46.88%	
+dragapultdusknoir
+
+1538	
+Ellen Johnston
+CA
+7	2 - 3 - 1 drop	43.06%	53.26%	
+dragapultdusknoir
+
+1539	
+Johan Wong
+CA
+7	2 - 5 - 1	42.97%	45.34%	
+dragapultdusknoir
+
+1540	
+Andrew Mease
+US
+7	2 - 4 - 1 drop	42.86%	48.83%	
+absol-megakangaskhan-mega
+
+1541	
+Sunny Le
+CA
+7	2 - 3 - 1 drop	42.50%	50.38%	
+gardevoir
+
+1542	
+Tyler Funk
+US
+7	2 - 3 - 1 drop	42.50%	46.58%	
+zoroark
+
+1543	
+Tiger Hickman
+US
+7	2 - 4 - 1 drop	42.35%	50.40%	
+charizardnoctowl
+
+1544	
+Christopher Mellone
+US
+7	2 - 4 - 1 drop	42.35%	43.55%	
+charizardnoctowl
+
+1545	
+Giancarlo Espinosa
+CA
+7	2 - 3 - 1 drop	42.22%	49.59%	
+dragapultdusknoir
+
+1546	
+Emmanuel Ouellet
+CA
+7	2 - 5 - 1	42.19%	47.42%	
+gholdengolunatone
+
+1547	
+Matthew Armstrong
+CA
+7	2 - 5 - 1	42.14%	49.59%	
+sharpedo-megatoxtricity
+
+1548	
+Max Cann
+CA
+7	0 - 1 - 7	41.93%	46.99%	
+pidgeot
+
+1549	
+Adam Lester
+US
+7	2 - 3 - 1 drop	41.67%	49.88%	
+noctowlogerpon-wellspring
+
+1550	
+Hiroshi Takeda
+JP
+7	2 - 3 - 1 drop	41.67%	48.52%	
+absol-megakangaskhan-mega
+
+1551	
+Corey Raymer
+US
+7	2 - 3 - 1 drop	41.67%	47.00%	
+gardevoirjellicent
+
+1552	
+Ben Rozon
+CA
+7	2 - 3 - 1 drop	41.67%	45.62%	
+gardevoirjellicent
+
+1553	
+Benjamin Hendershott
+US
+7	2 - 3 - 1 drop	41.11%	46.72%	
+dragapultdusknoir
+
+1554	
+Audrey Archambault
+CA
+7	2 - 4 - 1 drop	41.02%	50.06%	
+gholdengolunatone
+
+1555	
+Darian Spencer
+US
+7	2 - 4 - 1 drop	41.02%	46.71%	
+charizardnoctowl
+
+1556	
+Alex Kilayko
+CA
+7	2 - 5 - 1	40.78%	44.14%	
+roaring-moon
+
+1557	
+Nicolas Bernier-Gagnon
+CA
+7	2 - 5 - 1	40.40%	48.19%	
+absol-megakangaskhan-mega
+
+1558	
+Ethan Wilde
+UK
+7	2 - 3 - 1 drop	40.28%	52.95%	
+gardevoir
+
+1559	
+Ian Rettger
+US
+7	2 - 3 - 1 drop	40.28%	49.38%	
+gholdengolunatone
+
+1560	
+Jeffrey Thompson
+US
+7	2 - 5 - 1	40.10%	42.36%	
+charizard
+
+1561	
+PJ Witusik
+US
+7	2 - 5 - 1	39.84%	48.57%	
+zoroark
+
+1562	
+Luca Albia
+CA
+7	2 - 5 - 1	39.84%	45.46%	
+charizardpidgeot
+
+1563	
+Brianna Barron
+CA
+7	2 - 5 - 1	39.84%	43.72%	
+hydrappleogerpon
+
+1564	
+Hong Yau Chong
+US
+7	1 - 3 - 4	39.58%	43.06%	
+dragapultdusknoir
+
+1565	
+Taiyue Li
+CN
+7	2 - 4 - 1 drop	39.52%	54.03%	
+dragapultdusknoir
+
+1566	
+James Thompson
+US
+7	2 - 5 - 1	39.11%	46.49%	
+alakazamdudunsparce
+
+1567	
+Robert Jarquin
+CA
+7	2 - 5 - 1	38.68%	47.50%	
+gholdengolunatone
+
+1568	
+Ryan Borho
+CA
+7	2 - 5 - 1	38.48%	46.83%	
+dragapultdusknoir
+
+1569	
+Raymond Chiang
+CA
+7	2 - 5 - 1	38.43%	43.98%	
+hydreigon
+
+1570	
+Sabrina Farah
+CA
+7	2 - 5 - 1	38.24%	45.19%	
+gholdengolunatone
+
+1571	
+Michael Sikalevski
+CA
+7	2 - 5 - 1	38.13%	45.01%	
+gardevoir
+
+1572	
+Jessica Blackwell
+US
+7	1 - 3 - 4	37.81%	46.06%	
+gholdengolunatone
+
+1573	
+Justin De leeuw
+CA
+7	2 - 5 - 1	37.81%	45.10%	
+gholdengolunatone
+
+1574	
+Ben LoPiccolo
+CA
+7	2 - 5 - 1	37.81%	44.78%	
+slowking
+
+1575	
+Mac Zhang
+CA
+7	2 - 5 - 1	37.08%	45.74%	
+dragapultdusknoir
+
+1576	
+Alejandro Arce
+US
+7	2 - 3 - 1 drop	36.94%	47.79%	
+gholdengolunatone
+
+1577	
+Alex Rubio
+US
+7	2 - 5 - 1	36.56%	46.22%	
+ceruledge
+
+1578	
+Patrick Cook
+CA
+7	2 - 3 - 1 drop	36.39%	44.20%	
+gardevoir
+
+1579	
+Tristan Wilkins
+US
+7	2 - 3 - 1 drop	35.83%	47.63%	
+lopunny-megadusknoir
+
+1580	
+Allen Ibrahim
+US
+7	2 - 5 - 1	35.47%	42.51%	
+grimmsnarlfroslass
+
+1581	
+Ian Aviles
+US
+7	2 - 5 - 1	35.16%	47.71%	
+dragapultdusknoir
+
+1582	
+jiles almond
+CA
+7	2 - 5 - 1	34.90%	46.48%	
+dragapultcharizard
+
+1583	
+Ryan Leduc
+CA
+7	2 - 5 - 1	34.43%	43.37%	
+sharpedo-megatoxtricity
+
+1584	
+Robert Kominek
+CA
+7	2 - 5 - 1	33.21%	43.80%	
+archaludon
+
+1585	
+Connor Bouchard
+US
+6	2 - 2 - 0 drop	71.88%	50.78%	
+charizardnoctowl
+
+1586	
+Max DaSilva
+US
+6	2 - 3 - 0 drop	66.00%	46.20%	
+charizardnoctowl
+
+1587	
+Jashan Gharyal
+CA
+6	2 - 2 - 0 drop	65.63%	44.53%	
+joltikpikachu
+
+1588	
+kyle jones
+US
+6	2 - 3 - 0 drop	64.00%	53.00%	
+lopunny-megadusknoir
+
+1589	
+Mark Kelley
+US
+6	2 - 3 - 0 drop	64.00%	47.80%	
+gholdengolunatone
+
+1590	
+Jonathon Bourque
+CA
+6	2 - 4 - 0 drop	63.89%	52.45%	
+charizardnoctowl
+
+1591	
+Dillon Quick
+CA
+6	1 - 2 - 3 drop	63.89%	47.92%	
+zoroark
+
+1592	
+Erin Arcaina
+US
+6	2 - 3 - 0 drop	63.00%	48.75%	
+zoroark
+
+1593	
+Mauricio Alcaino
+CA
+6	2 - 3 - 0 drop	62.00%	46.20%	
+gholdengolunatone
+
+1594	
+Luke Migas
+CA
+6	2 - 4 - 0 drop	61.11%	51.71%	
+greninja
+
+1595	
+Jaydon-Tam Do
+CA
+6	2 - 3 - 0 drop	61.00%	50.40%	
+gardevoirjellicent
+
+1596	
+Riyad Mechel
+CA
+6	2 - 3 - 0 drop	61.00%	48.83%	
+gholdengolunatone
+
+1597	
+Tallia Tiffin
+CA
+6	2 - 3 - 0 drop	60.00%	56.20%	
+gholdengolunatone
+
+1598	
+Christopher Enriquez-Birch
+CA
+6	2 - 3 - 0 drop	60.00%	48.80%	
+zoroark
+
+1599	
+Roland King
+US
+6	2 - 3 - 0 drop	60.00%	48.60%	
+gardevoir
+
+1600	
+Anna Giacobbe
+CA
+6	2 - 3 - 0 drop	60.00%	44.00%	
+grimmsnarlfroslass
+
+1601	
+Junwei Liang
+CA
+6	2 - 4 - 0 drop	59.72%	48.10%	
+gardevoirjellicent
+
+1602	
+Robert Pompa
+US
+6	2 - 3 - 0 drop	59.00%	48.63%	
+charizardnoctowl
+
+1603	
+Zeyad Khairi
+CA
+6	2 - 3 - 0 drop	59.00%	47.49%	
+charizardnoctowl
+
+1604	
+Félix Huard
+CA
+6	2 - 3 - 0 drop	59.00%	47.00%	
+gardevoirjellicent
+
+1605	
+Connor Finton
+US
+6	2 - 3 - 0 drop	59.00%	45.20%	
+gholdengolunatone
+
+1606	
+Rob Swiencki
+US
+6	2 - 3 - 0 drop	58.67%	52.36%	
+dragapultdusknoir
+
+1607	
+Erich Francis
+US
+6	2 - 3 - 0 drop	58.00%	47.60%	
+zoroark
+
+1608	
+Marquis Blue
+US
+6	2 - 3 - 0 drop	57.00%	53.75%	
+zoroark
+
+1609	
+Serena Shafer
+US
+6	2 - 3 - 0 drop	57.00%	51.40%	
+grimmsnarlfroslass
+
+1610	
+Emiliano Chavez
+US
+6	2 - 3 - 0 drop	57.00%	50.40%	
+typhlosion
+
+1611	
+Jose de Jesus Rodriguez Rivas
+US
+6	2 - 3 - 0 drop	57.00%	49.80%	
+gholdengolunatone
+
+1612	
+Jiacheng Chen
+CA
+6	2 - 3 - 0 drop	57.00%	46.29%	
+gholdengolunatone
+
+1613	
+Edward Kuang
+CA
+6	2 - 4 - 0 drop	56.94%	52.81%	
+miraidoneelektrik
+
+1614	
+Ethan Cain
+CA
+6	2 - 3 - 0 drop	56.00%	50.33%	
+charizardpidgeot
+
+1615	
+Isaiah Flores
+CA
+6	2 - 3 - 0 drop	56.00%	48.60%	
+dragapultcharizard
+
+1616	
+Kelsy Rivera
+CA
+6	2 - 4 - 0 drop	55.56%	58.91%	
+manectric-megaeelektrik
+
+1617	
+Henderson Gentillon
+US
+6	1 - 2 - 3 drop	55.56%	50.81%	
+dragapultdusknoir
+
+1618	
+Jane Kiger
+US
+6	2 - 4 - 0 drop	55.56%	48.61%	
+gardevoirjellicent
+
+1619	
+Rhys Peck
+CA
+6	2 - 3 - 0 drop	55.00%	52.25%	
+noctowlogerpon-wellspring
+
+1620	
+Brandon Roman
+US
+6	2 - 3 - 0 drop	55.00%	52.00%	
+gholdengolunatone
+
+1621	
+Matt Menyo
+US
+6	2 - 3 - 0 drop	55.00%	49.35%	
+gholdengolunatone
+
+1622	
+Sebastion Heilman
+US
+6	2 - 3 - 0 drop	55.00%	48.40%	
+gholdengolunatone
+
+1623	
+Ammar Faisal
+US
+6	2 - 4 - 0 drop	54.17%	48.10%	
+raging-boltogerpon
+
+1624	
+Anthony Balko
+US
+6	2 - 4 - 0 drop	54.17%	46.76%	
+zoroark
+
+1625	
+Joseph Cajas
+US
+6	2 - 4 - 0 drop	54.17%	45.23%	
+absol-megakangaskhan-mega
+
+1626	
+Claudio Marricco
+CA
+6	2 - 4 - 0 drop	54.17%	45.05%	
+charizardnoctowl
+
+1627	
+Joel Dear
+CA
+6	1 - 3 - 3 drop	54.08%	46.94%	
+gholdengolunatone
+
+1628	
+Narelle Bailey
+CA
+6	2 - 2 - 0 drop	53.13%	50.00%	
+raging-boltogerpon
+
+1629	
+Jared Dodds
+CA
+6	2 - 2 - 0 drop	53.13%	49.22%	
+charizardnoctowl
+
+1630	
+Jetson Liu
+US
+6	2 - 3 - 0 drop	53.00%	55.51%	
+zoroark
+
+1631	
+Matthew A Brousseau
+US
+6	2 - 3 - 0 drop	53.00%	52.51%	
+absol-megakangaskhan-mega
+
+1632	
+Walter Pereyra
+US
+6	2 - 3 - 0 drop	53.00%	50.75%	
+iron-handsmagneton
+
+1633	
+Michael Belfer
+US
+6	2 - 3 - 0 drop	53.00%	48.95%	
+charizardnoctowl
+
+1634	
+Robert McCann
+CA
+6	2 - 3 - 0 drop	53.00%	45.77%	
+dragapultdusknoir
+
+1635	
+Tyler Loree
+CA
+6	2 - 3 - 0 drop	53.00%	45.58%	
+kangaskhan-megabouffalant
+
+1636	
+Brayden Hu
+CA
+6	2 - 4 - 0 drop	52.78%	50.65%	
+gardevoir
+
+1637	
+Griffin Chiang
+CA
+6	2 - 4 - 0 drop	52.78%	47.36%	
+sharpedo-megatoxtricity
+
+1638	
+Samuel Thibodeau
+CA
+6	1 - 2 - 3 drop	52.50%	46.96%	
+zoroark
+
+1639	
+Gilad Tal
+US
+6	2 - 4 - 0 drop	52.50%	45.27%	
+hydrappleogerpon
+
+1640	
+David Matte
+CA
+6	2 - 5 - 0 drop	52.21%	47.89%	
+ceruledge
+
+1641	
+Isaiah Jacques
+US
+6	2 - 3 - 0 drop	52.00%	49.11%	
+gholdengolunatone
+
+1642	
+Ryan Chin
+US
+6	2 - 3 - 0 drop	52.00%	49.00%	
+gholdengolunatone
+
+1643	
+Alexander Crean
+US
+6	2 - 3 - 0 drop	51.67%	54.84%	
+absol-megakangaskhan-mega
+
+1644	
+Zack Taylor
+US
+6	2 - 4 - 0 drop	51.39%	48.59%	
+ho-oharmarouge
+
+1645	
+Eugene Carie
+US
+6	1 - 3 - 3 drop	51.02%	51.03%	
+kangaskhan-megabouffalant
+
+1646	
+Victor Ghibu
+CA
+6	2 - 3 - 0 drop	51.00%	52.80%	
+charizardnoctowl
+
+1647	
+Cameron Whitehead
+CA
+6	2 - 3 - 0 drop	51.00%	51.60%	
+dragapultdusknoir
+
+1648	
+marcelo sanchez
+CA
+6	1 - 1 - 3 drop	51.00%	49.98%	
+charizardpidgeot
+
+1649	
+Bryan Bare
+US
+6	2 - 3 - 0 drop	51.00%	49.85%	
+charizardpidgeot
+
+1650	
+Alexander Adams Hsu
+US
+6	2 - 3 - 0 drop	51.00%	48.80%	
+gardevoirjellicent
+
+1651	
+Zachery Miller
+US
+6	2 - 3 - 0 drop	51.00%	47.40%	
+dragapultdusknoir
+
+1652	
+Ethan Gumban
+CA
+6	2 - 3 - 0 drop	51.00%	45.21%	
+dragapultdusknoir
+
+1653	
+Kevin Robinson
+US
+6	1 - 1 - 3 drop	50.67%	52.36%	
+chien-paobaxcalibur
+
+1654	
+Ralo Flores
+US
+6	2 - 5 - 0 drop	50.51%	47.92%	
+gholdengolunatone
+
+1655	
+Emily Raymond
+CA
+6	1 - 1 - 3 drop	50.00%	53.49%	
+dragapultcharizard
+
+1656	
+Alec Geissler
+US
+6	2 - 3 - 0 drop	50.00%	47.78%	
+dragapultdusknoir
+
+1657	
+Mike Moskal
+US
+6	2 - 3 - 0 drop	50.00%	47.20%	
+charizardpidgeot
+
+1658	
+Guglielmo Micieli
+CA
+6	2 - 4 - 0 drop	49.72%	44.46%	
+gholdengolunatone
+
+1659	
+David Fernandez
+MX
+6	2 - 5 - 0 drop	49.49%	51.95%	
+gholdengolunatone
+
+1660	
+Jalal Abokhabsa
+CA
+6	1 - 2 - 3 drop	49.44%	46.67%	
+dragapultdusknoir
+
+1661	
+Michael Breidenbach
+US
+6	2 - 4 - 0 drop	49.17%	49.98%	
+charizardnoctowl
+
+1662	
+Gledy Barradas-Grullon
+CA
+6	1 - 1 - 3 drop	49.00%	56.30%	
+gholdengojoltik
+
+1663	
+Corey Day
+US
+6	2 - 3 - 0 drop	49.00%	50.65%	
+charizardnoctowl
+
+1664	
+Taha Muhammad-Ali
+US
+6	1 - 1 - 3 drop	49.00%	50.03%	
+zoroark
+
+1665	
+Jake Ewart
+US
+6	2 - 3 - 0 drop	49.00%	48.20%	
+alakazamdudunsparce
+
+1666	
+Aidan Tattersall
+CA
+6	2 - 3 - 0 drop	49.00%	47.80%	
+dragapultdusknoir
+
+1667	
+Logan Fallick
+US
+6	2 - 3 - 0 drop	49.00%	47.80%	
+raging-boltogerpon
+
+1668	
+Patrick Jones
+CA
+6	2 - 4 - 0 drop	48.61%	52.96%	
+dragapultdusknoir
+
+1669	
+Logan Washburn
+US
+6	2 - 4 - 0 drop	48.61%	48.33%	
+dragapultdusknoir
+
+1670	
+Edward Nguyen
+US
+6	2 - 4 - 0 drop	48.61%	48.33%	
+gardevoir
+
+1671	
+Mohammad Nayfeh
+CA
+6	2 - 4 - 0 drop	48.61%	48.19%	
+gholdengolunatone
+
+1672	
+Chenghao Yang
+CN
+6	2 - 3 - 0 drop	48.00%	53.66%	
+gholdengolunatone
+
+1673	
+Jose Munoz
+US
+6	2 - 3 - 0 drop	48.00%	49.60%	
+dragapultcharizard
+
+1674	
+Travis Rowley
+US
+6	2 - 3 - 0 drop	48.00%	49.55%	
+gardevoirjellicent
+
+1675	
+Nathan Stover
+CA
+6	2 - 3 - 0 drop	48.00%	49.20%	
+slaking
+
+1676	
+Jason Figueiredo
+CA
+6	2 - 5 - 0 drop	47.96%	44.71%	
+dragapultdusknoir
+
+1677	
+Jason Kim
+US
+6	2 - 5 - 0 drop	47.79%	45.01%	
+pidgeot
+
+1678	
+Constantine Kontogiannis
+CA
+6	2 - 5 - 0 drop	47.45%	48.31%	
+charizardnoctowl
+
+1679	
+Michael Formanek
+US
+6	2 - 4 - 0 drop	47.22%	53.59%	
+charizardnoctowl
+
+1680	
+Geoff Lockett
+CA
+6	1 - 2 - 3 drop	47.22%	45.93%	
+charizardpidgeot
+
+1681	
+Geoffrey Manns
+CA
+6	2 - 3 - 0 drop	47.00%	51.78%	
+gardevoirjellicent
+
+1682	
+Aryaan Sheth
+CA
+6	2 - 3 - 0 drop	47.00%	50.60%	
+dragapultdusknoir
+
+1683	
+Danny Thach
+US
+6	2 - 3 - 0 drop	47.00%	48.58%	
+gholdengolunatone
+
+1684	
+Leonardo Santiago
+US
+6	2 - 3 - 0 drop	47.00%	46.40%	
+dragapultdusknoir
+
+1685	
+Joshua Manguba
+CA
+6	2 - 3 - 0 drop	47.00%	44.80%	
+noctowlogerpon-wellspring
+
+1686	
+BENJAMIN E CALDERON
+US
+6	1 - 2 - 3 drop	46.94%	46.15%	
+dragapultdusknoir
+
+1687	
+Lindsay Berkebile
+US
+6	2 - 6 - 0	46.21%	49.35%	
+gholdengolunatone
+
+1688	
+Ethan Lee
+CA
+6	2 - 3 - 0 drop	46.00%	49.79%	
+dragapultdusknoir
+
+1689	
+Henry Wu
+CA
+6	2 - 3 - 0 drop	46.00%	48.60%	
+gholdengolunatone
+
+1690	
+Stefan-Leonard Michiu
+CA
+6	2 - 3 - 0 drop	46.00%	47.95%	
+charizardnoctowl
+
+1691	
+Shawn Nota
+CA
+6	2 - 3 - 0 drop	46.00%	47.82%	
+venusaur-mega
+
+1692	
+Alexander David-Rodriguez
+US
+6	2 - 4 - 0 drop	45.83%	49.62%	
+charizardnoctowl
+
+1693	
+Maxime Brisson
+CA
+6	2 - 4 - 0 drop	45.83%	46.78%	
+gholdengolunatone
+
+1694	
+Kalle Wanagat
+US
+6	1 - 4 - 3	45.83%	46.17%	
+gardevoirjellicent
+
+1695	
+Wassim Yassine
+CA
+6	2 - 4 - 0 drop	45.83%	44.58%	
+conkeldurr
+
+1696	
+Alexis De melo
+CA
+6	2 - 6 - 0	45.83%	43.79%	
+charizardpidgeot
+
+1697	
+Nicholas Dryburgh
+CA
+6	2 - 4 - 0 drop	45.56%	50.53%	
+gardevoirjellicent
+
+1698	
+Hasan Kunukcu
+US
+6	2 - 6 - 0	45.20%	46.16%	
+pidgeot
+
+1699	
+Julien May
+CA
+6	2 - 3 - 0 drop	45.00%	50.42%	
+venusaur-mega
+
+1700	
+Sean Alexis Balayon
+US
+6	2 - 3 - 0 drop	45.00%	48.20%	
+charizardnoctowl
+
+1701	
+Aidan Culligan
+CA
+6	1 - 1 - 3 drop	45.00%	45.16%	
+charizardnoctowl
+
+1702	
+Graham Klein
+CA
+6	2 - 5 - 0 drop	44.90%	46.81%	
+charizardnoctowl
+
+1703	
+Mohammed Shamsulddin
+CA
+6	1 - 1 - 3 drop	44.50%	48.55%	
+gholdengolunatone
+
+1704	
+Maxwell Douglass
+US
+6	2 - 4 - 0 drop	44.44%	49.43%	
+gholdengolunatone
+
+1705	
+Chris Sweeney
+CA
+6	2 - 4 - 0 drop	44.44%	48.06%	
+flareonnoctowl
+
+1706	
+Noah Roh
+US
+6	2 - 4 - 0 drop	44.44%	48.04%	
+gardevoir
+
+1707	
+Austin Robar
+US
+6	2 - 4 - 0 drop	44.44%	45.69%	
+dragapultdusknoir
+
+1708	
+Louis Cyr
+CA
+6	2 - 5 - 0 drop	44.39%	47.77%	
+flareonnoctowl
+
+1709	
+Mason Liu
+US
+6	2 - 4 - 0 drop	44.17%	47.92%	
+lucario-megahariyama
+
+1710	
+Nhan Le
+US
+6	1 - 1 - 3 drop	44.00%	52.69%	
+slowking
+
+1711	
+Josh Romley
+US
+6	2 - 3 - 0 drop	44.00%	50.90%	
+gholdengolunatone
+
+1712	
+Michael Rems
+US
+6	1 - 4 - 3	43.75%	47.17%	
+grimmsnarlfroslass
+
+1713	
+Catherine Lynch
+US
+6	2 - 6 - 0	43.23%	44.43%	
+ceruledge
+
+1714	
+Diego Contes Negron
+US
+6	2 - 4 - 0 drop	43.06%	50.09%	
+gholdengojoltik
+
+1715	
+Nathan Barker
+US
+6	2 - 4 - 0 drop	43.06%	49.21%	
+gholdengolunatone
+
+1716	
+Alex Chubaty
+CA
+6	1 - 2 - 3 drop	43.06%	41.34%	
+charizardnoctowl
+
+1717	
+Chad Buisman
+CA
+6	2 - 3 - 0 drop	43.00%	45.40%	
+slaking
+
+1718	
+Andrew De Marzo
+CA
+6	2 - 3 - 0 drop	43.00%	43.88%	
+absol-megakangaskhan-mega
+
+1719	
+Rex Loizos
+CA
+6	1 - 4 - 3	42.33%	44.04%	
+charizardpidgeot
+
+1720	
+Alexander Chan
+CA
+6	2 - 6 - 0	42.17%	42.66%	
+gardevoirjellicent
+
+1721	
+Jake Harpster
+US
+6	2 - 3 - 0 drop	42.00%	48.78%	
+charizardpidgeot
+
+1722	
+Paul Menyo
+US
+6	2 - 3 - 0 drop	42.00%	45.23%	
+joltikpikachu
+
+1723	
+Elliot Sayles
+US
+6	2 - 4 - 0 drop	41.94%	53.69%	
+greninja
+
+1724	
+Bradley Shea
+US
+6	2 - 4 - 0 drop	41.94%	47.64%	
+gardevoirjellicent
+
+1725	
+Alejandro Delagarza
+US
+6	1 - 4 - 3	41.85%	45.06%	
+gholdengolunatone
+
+1726	
+Greg Ordun
+US
+6	2 - 4 - 0 drop	41.67%	46.02%	
+raging-boltogerpon
+
+1727	
+marc-alexandre chenail
+CA
+6	2 - 4 - 0 drop	41.67%	44.58%	
+gholdengolunatone
+
+1728	
+James Dear
+CA
+6	1 - 4 - 3	41.41%	43.18%	
+dragapultdusknoir
+
+1729	
+Mathieu Gagnon
+CA
+6	2 - 4 - 0 drop	41.39%	51.80%	
+dragapultdusknoir
+
+1730	
+Cody Sartori
+US
+6	2 - 6 - 0	41.15%	42.34%	
+substitute
+
+1731	
+Mose Galdames-Henry
+US
+6	2 - 3 - 0 drop	41.00%	51.40%	
+lopunny-megadusknoir
+
+1732	
+Sebastian Nowak
+CA
+6	1 - 1 - 3 drop	40.50%	49.80%	
+gardevoir
+
+1733	
+Juan Loza
+US
+6	1 - 3 - 3 drop	40.31%	48.62%	
+dragapultdusknoir
+
+1734	
+Christiano Carreira
+CA
+6	1 - 4 - 3	40.16%	46.61%	
+kangaskhan-megabouffalant
+
+1735	
+JASON LIN
+CA
+6	1 - 2 - 3 drop	40.00%	49.84%	
+gholdengolunatone
+
+1736	
+Brandon Jeannette
+US
+6	2 - 6 - 0	40.00%	48.52%	
+gholdengolunatone
+
+1737	
+Justin Cebuano
+CA
+6	2 - 3 - 0 drop	40.00%	46.60%	
+joltikpikachu
+
+1738	
+Dylan Cassidy
+US
+6	2 - 3 - 0 drop	40.00%	46.00%	
+gardevoirjellicent
+
+1739	
+Allen Amatsuji-Berry
+CA
+6	2 - 6 - 0	39.84%	46.53%	
+charizardpidgeot
+
+1740	
+Felix Trinh
+CA
+6	2 - 6 - 0	39.84%	45.98%	
+raging-boltogerpon
+
+1741	
+Dakota Hill
+CA
+6	2 - 6 - 0	39.84%	44.25%	
+charizardnoctowl
+
+1742	
+Matan m pilo
+CA
+6	2 - 6 - 0	39.64%	44.31%	
+dragapultcharizard
+
+1743	
+Vincent Barone
+US
+6	2 - 3 - 0 drop	39.50%	52.35%	
+joltikpikachu
+
+1744	
+Alexandra Scandrett
+CA
+6	2 - 6 - 0	38.95%	45.71%	
+dragapultdusknoir
+
+1745	
+Jacob Desrochers
+CA
+6	2 - 4 - 0 drop	38.61%	46.56%	
+charizardnoctowl
+
+1746	
+Matt Brett
+CA
+6	2 - 3 - 0 drop	38.00%	51.00%	
+charizardnoctowl
+
+1747	
+Brian Alves
+CA
+6	2 - 3 - 0 drop	38.00%	49.20%	
+gholdengolunatone
+
+1748	
+David Ashby
+CA
+6	2 - 4 - 0 drop	37.50%	47.59%	
+gholdengolunatone
+
+1749	
+Casey Eklove
+CA
+6	2 - 4 - 0 drop	36.11%	43.38%	
+slowking
+
+1750	
+Nikko Jim
+CA
+6	2 - 6 - 0	35.71%	40.74%	
+abomasnow-mega
+
+1751	
+Nicholas Williams
+US
+6	1 - 4 - 3	35.42%	41.68%	
+dragapultdusknoir
+
+1752	
+Alex Martinez
+US
+6	2 - 4 - 0 drop	34.72%	45.28%	
+dragapultdusknoir
+
+1753	
+Landon Williams
+CA
+6	2 - 5 - 0 drop	34.69%	44.19%	
+alakazamdudunsparce
+
+1754	
+Zach Thorslund
+US
+5	1 - 2 - 2 drop	65.00%	43.60%	
+dragapultdusknoir
+
+1755	
+Evan Pavelski
+US
+5	1 - 2 - 2 drop	60.00%	49.00%	
+gardevoir
+
+1756	
+Ryan Klimek
+US
+5	1 - 2 - 2 drop	58.00%	49.50%	
+dragapultdusknoir
+
+1757	
+Jason Adams
+US
+5	1 - 2 - 2 drop	58.00%	49.00%	
+alakazamdudunsparce
+
+1758	
+Philip Hernandez
+US
+5	1 - 2 - 2 drop	58.00%	47.60%	
+lopunny-megadusknoir
+
+1759	
+Wyatt Mehr
+US
+5	1 - 2 - 2 drop	56.00%	47.80%	
+dragapultdusknoir
+
+1760	
+Joany Brunet Turgeon
+CA
+5	1 - 3 - 2 drop	55.56%	51.39%	
+raging-boltogerpon
+
+1761	
+Daniel Bellefontaine
+CA
+5	1 - 3 - 2 drop	55.56%	50.27%	
+gardevoir
+
+1762	
+Nathan Wong
+CA
+5	1 - 3 - 2 drop	55.56%	46.16%	
+gardevoir
+
+1763	
+Olivier Sauriol
+CA
+5	1 - 3 - 2 drop	55.56%	43.24%	
+absol-megakangaskhan-mega
+
+1764	
+Jerome Pelletier
+CA
+5	1 - 2 - 2 drop	54.00%	54.20%	
+absol-megakangaskhan-mega
+
+1765	
+Jeremy Klug
+US
+5	1 - 2 - 2 drop	54.00%	52.00%	
+absol-megakangaskhan-mega
+
+1766	
+Winston Xing
+CA
+5	1 - 3 - 2 drop	53.61%	47.88%	
+dragapultdusknoir
+
+1767	
+Hubert Zhang
+US
+5	1 - 2 - 2 drop	53.00%	49.40%	
+dragapultdusknoir
+
+1768	
+Dylan Gunn
+US
+5	1 - 3 - 2 drop	51.39%	48.24%	
+gardevoirjellicent
+
+1769	
+Guilly Mendoza
+US
+5	1 - 3 - 2 drop	50.83%	45.69%	
+kangaskhan-megabouffalant
+
+1770	
+Lucas Alcaino
+CA
+5	1 - 2 - 2 drop	50.00%	51.20%	
+archaludon
+
+1771	
+Josh Chymy
+CA
+5	1 - 3 - 2 drop	49.72%	49.14%	
+raging-boltogerpon
+
+1772	
+Jacob Saur
+CA
+5	1 - 2 - 2 drop	49.00%	54.60%	
+dragapultdusknoir
+
+1773	
+Gary Pleyte
+US
+5	1 - 2 - 2 drop	49.00%	44.95%	
+kangaskhan-megabouffalant
+
+1774	
+Lukas Medeiros
+CA
+5	1 - 3 - 2 drop	48.61%	49.43%	
+gardevoirjellicent
+
+1775	
+Luke Hieronymus
+US
+5	1 - 2 - 2 drop	48.00%	49.20%	
+dragapultdusknoir
+
+1776	
+Owen Conway
+US
+5	1 - 2 - 2 drop	48.00%	49.00%	
+gholdengolunatone
+
+1777	
+Kira Ashley Vess
+US
+5	1 - 4 - 2 drop	47.96%	45.59%	
+charizardpidgeot
+
+1778	
+Rocco Samuel
+CA
+5	1 - 3 - 2 drop	47.92%	49.68%	
+ceruledge
+
+1779	
+Jonathan Bruzzese
+CA
+5	0 - 1 - 5 drop	47.22%	44.44%	
+gardevoirjellicent
+
+1780	
+Steven Varesko
+US
+5	1 - 2 - 2 drop	47.00%	46.98%	
+gardevoirjellicent
+
+1781	
+Ashraf Chahid
+US
+5	1 - 3 - 2 drop	46.94%	46.69%	
+alakazamdudunsparce
+
+1782	
+Josh Carrier
+CA
+5	1 - 2 - 2 drop	46.00%	48.53%	
+grimmsnarlfroslass
+
+1783	
+Dallas Jones
+US
+5	1 - 3 - 2 drop	45.83%	48.51%	
+alakazamdudunsparce
+
+1784	
+Brendan Acre
+US
+5	1 - 5 - 2	45.42%	45.45%	
+dragapultdusknoir
+
+1785	
+Peter Le
+US
+5	1 - 5 - 2	45.31%	46.27%	
+slowking
+
+1786	
+Patrick Carey
+CA
+5	1 - 3 - 2 drop	45.00%	50.12%	
+zoroark
+
+1787	
+Alvin Lachhman
+US
+5	1 - 3 - 2 drop	44.44%	46.30%	
+gholdengolunatone
+
+1788	
+Brennon Oster
+CA
+5	1 - 3 - 2 drop	43.89%	47.64%	
+dragapultdusknoir
+
+1789	
+Matthew Fox
+US
+5	1 - 2 - 2 drop	43.75%	51.78%	
+zoroark
+
+1790	
+Brad Devine
+CA
+5	1 - 3 - 2 drop	43.06%	47.31%	
+sharpedo-megatoxtricity
+
+1791	
+Marko Radovanovic
+CA
+5	1 - 2 - 2 drop	43.00%	47.35%	
+grimmsnarl
+
+1792	
+Matt Chusroskie
+CA
+5	1 - 2 - 2 drop	43.00%	47.20%	
+alakazamdudunsparce
+
+1793	
+Michael Young
+CA
+5	1 - 5 - 2	42.45%	48.65%	
+gholdengolunatone
+
+1794	
+Nicholas Tough
+CA
+5	1 - 2 - 2 drop	42.00%	48.85%	
+hydrappleogerpon
+
+1795	
+Zolan Mathon
+CA
+5	1 - 5 - 2	40.47%	42.74%	
+raging-boltogerpon
+
+1796	
+Gabriel Gagne
+CA
+5	1 - 5 - 2	39.84%	44.51%	
+kangaskhan-megabouffalant
+
+1797	
+Dean Peppe
+US
+5	1 - 5 - 2	39.40%	46.79%	
+zoroark
+
+1798	
+Spencer Lelievre
+CA
+5	1 - 5 - 2	39.38%	44.97%	
+kangaskhan-megabouffalant
+
+1799	
+David Cline
+US
+5	1 - 5 - 2	36.20%	40.41%	
+lopunny-megadusknoir
+
+1800	
+Michael Spenle
+US
+5	1 - 5 - 2	35.97%	41.23%	
+charizardpidgeot
+
+1801	
+Rebecca Mair
+CA
+5	1 - 5 - 2	34.11%	40.62%	
+flareon
+
+1802	
+Brandon Brintnell
+CA
+5	1 - 3 - 2 drop	33.33%	46.21%	
+gholdengolunatone
+
+1803	
+Albert Yeung
+US
+4	1 - 2 - 1 drop	62.50%	47.66%	
+gardevoir
+
+1804	
+Justin Hristovski
+CA
+4	1 - 4 - 1 drop	62.50%	46.76%	
+gardevoir
+
+1805	
+Wyatt Lightfoot
+CA
+4	1 - 3 - 1 drop	60.00%	48.60%	
+flareonnoctowl
+
+1806	
+Logan Coles
+US
+4	1 - 3 - 1 drop	58.00%	47.20%	
+absol-megakangaskhan-mega
+
+1807	
+Étienne Dupuis
+CA
+4	1 - 3 - 1 drop	57.00%	52.50%	
+gholdengolunatone
+
+1808	
+Aimee Crouse
+US
+4	1 - 3 - 1 drop	57.00%	48.38%	
+alakazamdudunsparce
+
+1809	
+Chris Torres
+US
+4	1 - 4 - 1 drop	56.94%	48.40%	
+gholdengolunatone
+
+1810	
+Ami Bisard
+US
+4	1 - 4 - 1 drop	56.94%	44.71%	
+iron-thorns
+
+1811	
+Jinquan Li
+CA
+4	1 - 3 - 1 drop	56.00%	52.20%	
+charizardnoctowl
+
+1812	
+Patrick Zhu
+CA
+4	1 - 3 - 1 drop	56.00%	46.80%	
+noctowlogerpon-wellspring
+
+1813	
+Flynn Bellows-Cross
+CA
+4	1 - 3 - 1 drop	56.00%	46.60%	
+sharpedo-megatoxtricity
+
+1814	
+Scott Devoe
+US
+4	1 - 3 - 1 drop	56.00%	46.00%	
+venusaur-mega
+
+1815	
+Nataniel Plouffe
+CA
+4	1 - 3 - 1 drop	55.00%	50.20%	
+grimmsnarlfroslass
+
+1816	
+Tong Li
+CA
+4	1 - 3 - 1 drop	55.00%	49.60%	
+dragapultdusknoir
+
+1817	
+Jaylen Kyle
+US
+4	1 - 3 - 1 drop	55.00%	48.80%	
+venusaur-mega
+
+1818	
+Yun Shin
+CA
+4	1 - 3 - 1 drop	55.00%	46.20%	
+absol-megakangaskhan-mega
+
+1819	
+Frank Paine
+US
+4	1 - 4 - 1 drop	54.17%	41.16%	
+gholdengo
+
+1820	
+Taylor Ventrice
+US
+4	1 - 3 - 1 drop	54.00%	45.60%	
+flareonnoctowl
+
+1821	
+Simon Scott
+CA
+4	1 - 4 - 1 drop	52.78%	45.42%	
+gardevoir
+
+1822	
+BRYCE SIDERIUS
+CA
+4	1 - 4 - 1 drop	52.78%	43.56%	
+gholdengolunatone
+
+1823	
+Robert Metcalfe
+US
+4	1 - 3 - 1 drop	52.00%	49.80%	
+garchomp
+
+1824	
+Ryan Gniewek
+US
+4	1 - 3 - 1 drop	52.00%	44.40%	
+gardevoirjellicent
+
+1825	
+Lenny Trinh
+CA
+4	1 - 4 - 1 drop	51.39%	43.43%	
+zoroark
+
+1826	
+Preston Robertson
+US
+4	1 - 3 - 1 drop	50.00%	54.00%	
+gardevoir
+
+1827	
+Ken Gov
+CA
+4	1 - 2 - 1 drop	50.00%	53.91%	
+gardevoir
+
+1828	
+Jack Kolbert
+US
+4	1 - 3 - 1 drop	50.00%	48.00%	
+gardevoir
+
+1829	
+Victoria Edwards
+US
+4	1 - 3 - 1 drop	50.00%	47.20%	
+flareonnoctowl
+
+1830	
+Dario Marchetta
+CA
+4	1 - 3 - 1 drop	50.00%	47.20%	
+charizardnoctowl
+
+1831	
+Kevin Yu
+US
+4	1 - 3 - 1 drop	50.00%	46.02%	
+gholdengolunatone
+
+1832	
+Carter Mcdonald
+US
+4	1 - 4 - 1 drop	50.00%	45.74%	
+dragapultcharizard
+
+1833	
+Jadon Clark
+US
+4	1 - 3 - 1 drop	50.00%	45.60%	
+gholdengolunatone
+
+1834	
+Anneke Huisman
+CA
+4	1 - 3 - 1 drop	50.00%	45.40%	
+flareonnoctowl
+
+1835	
+Mason Carraro
+CA
+4	1 - 3 - 1 drop	50.00%	44.53%	
+gardevoirjellicent
+
+1836	
+Peter David
+CA
+4	1 - 4 - 1 drop	50.00%	44.29%	
+gardevoir
+
+1837	
+Christopher Barraco-heil
+CA
+4	1 - 3 - 1 drop	50.00%	42.13%	
+kangaskhan-megabouffalant
+
+1838	
+Michael Rozsa
+CA
+4	1 - 3 - 1 drop	49.00%	49.00%	
+gholdengolunatone
+
+1839	
+Matthew Kariatsumari
+CA
+4	1 - 3 - 1 drop	49.00%	48.50%	
+gardevoir
+
+1840	
+marc aloe
+CA
+4	1 - 3 - 1 drop	49.00%	47.25%	
+alakazamdudunsparce
+
+1841	
+Junseok Park
+US
+4	1 - 3 - 1 drop	49.00%	47.20%	
+gholdengolunatone
+
+1842	
+Alan Phan
+US
+4	1 - 3 - 1 drop	49.00%	46.10%	
+dragapultdusknoir
+
+1843	
+Nathaniel Ross
+US
+4	1 - 3 - 1 drop	49.00%	43.93%	
+gholdengolunatone
+
+1844	
+Cherry Maitland
+US
+4	1 - 4 - 1 drop	48.61%	49.10%	
+gardevoir
+
+1845	
+DJ Parkinson
+US
+4	1 - 4 - 1 drop	48.61%	48.03%	
+gardevoirjellicent
+
+1846	
+Ludovic Fortin
+CA
+4	1 - 4 - 1 drop	48.61%	44.29%	
+charizardnoctowl
+
+1847	
+Nathaniel Wood
+CA
+4	1 - 4 - 1 drop	48.61%	43.94%	
+gholdengolunatone
+
+1848	
+Kyle Vanderelzen
+US
+4	1 - 4 - 1 drop	48.61%	43.75%	
+charizardpidgeot
+
+1849	
+Aaron Smith
+US
+4	1 - 3 - 1 drop	48.00%	42.40%	
+charizardpidgeot
+
+1850	
+Sam Restoule
+CA
+4	1 - 6 - 1	47.66%	45.90%	
+absol-megakangaskhan-mega
+
+1851	
+Abraham Estrada
+US
+4	1 - 4 - 1 drop	47.22%	45.23%	
+dragapultdusknoir
+
+1852	
+Michael Cancer
+US
+4	1 - 3 - 1 drop	47.00%	50.40%	
+absol-megakangaskhan-mega
+
+1853	
+Jaret Dawson
+US
+4	1 - 3 - 1 drop	47.00%	47.00%	
+charizardnoctowl
+
+1854	
+Vincent McClintock
+US
+4	1 - 3 - 1 drop	47.00%	46.33%	
+charizardnoctowl
+
+1855	
+Philip Seong
+CA
+4	1 - 3 - 1 drop	47.00%	45.60%	
+gardevoir
+
+1856	
+Wyatt Triplett
+US
+4	1 - 3 - 1 drop	47.00%	45.00%	
+gholdengolunatone
+
+1857	
+Alisabeth Taramona
+US
+4	1 - 2 - 1 drop	46.88%	47.66%	
+gholdengolunatone
+
+1858	
+Daniel Thai
+CA
+4	1 - 4 - 1 drop	46.39%	47.40%	
+kangaskhan-megabouffalant
+
+1859	
+Ali Coulibaly
+CA
+4	1 - 3 - 1 drop	46.00%	46.80%	
+flareonnoctowl
+
+1860	
+NAHUEL ALCAINO
+CA
+4	1 - 3 - 1 drop	46.00%	44.67%	
+alakazamdudunsparce
+
+1861	
+Dat Tieu
+US
+4	1 - 3 - 1 drop	46.00%	43.00%	
+gholdengolunatone
+
+1862	
+Daniel Salvador
+CA
+4	1 - 4 - 1 drop	45.83%	42.45%	
+seakingthwackey
+
+1863	
+Jorge Cubias
+US
+4	1 - 3 - 1 drop	45.00%	51.50%	
+dragapult
+
+1864	
+Seth Wagner
+US
+4	1 - 3 - 1 drop	45.00%	49.31%	
+dragapultdusknoir
+
+1865	
+Tyler Vanderwees
+CA
+4	1 - 3 - 1 drop	45.00%	48.60%	
+gholdengolunatone
+
+1866	
+Alex Vongsouneth-Vo
+CA
+4	1 - 3 - 1 drop	45.00%	48.40%	
+zoroark
+
+1867	
+Joe Ferrari
+CA
+4	1 - 3 - 1 drop	45.00%	47.54%	
+roaring-moon
+
+1868	
+Rylan Fisher
+CA
+4	1 - 3 - 1 drop	45.00%	47.20%	
+substitute
+
+1869	
+Itza Romo
+US
+4	1 - 3 - 1 drop	45.00%	44.67%	
+charizardnoctowl
+
+1870	
+Mikey Sanagustin
+US
+4	1 - 4 - 1 drop	45.00%	43.58%	
+gardevoirjellicent
+
+1871	
+Dominik Lis
+US
+4	1 - 6 - 1	44.53%	43.75%	
+dragapultdusknoir
+
+1872	
+Patrick Mileski
+US
+4	1 - 3 - 1 drop	44.50%	43.63%	
+hydrappleogerpon
+
+1873	
+Malcom Lussier
+CA
+4	1 - 4 - 1 drop	44.44%	48.11%	
+ceruledge
+
+1874	
+TAO SONG
+CA
+4	1 - 4 - 1 drop	44.44%	46.41%	
+charizardpidgeot
+
+1875	
+Madison Wuertz
+CA
+4	1 - 4 - 1 drop	44.44%	45.00%	
+dragapultdusknoir
+
+1876	
+Anastazja Clappison
+CA
+4	1 - 4 - 1 drop	44.44%	44.40%	
+dragapultcharizard
+
+1877	
+eric villeneuve
+CA
+4	1 - 6 - 1	44.27%	44.92%	
+zoroark
+
+1878	
+William Timineri
+CA
+4	1 - 3 - 1 drop	44.00%	49.85%	
+alakazamdudunsparce
+
+1879	
+Charlotte Greene
+US
+4	1 - 4 - 1 drop	43.89%	48.43%	
+ceruledge
+
+1880	
+Austin Crider
+US
+4	1 - 5 - 1 drop	43.88%	48.38%	
+zoroark
+
+1881	
+Hunter Mcilmurray
+CA
+4	1 - 2 - 1 drop	43.75%	55.47%	
+typhlosion
+
+1882	
+Peter Mairs
+CA
+4	1 - 2 - 1 drop	43.75%	53.65%	
+gholdengolunatone
+
+1883	
+Aiden Melo
+CA
+4	1 - 4 - 1 drop	43.06%	49.61%	
+lucario-megahariyama
+
+1884	
+Cassandra Varenhorst
+US
+4	1 - 4 - 1 drop	43.06%	43.98%	
+lopunny-megadusknoir
+
+1885	
+Kyun Woo Hong
+US
+4	0 - 1 - 4 drop	43.00%	46.85%	
+charizardnoctowl
+
+1886	
+Devin Hupp
+US
+4	1 - 3 - 1 drop	43.00%	46.55%	
+gholdengolunatone
+
+1887	
+Andrew Russell
+US
+4	1 - 3 - 1 drop	43.00%	44.00%	
+dragapultdusknoir
+
+1888	
+Eric Donovan
+US
+4	1 - 6 - 1	42.81%	46.58%	
+dragapultdusknoir
+
+1889	
+Scott Williams
+CA
+4	1 - 3 - 1 drop	42.00%	48.00%	
+gardevoir
+
+1890	
+Daniel Humphrey
+US
+4	1 - 6 - 1	41.96%	42.59%	
+dragapultcharizard
+
+1891	
+Ethan Callaway
+US
+4	1 - 1 - 1 drop	41.67%	57.41%	
+lopunny-megadusknoir
+
+1892	
+MATTEO BATTISTA
+CA
+4	1 - 4 - 1 drop	41.67%	49.27%	
+gholdengolunatone
+
+1893	
+Xander Pero
+US
+4	1 - 3 - 1 drop	41.00%	48.40%	
+zoroark
+
+1894	
+Ezequiel Moreno
+US
+4	1 - 3 - 1 drop	41.00%	42.80%	
+gholdengolunatone
+
+1895	
+Matt Hartigan
+US
+4	1 - 5 - 1 drop	40.85%	45.64%	
+ceruledge
+
+1896	
+Devan Gregory
+CA
+4	1 - 6 - 1	40.71%	45.74%	
+charizardnoctowl
+
+1897	
+Mai-Thy Le
+CA
+4	1 - 6 - 1	40.52%	43.87%	
+gholdengolunatone
+
+1898	
+Juliana Brisco
+US
+4	1 - 5 - 1 drop	40.31%	41.78%	
+charizardnoctowl
+
+1899	
+thomas le
+CA
+4	1 - 4 - 1 drop	40.28%	45.93%	
+gardevoir
+
+1900	
+Tianen Li
+US
+4	1 - 3 - 1 drop	40.00%	50.00%	
+dragapultdusknoir
+
+1901	
+Henry Charnock
+US
+4	1 - 3 - 1 drop	40.00%	49.20%	
+dragapultdusknoir
+
+1902	
+Daniel Fappiano
+US
+4	1 - 4 - 1 drop	40.00%	47.31%	
+gholdengolunatone
+
+1903	
+John Hoyle
+CA
+4	1 - 4 - 1 drop	40.00%	45.97%	
+dragapultdusknoir
+
+1904	
+Aaron Wong
+CA
+4	1 - 6 - 1	39.69%	40.95%	
+charizardpidgeot
+
+1905	
+Eric Edds
+US
+4	1 - 5 - 1 drop	39.09%	41.78%	
+noctowlogerpon-wellspring
+
+1906	
+Florence Cao
+CA
+4	1 - 6 - 1	38.91%	46.64%	
+gardevoirjellicent
+
+1907	
+Brandon May
+US
+4	1 - 4 - 1 drop	38.89%	48.30%	
+charizardpidgeot
+
+1908	
+Nicole Salubre
+CA
+4	1 - 4 - 1 drop	38.89%	48.10%	
+charizardpidgeot
+
+1909	
+Rob Sistare
+US
+4	0 - 4 - 4	38.57%	46.58%	
+dragapultdusknoir
+
+1910	
+Timéo Beschemin
+CA
+4	1 - 4 - 1 drop	38.19%	46.26%	
+grimmsnarlfroslass
+
+1911	
+evan fraser
+CA
+4	1 - 3 - 1 drop	38.00%	47.60%	
+dipplinthwackey
+
+1912	
+Steven Salines
+CA
+4	1 - 3 - 1 drop	37.00%	46.98%	
+alakazamdudunsparce
+
+1913	
+Andrew Greenhalgh
+CA
+4	1 - 3 - 1 drop	37.00%	45.00%	
+dragapultdusknoir
+
+1914	
+Alyssa Conforti
+CA
+4	1 - 3 - 1 drop	37.00%	43.70%	
+gholdengolunatone
+
+1915	
+Alain Trépanier
+CA
+4	1 - 5 - 1 drop	36.73%	49.31%	
+substitute
+
+1916	
+Alexandre Brillon
+CA
+4	1 - 5 - 1 drop	36.43%	43.57%	
+charizardnoctowl
+
+1917	
+minick stone
+US
+4	1 - 6 - 1	36.10%	44.74%	
+tsareena
+
+1918	
+Gabriel Sasseville
+CA
+4	1 - 3 - 1 drop	36.00%	49.00%	
+substitute
+
+1919	
+Justin Lim
+CA
+4	1 - 5 - 1 drop	35.71%	48.62%	
+porygon-z
+
+1920	
+Marc-André Lamothe
+CA
+4	1 - 3 - 1 drop	35.00%	50.05%	
+gholdengo
+
+1921	
+Vincent LaBarba
+US
+4	1 - 3 - 1 drop	33.00%	45.80%	
+absol-megakangaskhan-mega
+
+1922	
+Emma-Rose Gadde
+CA
+4	1 - 3 - 1 drop	33.00%	43.80%	
+lucario-megahariyama
+
+1923	
+Rob Petrach III
+US
+4	1 - 3 - 1 drop	31.00%	46.40%	
+flareonnoctowl
+
+1924	
+Don Reslock
+US
+3	1 - 2 - 0 drop	66.67%	48.15%	
+gardevoirjellicent
+
+1925	
+Kevin Chen
+CA
+3	1 - 3 - 0 drop	65.63%	51.56%	
+alakazamdudunsparce
+
+1926	
+Leon Lai
+CA
+3	1 - 3 - 0 drop	65.63%	47.66%	
+joltikpikachu
+
+1927	
+Andrew Huynh
+CA
+3	1 - 3 - 0 drop	65.63%	46.09%	
+gholdengolunatone
+
+1928	
+Jonathan Paul Cruz
+CA
+3	1 - 3 - 0 drop	65.63%	44.53%	
+charizardnoctowl
+
+1929	
+Nick Mangano
+US
+3	1 - 2 - 0 drop	63.89%	50.00%	
+gholdengolunatone
+
+1930	
+Aidan Khus
+US
+3	1 - 3 - 0 drop	62.50%	46.09%	
+gardevoirjellicent
+
+1931	
+Joseph Myerscough
+CA
+3	1 - 3 - 0 drop	62.50%	44.53%	
+gholdengolunatone
+
+1932	
+Kevin Deitche
+US
+3	1 - 4 - 0 drop	60.00%	46.60%	
+charizardnoctowl
+
+1933	
+Maxime Michaud
+CA
+3	1 - 3 - 0 drop	59.38%	47.66%	
+dragapultdusknoir
+
+1934	
+Maliq Bell-Brown
+US
+3	1 - 3 - 0 drop	59.38%	45.66%	
+gholdengolunatone
+
+1935	
+Aiden Casey
+US
+3	1 - 3 - 0 drop	59.38%	45.31%	
+gholdengolunatone
+
+1936	
+Zach Steele
+US
+3	1 - 3 - 0 drop	59.38%	41.41%	
+gardevoir
+
+1937	
+Zachary Boake
+CA
+3	1 - 2 - 0 drop	58.33%	44.44%	
+lopunny-megadusknoir
+
+1938	
+Alex Parsons
+CA
+3	1 - 2 - 0 drop	58.33%	44.44%	
+gholdengolunatone
+
+1939	
+Anthony Le
+CA
+3	1 - 2 - 0 drop	58.33%	38.89%	
+dragapultdusknoir
+
+1940	
+Andreya Dunks
+US
+3	1 - 2 - 0 drop	58.33%	37.04%	
+charizardnoctowl
+
+1941	
+Darian Stigall
+US
+3	1 - 4 - 0 drop	58.00%	46.80%	
+hydrappleogerpon
+
+1942	
+Jordan LeClair
+CA
+3	1 - 4 - 0 drop	58.00%	43.80%	
+gholdengolunatone
+
+1943	
+Matthew Woloszanskyj
+CA
+3	1 - 5 - 0 drop	56.94%	46.62%	
+joltikpikachu
+
+1944	
+Jimmy Huynh
+CA
+3	1 - 3 - 0 drop	56.25%	52.17%	
+gholdengolunatone
+
+1945	
+Bryson Hunt
+CA
+3	1 - 3 - 0 drop	56.25%	49.74%	
+gholdengolunatone
+
+1946	
+Joshua Berube
+CA
+3	1 - 3 - 0 drop	56.25%	49.22%	
+noctowlogerpon-wellspring
+
+1947	
+Stephen Krieg
+CA
+3	1 - 3 - 0 drop	56.25%	49.22%	
+gardevoir
+
+1948	
+Lance Bradshaw
+US
+3	1 - 3 - 0 drop	56.25%	48.44%	
+dragapultdusknoir
+
+1949	
+William Doremus
+US
+3	1 - 3 - 0 drop	56.25%	48.26%	
+gholdengolunatone
+
+1950	
+Josh Taylor
+US
+3	1 - 3 - 0 drop	56.25%	47.66%	
+joltikpikachu
+
+1951	
+Noah Nicorvo
+US
+3	1 - 3 - 0 drop	56.25%	47.66%	
+sharpedo-megatoxtricity
+
+1952	
+Darius Hamlet
+CA
+3	1 - 3 - 0 drop	56.25%	46.88%	
+gardevoirjellicent
+
+1953	
+Pavithran Kumarathasan
+CA
+3	1 - 3 - 0 drop	56.25%	46.09%	
+garchomp
+
+1954	
+Gabrielle Hawkins
+US
+3	1 - 3 - 0 drop	56.25%	46.09%	
+grimmsnarlfroslass
+
+1955	
+Max Ye
+CA
+3	1 - 3 - 0 drop	56.25%	46.09%	
+gardevoir
+
+1956	
+Liam Tavares
+CA
+3	1 - 3 - 0 drop	56.25%	45.31%	
+ceruledge
+
+1957	
+Josh Litvinoff
+US
+3	1 - 3 - 0 drop	56.25%	45.31%	
+alakazamdudunsparce
+
+1958	
+Samantha Wancour
+US
+3	1 - 3 - 0 drop	56.25%	45.31%	
+gholdengolunatone
+
+1959	
+Vincent Cote
+CA
+3	1 - 3 - 0 drop	56.25%	43.75%	
+gardevoir
+
+1960	
+Rachel Tong
+CA
+3	1 - 3 - 0 drop	56.25%	43.75%	
+hydreigon
+
+1961	
+Hunter Eisan
+CA
+3	1 - 3 - 0 drop	56.25%	41.15%	
+dragapultdusknoir
+
+1962	
+ryan martindale
+CA
+3	1 - 4 - 0 drop	56.00%	50.40%	
+flareonnoctowl
+
+1963	
+Glen Henderson
+CA
+3	1 - 4 - 0 drop	56.00%	48.00%	
+gholdengolunatone
+
+1964	
+Geovany Ramirez
+US
+3	1 - 4 - 0 drop	56.00%	46.60%	
+dragapultdusknoir
+
+1965	
+Deighton Sarna
+CA
+3	1 - 2 - 0 drop	55.56%	38.89%	
+zoroark
+
+1966	
+George Wang
+CA
+3	1 - 4 - 0 drop	54.00%	48.20%	
+dragapultdusknoir
+
+1967	
+Jaimey Dubois
+CA
+3	1 - 4 - 0 drop	54.00%	46.20%	
+gardevoirjellicent
+
+1968	
+Thomas Deemter
+US
+3	1 - 4 - 0 drop	54.00%	44.15%	
+dragapultdusknoir
+
+1969	
+Logan Clark
+US
+3	1 - 3 - 0 drop	53.13%	51.56%	
+gholdengolunatone
+
+1970	
+Zach Kerr
+CA
+3	1 - 3 - 0 drop	53.13%	50.78%	
+pidgeot
+
+1971	
+Jack Koller
+US
+3	1 - 3 - 0 drop	53.13%	50.78%	
+gholdengolunatone
+
+1972	
+Michael Berry
+US
+3	1 - 3 - 0 drop	53.13%	50.78%	
+gholdengojoltik
+
+1973	
+Chris Siakala
+US
+3	1 - 3 - 0 drop	53.13%	49.22%	
+gholdengolunatone
+
+1974	
+Joel Bacon
+CA
+3	1 - 3 - 0 drop	53.13%	49.22%	
+sharpedo-megatoxtricity
+
+1975	
+Gabriel Rozon
+CA
+3	1 - 3 - 0 drop	53.13%	48.18%	
+lopunny-megadusknoir
+
+1976	
+Anthony Giler
+US
+3	1 - 3 - 0 drop	53.13%	47.66%	
+gholdengolunatone
+
+1977	
+Jeremiah Paulsen
+US
+3	1 - 3 - 0 drop	53.13%	47.66%	
+greninja
+
+1978	
+Morgan Johnsen
+US
+3	1 - 3 - 0 drop	53.13%	46.88%	
+dragapultdusknoir
+
+1979	
+Stephanie Hou
+US
+3	1 - 3 - 0 drop	53.13%	44.53%	
+gardevoir
+
+1980	
+Nikolas Kohek
+CA
+3	1 - 3 - 0 drop	53.13%	44.53%	
+flareonnoctowl
+
+1981	
+Michael Sherman
+US
+3	1 - 3 - 0 drop	53.13%	43.75%	
+joltikpikachu
+
+1982	
+Andrew Czerwinsky
+CA
+3	1 - 3 - 0 drop	53.13%	43.49%	
+ceruledge
+
+1983	
+Liam Pavone
+US
+3	1 - 2 - 0 drop	52.78%	62.50%	
+gardevoirjellicent
+
+1984	
+Matthew Keyes
+US
+3	1 - 2 - 0 drop	52.78%	53.70%	
+gholdengolunatone
+
+1985	
+Levi Wilson
+US
+3	1 - 2 - 0 drop	52.78%	53.70%	
+gholdengolunatone
+
+1986	
+Bennett Sarna
+CA
+3	1 - 2 - 0 drop	52.78%	49.07%	
+dragapultdusknoir
+
+1987	
+Denzell Xu
+CA
+3	1 - 4 - 0 drop	51.00%	48.71%	
+gardevoirjellicent
+
+1988	
+Brian McCoy
+US
+3	1 - 4 - 0 drop	51.00%	44.40%	
+dragapultdusknoir
+
+1989	
+Ethan Deis
+US
+3	1 - 3 - 0 drop	50.00%	51.56%	
+gardevoirjellicent
+
+1990	
+Erik Aucapina
+US
+3	1 - 3 - 0 drop	50.00%	50.52%	
+gholdengolunatone
+
+1991	
+Hunter Smith
+CA
+3	1 - 3 - 0 drop	50.00%	49.22%	
+gholdengolunatone
+
+1992	
+Isabella Sanchez
+CA
+3	1 - 3 - 0 drop	50.00%	48.44%	
+gholdengolunatone
+
+1993	
+Max De Saint
+CA
+3	1 - 3 - 0 drop	50.00%	48.44%	
+gardevoirjellicent
+
+1994	
+Sebastian Rossello
+US
+3	1 - 3 - 0 drop	50.00%	46.88%	
+slaking
+
+1995	
+Kyle Rive-foster
+CA
+3	1 - 3 - 0 drop	50.00%	46.88%	
+gholdengolunatone
+
+1996	
+Matteo Giampietro-Ciancone
+CA
+3	1 - 3 - 0 drop	50.00%	46.88%	
+dragapultdusknoir
+
+1997	
+Ryan Schneider
+CA
+3	1 - 3 - 0 drop	50.00%	46.88%	
+lopunny-megadusknoir
+
+1998	
+Seamus Spencer
+US
+3	1 - 3 - 0 drop	50.00%	46.09%	
+gholdengolunatone
+
+1999	
+Evan Wen
+US
+3	1 - 3 - 0 drop	50.00%	45.31%	
+zoroark
+
+2000	
+Hassan Nayfeh
+CA
+3	1 - 3 - 0 drop	50.00%	44.53%	
+dragapultdusknoir
+
+2001	
+Alana Chaisson
+CA
+3	1 - 1 - 0 drop	50.00%	43.75%	
+substitute
+
+2002	
+XianQi NING
+CA
+3	1 - 3 - 0 drop	50.00%	43.75%	
+grimmsnarlfroslass
+
+2003	
+Jethro Bastien
+CA
+3	0 - 1 - 3 drop	50.00%	43.75%	
+charizardpidgeot
+
+2004	
+Jay Cristiano
+CA
+3	1 - 3 - 0 drop	50.00%	43.75%	
+dragapultdusknoir
+
+2005	
+Michael Hodges
+US
+3	1 - 4 - 0 drop	50.00%	43.40%	
+venusaur-mega
+
+2006	
+Muhamed Palatinus
+CA
+3	1 - 4 - 0 drop	50.00%	41.80%	
+gholdengolunatone
+
+2007	
+Derek Wilson
+CA
+3	1 - 3 - 0 drop	50.00%	34.03%	
+charizardnoctowl
+
+2008	
+Justin Parsons
+CA
+3	1 - 5 - 0 drop	49.72%	48.25%	
+alakazamdudunsparce
+
+2009	
+Bill Papacostas
+US
+3	1 - 4 - 0 drop	49.00%	47.29%	
+kangaskhan-megaforretress
+
+2010	
+Beau Fleetwood
+US
+3	1 - 4 - 0 drop	49.00%	47.00%	
+zoroark
+
+2011	
+Richard Clegg
+CA
+3	1 - 4 - 0 drop	49.00%	44.92%	
+lopunny-megadusknoir
+
+2012	
+Luca Mancini
+US
+3	1 - 4 - 0 drop	49.00%	44.40%	
+charizardnoctowl
+
+2013	
+Mike Aurilio
+CA
+3	1 - 5 - 0 drop	48.61%	43.83%	
+dragapultdusknoir
+
+2014	
+Abel Yallew
+CA
+3	1 - 4 - 0 drop	48.00%	51.60%	
+gholdengolunatone
+
+2015	
+Luke Smith
+US
+3	1 - 4 - 0 drop	48.00%	46.78%	
+gardevoirjellicent
+
+2016	
+Ashley Thacker
+US
+3	1 - 5 - 0 drop	47.22%	45.42%	
+dragapultdusknoir
+
+2017	
+Dylan Colburn
+US
+3	1 - 4 - 0 drop	47.00%	43.33%	
+gholdengolunatone
+
+2018	
+Patrice Boulard
+CA
+3	1 - 3 - 0 drop	46.88%	52.34%	
+zoroark
+
+2019	
+Ryan Tongue
+US
+3	1 - 3 - 0 drop	46.88%	48.44%	
+manectric-megaeelektrik
+
+2020	
+Harrison Murphy
+CA
+3	1 - 3 - 0 drop	46.88%	47.66%	
+charizard
+
+2021	
+Thomas Hughes
+CA
+3	1 - 3 - 0 drop	46.88%	46.09%	
+lopunny-megadusknoir
+
+2022	
+Heather Harpe
+CA
+3	1 - 5 - 0 drop	46.67%	46.83%	
+gholdengolunatone
+
+2023	
+Scott Kinney
+US
+3	1 - 3 - 0 drop	45.83%	50.81%	
+gholdengolunatone
+
+2024	
+Mathew Szeremeta
+CA
+3	0 - 3 - 3 drop	45.56%	42.67%	
+charizardpidgeot
+
+2025	
+Christopher misener
+CA
+3	1 - 4 - 0 drop	45.00%	48.40%	
+alakazamdudunsparce
+
+2026	
+Annabelle Hardy
+CA
+3	1 - 5 - 0 drop	44.44%	42.59%	
+dragapultdusknoir
+
+2027	
+Kevin Kim
+US
+3	1 - 5 - 0 drop	44.17%	45.75%	
+gholdengolunatone
+
+2028	
+Christopher Gallego Lazo
+US
+3	0 - 2 - 3 drop	44.00%	49.40%	
+gholdengolunatone
+
+2029	
+Daniel Guo
+CA
+3	1 - 4 - 0 drop	44.00%	43.85%	
+charizardpidgeot
+
+2030	
+Stefano Carchidi
+CA
+3	1 - 6 - 0 drop	43.98%	45.08%	
+absol-megakangaskhan-mega
+
+2031	
+Chris Michaels
+CA
+3	1 - 3 - 0 drop	43.75%	52.78%	
+tyranitar
+
+2032	
+Stephen Bautista
+CA
+3	1 - 3 - 0 drop	43.75%	50.78%	
+gholdengolunatone
+
+2033	
+David Pimento
+CA
+3	1 - 3 - 0 drop	43.75%	50.00%	
+noctowlogerpon-wellspring
+
+2034	
+Joseph Schneider
+CA
+3	1 - 3 - 0 drop	43.75%	48.96%	
+gardevoirjellicent
+
+2035	
+Dakota Bell
+CA
+3	1 - 3 - 0 drop	43.75%	48.44%	
+charizardpidgeot
+
+2036	
+Julian Lazarte
+CA
+3	1 - 3 - 0 drop	43.75%	47.40%	
+kangaskhan-megabouffalant
+
+2037	
+Ben Wing
+US
+3	1 - 3 - 0 drop	43.75%	46.88%	
+gardevoirjellicent
+
+2038	
+William Illig
+US
+3	1 - 3 - 0 drop	43.75%	46.88%	
+gardevoir
+
+2039	
+Gavin Zhou
+CA
+3	1 - 3 - 0 drop	43.75%	45.83%	
+kangaskhan-megabouffalant
+
+2040	
+Jane VanWormer
+US
+3	1 - 3 - 0 drop	43.75%	44.53%	
+gardevoirjellicent
+
+2041	
+Jean-Sébastien Fleury
+CA
+3	1 - 3 - 0 drop	43.75%	44.01%	
+gardevoir
+
+2042	
+Ryan Reichley
+US
+3	0 - 2 - 3 drop	43.00%	49.20%	
+charizardnoctowl
+
+2043	
+Charlie Trottier
+CA
+3	1 - 4 - 0 drop	43.00%	47.40%	
+gholdengolunatone
+
+2044	
+Jack Bregman
+CA
+3	1 - 4 - 0 drop	43.00%	44.36%	
+dragapultdusknoir
+
+2045	
+Alexane Bellemare
+CA
+3	1 - 4 - 0 drop	43.00%	42.65%	
+gardevoirjellicent
+
+2046	
+Emily Goose
+CA
+3	1 - 5 - 0 drop	42.78%	46.69%	
+gardevoir
+
+2047	
+Evan Van Zeumeren
+CA
+3	1 - 6 - 0 drop	41.84%	45.48%	
+kangaskhan-megabouffalant
+
+2048	
+Zander Fernandez
+CA
+3	1 - 2 - 0 drop	41.67%	51.85%	
+dragapultblaziken
+
+2049	
+William Parent
+CA
+3	1 - 5 - 0 drop	41.67%	48.03%	
+grimmsnarl
+
+2050	
+Jay Baumberger
+US
+3	1 - 2 - 0 drop	41.67%	47.22%	
+gholdengolunatone
+
+2051	
+Dominic Tsaganis
+US
+3	1 - 2 - 0 drop	41.67%	47.22%	
+dragapultdusknoir
+
+2052	
+Xinhan Yang
+CA
+3	1 - 5 - 0 drop	41.39%	46.23%	
+gholdengolunatone
+
+2053	
+Élisabeth Caron-Sergerie
+CA
+3	1 - 4 - 0 drop	41.25%	54.42%	
+mewtwospidops
+
+2054	
+jeremy hernandez
+CA
+3	1 - 4 - 0 drop	41.00%	46.80%	
+alakazamdudunsparce
+
+2055	
+Brian Garcia
+US
+3	1 - 4 - 0 drop	41.00%	46.31%	
+lopunny-mega
+
+2056	
+Justin Proulx
+CA
+3	1 - 3 - 0 drop	40.63%	50.00%	
+charizardnoctowl
+
+2057	
+Eric Zhao
+US
+3	1 - 3 - 0 drop	40.63%	45.49%	
+gholdengolunatone
+
+2058	
+Gabriel Tinio
+CA
+3	1 - 3 - 0 drop	40.63%	45.31%	
+dragapultdusknoir
+
+2059	
+Jordi Paredes
+US
+3	0 - 1 - 3 drop	40.63%	44.53%	
+dragapultdusknoir
+
+2060	
+Raaid Chaudry
+US
+3	1 - 3 - 0 drop	40.63%	41.41%	
+abomasnow-mega
+
+2061	
+Sarah Layden
+US
+3	1 - 4 - 0 drop	40.00%	48.02%	
+kangaskhan-megabouffalant
+
+2062	
+Vincent Sullivan-Jacques
+US
+3	1 - 4 - 0 drop	40.00%	44.60%	
+charizardnoctowl
+
+2063	
+Austin Rubio
+CA
+3	1 - 6 - 0 drop	39.90%	42.99%	
+zoroark
+
+2064	
+Domenico Rugiano
+CA
+3	1 - 5 - 0 drop	38.61%	48.14%	
+ho-oharmarouge
+
+2065	
+York Chan
+CA
+3	1 - 4 - 0 drop	38.00%	44.42%	
+gholdengolunatone
+
+2066	
+Robert Dennis
+CA
+3	1 - 1 - 0 drop	37.50%	68.75%	
+dragapultdusknoir
+
+2067	
+Cristian Martinez
+US
+3	1 - 3 - 0 drop	37.50%	52.26%	
+gardevoirjellicent
+
+2068	
+Diana Forget
+CA
+3	1 - 3 - 0 drop	37.50%	48.44%	
+dragapultdusknoir
+
+2069	
+Max VanderGast
+US
+3	1 - 3 - 0 drop	37.50%	45.31%	
+seakingthwackey
+
+2070	
+Jake Lang
+US
+3	1 - 5 - 0 drop	37.50%	40.93%	
+venusaur-mega
+
+2071	
+Tyler Stigall
+US
+3	1 - 4 - 0 drop	36.67%	41.23%	
+charizardpidgeot
+
+2072	
+Jordan Miguel
+CA
+3	1 - 7 - 0	35.16%	41.52%	
+absol-megakangaskhan-mega
+
+2073	
+Sean Gambill
+US
+3	1 - 5 - 0 drop	34.72%	42.64%	
+venusaur-mega
+
+2074	
+Lucille Kreuer
+US
+3	0 - 5 - 3	33.91%	43.01%	
+gholdengolunatone
+
+2075	
+Aaron Tirona
+US
+3	1 - 6 - 0 drop	33.54%	40.48%	
+kangaskhan-megabouffalant
+
+2076	
+Jorge Teran
+CA
+3	1 - 3 - 0 drop	33.33%	35.42%	
+dragapultdusknoir
+
+2077	
+Bradley Bolyard
+US
+3	1 - 5 - 0 drop	33.06%	42.03%	
+lucario-megahariyama
+
+2078	
+(Michael) Roman Marcone
+CA
+3	0 - 4 - 3 drop	31.53%	42.99%	
+froslassmunkidori
+
+2079	
+Paul Baker
+US
+3	1 - 3 - 0 drop	31.25%	44.53%	
+lucario-megahariyama
+
+2080	
+Paul Savard
+CA
+2	0 - 2 - 2 drop	56.25%	45.31%	
+dragapultcharizard
+
+2081	
+Keegan Lepage
+CA
+2	0 - 2 - 2 drop	56.25%	42.97%	
+gholdengolunatone
+
+2082	
+Giancarlo Ramellini
+CA
+2	0 - 3 - 2 drop	55.00%	45.60%	
+gholdengolunatone
+
+2083	
+Nathan Flanders
+CA
+2	0 - 3 - 2 drop	54.00%	45.40%	
+conkeldurr
+
+2084	
+Cory Parsons
+CA
+2	0 - 2 - 2 drop	53.13%	46.88%	
+kangaskhan-megabouffalant
+
+2085	
+Adrian Sado
+CA
+2	0 - 2 - 2 drop	53.13%	45.31%	
+miraidoneelektrik
+
+2086	
+Timothy Thomas
+US
+2	0 - 1 - 2 drop	52.78%	37.04%	
+charizardnoctowl
+
+2087	
+Justin Kulas
+US
+2	0 - 2 - 2 drop	50.00%	47.66%	
+gholdengolunatone
+
+2088	
+Ashley Pereira
+CA
+2	0 - 2 - 2 drop	50.00%	44.53%	
+flareonnoctowl
+
+2089	
+Tommy Ngu
+CA
+2	0 - 2 - 2 drop	50.00%	41.41%	
+gardevoirjellicent
+
+2090	
+Oliver Smith
+CA
+2	0 - 2 - 2 drop	50.00%	40.63%	
+gholdengolunatone
+
+2091	
+Hongbo Du
+CA
+2	0 - 3 - 2 drop	48.00%	38.40%	
+gardevoir
+
+2092	
+Vincent Sun
+CA
+2	0 - 2 - 2 drop	46.88%	50.00%	
+dragapultdusknoir
+
+2093	
+Frederic Fontaine
+CA
+2	0 - 2 - 2 drop	46.88%	45.57%	
+hydrappleogerpon
+
+2094	
+josh joung
+CA
+2	0 - 2 - 2 drop	46.88%	41.41%	
+charizardpidgeot
+
+2095	
+Jacob Speers
+CA
+2	0 - 3 - 2 drop	45.00%	47.20%	
+substitute
+
+2096	
+Matt Williams
+CA
+2	0 - 3 - 2 drop	45.00%	46.60%	
+gholdengolunatone
+
+2097	
+Bryan Margolles
+US
+2	0 - 3 - 2 drop	42.00%	46.60%	
+gholdengolunatone
+
+2098	
+Maria Meerson
+UK
+2	0 - 5 - 2 drop	39.80%	46.02%	
+charizardnoctowl
+
+2099	
+Carter Evans
+CA
+2	0 - 2 - 2 drop	39.58%	46.01%	
+garchomp
+
+2100	
+Juliana Panovski-Stewart
+CA
+2	0 - 6 - 2	39.06%	43.25%	
+gholdengolunatone
+
+2101	
+Jake Pykor
+US
+2	0 - 3 - 2 drop	39.00%	46.00%	
+dragapultdusknoir
+
+2102	
+Tiffany Tona
+US
+2	0 - 6 - 2	37.50%	43.56%	
+lopunny-megadusknoir
+
+2103	
+Marinah Farah
+CA
+2	0 - 6 - 2	36.23%	42.47%	
+ceruledge
+
+2104	
+Cristian Rodriguez
+US
+1	0 - 3 - 1 drop	65.63%	46.88%	
+gardevoirjellicent
+
+2105	
+Samantha Bigelow
+CA
+1	0 - 2 - 1 drop	61.11%	44.44%	
+venusaur-mega
+
+2106	
+Reynaldo Ryan Halim
+ID
+1	0 - 2 - 1 drop	61.11%	42.59%	
+absol-megakangaskhan-mega
+
+2107	
+Jamie Gareau
+CA
+1	0 - 2 - 1 drop	58.33%	50.93%	
+grimmsnarl
+
+2108	
+Rushil Nagpal
+CA
+1	0 - 2 - 1 drop	58.33%	43.52%	
+gardevoirjellicent
+
+2109	
+Brandon Cassista
+CA
+1	0 - 3 - 1 drop	56.25%	49.22%	
+charizardnoctowl
+
+2110	
+Edres Safi
+US
+1	0 - 3 - 1 drop	56.25%	48.44%	
+gardevoirjellicent
+
+2111	
+Santiago Bailey-Musacchio
+US
+1	0 - 3 - 1 drop	56.25%	46.09%	
+conkeldurr
+
+2112	
+Michelle Forget
+CA
+1	0 - 2 - 1 drop	55.56%	47.22%	
+charizardnoctowl
+
+2113	
+Jeremy Galkin
+US
+1	0 - 2 - 1 drop	55.56%	47.22%	
+venusaur-mega
+
+2114	
+Jonathan Moores
+CA
+1	0 - 2 - 1 drop	55.56%	43.52%	
+joltikpikachu
+
+2115	
+James Santaniello
+US
+1	0 - 3 - 1 drop	53.13%	46.88%	
+dragapultdusknoir
+
+2116	
+Thierry Lessard-Vignini
+CA
+1	0 - 3 - 1 drop	53.13%	46.09%	
+gholdengolunatone
+
+2117	
+Michael Martindale
+CA
+1	0 - 3 - 1 drop	53.13%	42.97%	
+ceruledge
+
+2118	
+Charlene Sutherland
+CA
+1	0 - 4 - 1 drop	51.00%	49.20%	
+charizardpidgeot
+
+2119	
+Gabriel Ouellet
+CA
+1	0 - 3 - 1 drop	50.00%	50.78%	
+alakazamdudunsparce
+
+2120	
+Jacob Ybarra
+US
+1	0 - 3 - 1 drop	50.00%	46.09%	
+gardevoir
+
+2121	
+Robert Manger-Tuckey
+CA
+1	0 - 2 - 1 drop	50.00%	44.44%	
+gardevoir
+
+2122	
+Rui Mei
+US
+1	0 - 2 - 1 drop	50.00%	43.52%	
+gholdengolunatone
+
+2123	
+Colin Whaley
+CA
+1	0 - 3 - 1 drop	50.00%	40.63%	
+grimmsnarlfroslass
+
+2124	
+Jonathan Crespo
+US
+1	0 - 3 - 1 drop	50.00%	39.84%	
+gholdengojoltik
+
+2125	
+Sabine B
+CA
+1	0 - 4 - 1 drop	49.00%	46.80%	
+substitute
+
+2126	
+Mike Riley
+US
+1	0 - 5 - 1 drop	47.22%	43.15%	
+hydreigon
+
+2127	
+Alex Tran
+US
+1	0 - 3 - 1 drop	46.88%	53.91%	
+gardevoir
+
+2128	
+Shaun Adams
+CA
+1	0 - 3 - 1 drop	46.88%	46.88%	
+gholdengolunatone
+
+2129	
+Steve Noel
+CA
+1	0 - 3 - 1 drop	46.88%	46.88%	
+wugtrio
+
+2130	
+Zack Hughes
+US
+1	0 - 3 - 1 drop	46.88%	46.88%	
+gardevoirjellicent
+
+2131	
+Ronald Sharpsteen
+US
+1	0 - 1 - 1	46.88%	46.22%	
+gholdengolunatone
+
+2132	
+Randy Heron
+CA
+1	0 - 3 - 1 drop	46.88%	42.19%	
+alakazamdudunsparce
+
+2133	
+Maude Lethiecq-Normand
+CA
+1	0 - 4 - 1 drop	46.00%	49.20%	
+gholdengolunatone
+
+2134	
+Anthony Smith
+US
+1	0 - 4 - 1 drop	46.00%	45.00%	
+gholdengolunatone
+
+2135	
+Val McFarland
+US
+1	0 - 4 - 1 drop	44.00%	45.20%	
+lopunny-megadusknoir
+
+2136	
+Daniel Moore
+US
+1	0 - 4 - 1 drop	44.00%	37.93%	
+conkeldurr
+
+2137	
+Dominick Turgeon
+CA
+1	0 - 3 - 1 drop	43.75%	51.56%	
+dragapultdusknoir
+
+2138	
+Niko Sanville
+US
+1	0 - 3 - 1 drop	43.75%	48.44%	
+dragapultdusknoir
+
+2139	
+Alan Amaya
+US
+1	0 - 3 - 1 drop	43.75%	48.44%	
+gholdengolunatone
+
+2140	
+Charlie Pfluger
+US
+1	0 - 3 - 1 drop	43.75%	48.44%	
+gardevoir
+
+2141	
+Gabriel Sylvestre
+CA
+1	0 - 3 - 1 drop	43.75%	47.66%	
+gholdengolunatone
+
+2142	
+Javonne Volpe
+CA
+1	0 - 3 - 1 drop	43.75%	46.88%	
+lopunny-megadusknoir
+
+2143	
+Allen Ladao
+US
+1	0 - 4 - 1 drop	43.75%	42.72%	
+absol-megakangaskhan-mega
+
+2144	
+Ethan Miller
+US
+1	0 - 5 - 1 drop	43.06%	45.60%	
+dragapultdusknoir
+
+2145	
+David Tellier
+CA
+1	0 - 3 - 1 drop	42.71%	48.96%	
+dragapultdusknoir
+
+2146	
+Jon Buckmiller
+CA
+1	0 - 4 - 1 drop	42.00%	44.50%	
+hydreigon
+
+2147	
+Trevor Reisner
+CA
+1	0 - 4 - 1 drop	42.00%	43.40%	
+charizardnoctowl
+
+2148	
+Joshua Hsieh
+CA
+1	0 - 4 - 1 drop	42.00%	41.20%	
+gardevoirjellicent
+
+2149	
+Paul Thompson
+CA
+1	0 - 7 - 1	41.41%	43.04%	
+gholdengolunatone
+
+2150	
+Chase Barber
+CA
+1	0 - 4 - 1 drop	41.00%	47.08%	
+gardevoirjellicent
+
+2151	
+Pieter Meeussen
+CA
+1	0 - 3 - 1 drop	40.63%	44.53%	
+gholdengolunatone
+
+2152	
+Darren Tsao
+CA
+1	0 - 3 - 1 drop	40.63%	42.97%	
+lopunny-megadusknoir
+
+2153	
+Michael Karimizadeh
+CA
+1	0 - 3 - 1 drop	40.63%	38.80%	
+gholdengolunatone
+
+2154	
+Ryan Adolfs
+US
+1	0 - 5 - 1 drop	40.28%	49.07%	
+gholdengolunatone
+
+2155	
+Nathan Ellis
+US
+1	0 - 5 - 1 drop	39.72%	43.71%	
+zoroark
+
+2156	
+Martin Moody
+CA
+1	0 - 4 - 1 drop	38.00%	45.80%	
+dragapultdusknoir
+
+2157	
+Avin Low
+CA
+1	0 - 4 - 1 drop	38.00%	44.80%	
+dragapultdusknoir
+
+2158	
+Tairan He
+CA
+1	0 - 3 - 1 drop	37.50%	43.75%	
+sharpedo-megatoxtricity
+
+2159	
+Elijah Bennett
+CA
+1	0 - 2 - 1 drop	36.11%	52.78%	
+ceruledge
+
+2160	
+Anthony Barragan
+US
+1	0 - 3 - 1 drop	34.38%	43.75%	
+gholdengolunatone
+
+2161	
+Aryn Fleetwood
+US
+1	0 - 4 - 1 drop	34.00%	48.05%	
+charizard
+
+2162	
+Mauricio Zamora
+US
+1	0 - 7 - 1	31.82%	42.48%	
+substitute
+
+2163	
+Daniel Kwan
+CA
+1	0 - 4 - 1 drop	30.00%	42.50%	
+alakazamdudunsparce
+
+2164	
+Marco Tsang
+CA
+1	0 - 3 - 1 drop	28.13%	45.31%	
+wugtrio
+
+2165	
+Michael Bennett
+CA
+0	0 - 1 - 0 drop	100.00%	25.00%	
+ceruledge
+
+2166	
+RICKY ROY
+CA
+0	0 - 1 - 0 drop	100.00%	25.00%	
+gholdengolunatone
+
+2167	
+James Bui
+CA
+0	0 - 1 - 0 drop	100.00%	25.00%	
+gholdengolunatone
+
+2168	
+Andrew Zbyrko
+US
+0	0 - 1 - 0 drop	100.00%	25.00%	
+dragapultcharizard
+
+2169	
+Michael Bio
+US
+0	0 - 1 - 0 drop	100.00%	25.00%	
+charizardpidgeot
+
+2170	
+Victor Martinez
+US
+0	0 - 1 - 0 drop	100.00%	25.00%			
+2171	
+Joshua Farr
+US
+0	0 - 1 - 0 drop	100.00%	25.00%	
+gholdengolunatone
+
+2172	
+Jory Horeman
+CA
+0	0 - 1 - 0 drop	100.00%	25.00%	
+crustle
+
+2173	
+Marcelo Antonio Turra
+BR
+0	0 - 2 - 0 drop	75.00%	37.50%	
+raging-boltogerpon
+
+2174	
+Richard Nguyen
+CA
+0	0 - 1 - 0 drop	75.00%	25.00%	
+raging-boltogerpon
+
+2175	
+Naveen Sandhu
+CA
+0	0 - 1 - 0 drop	75.00%	25.00%	
+ceruledge
+
+2176	
+Juan Carlos Faustino
+CA
+0	0 - 1 - 0 drop	75.00%	25.00%	
+dragapultcharizard
+
+2177	
+Benjamin Hilger
+US
+0	0 - 1 - 0 drop	75.00%	25.00%	
+zoroark
+
+2178	
+Gavin Koestlmaier
+CA
+0	0 - 1 - 0 drop	75.00%	25.00%	
+okidogi
+
+2179	
+Cortney Dunshee
+US
+0	0 - 1 - 0 drop	75.00%	25.00%	
+abomasnow-mega
+
+2180	
+Michael Laundrie
+US
+0	0 - 1 - 0 drop	75.00%	25.00%	
+dragapultcharizard
+
+2181	
+Daniel Eap
+US
+0	0 - 1 - 0 drop	75.00%	25.00%	
+gholdengolunatone
+
+2182	
+Omar Eduardo Terán Juárez
+MX
+0	0 - 1 - 0 drop	75.00%	25.00%	
+substitute
+
+2183	
+Stephen Bould
+CA
+0	0 - 1 - 0 drop	75.00%	25.00%	
+miraidoniron-crown
+
+2184	
+Om Kapoor
+CA
+0	0 - 1 - 0 drop	75.00%	25.00%	
+sharpedo-mega
+
+2185	
+Tord Reklev
+NO
+0	0 - 1 - 0 drop	75.00%	25.00%	
+substitute
+
+2186	
+Michael Ingalls
+US
+0	0 - 1 - 0 drop	75.00%	25.00%	
+dragapultdusknoir
+
+2187	
+Ryan Quinn
+US
+0	0 - 1 - 0 drop	75.00%	25.00%	
+substitute
+
+2188	
+Brandon Baughn
+US
+0	0 - 1 - 0 drop	75.00%	25.00%	
+kangaskhan-megabouffalant
+
+2189	
+Tiago Alves
+CA
+0	0 - 3 - 0 drop	66.67%	47.22%	
+gardevoirjellicent
+
+2190	
+John Kosty
+US
+0	0 - 3 - 0 drop	66.67%	46.76%	
+garchomp
+
+2191	
+Christian Chase
+US
+0	0 - 3 - 0 drop	66.67%	39.81%	
+gholdengolunatone
+
+2192	
+Grace Jin
+CA
+0	0 - 2 - 0 drop	62.50%	56.25%	
+gholdengolunatone
+
+2193	
+Jeff Bernard
+US
+0	0 - 2 - 0 drop	62.50%	56.25%	
+iron-thornscrustle
+
+2194	
+Benjamin Dunbar
+US
+0	0 - 2 - 0 drop	62.50%	50.00%	
+dragapultdusknoir
+
+2195	
+Nicolas Dupont
+CA
+0	0 - 2 - 0 drop	62.50%	43.75%	
+absol-megakangaskhan-mega
+
+2196	
+Noah Mulder
+CA
+0	0 - 2 - 0 drop	62.50%	43.75%	
+gholdengolunatone
+
+2197	
+Julia Sweet
+CA
+0	0 - 2 - 0 drop	62.50%	37.50%	
+gholdengo
+
+2198	
+Zach Orenstein
+US
+0	0 - 3 - 0 drop	61.11%	55.56%	
+charizardnoctowl
+
+2199	
+Sydney Lee
+CA
+0	0 - 3 - 0 drop	61.11%	45.83%	
+absol-megakangaskhan-mega
+
+2200	
+Andrew Hayton
+CA
+0	0 - 3 - 0 drop	61.11%	43.52%	
+gholdengolunatone
+
+2201	
+Vesper Johnson
+CA
+0	0 - 3 - 0 drop	58.33%	50.93%	
+dragapult
+
+2202	
+Evan Fellows
+US
+0	0 - 3 - 0 drop	58.33%	50.00%	
+alakazamdudunsparce
+
+2203	
+Tania Gort
+CA
+0	0 - 3 - 0 drop	58.33%	43.52%	
+gholdengolunatone
+
+2204	
+Rowan Bonura
+US
+0	0 - 4 - 0 drop	56.25%	48.44%	
+dragapultdusknoir
+
+2205	
+Mark-Anthony Poulin
+CA
+0	0 - 4 - 0 drop	56.25%	46.09%	
+kangaskhan-megabouffalant
+
+2206	
+Easton Woloski
+CA
+0	0 - 3 - 0 drop	55.56%	55.56%	
+charizardnoctowl
+
+2207	
+daniel rossi
+US
+0	0 - 3 - 0 drop	55.56%	50.93%	
+alakazamdudunsparce
+
+2208	
+Ardienne Salas
+CA
+0	0 - 3 - 0 drop	55.56%	50.93%	
+gardevoir
+
+2209	
+George Smith
+US
+0	0 - 3 - 0 drop	55.56%	50.00%	
+gholdengolunatone
+
+2210	
+Paul Monje
+CA
+0	0 - 3 - 0 drop	55.56%	50.00%	
+gholdengolunatone
+
+2211	
+Stephen Eshghy
+US
+0	0 - 3 - 0 drop	55.56%	47.69%	
+charizardnoctowl
+
+2212	
+Yan Girard
+CA
+0	0 - 3 - 0 drop	55.56%	47.22%	
+chien-paobaxcalibur
+
+2213	
+Troy Gray
+US
+0	0 - 3 - 0 drop	55.56%	47.22%	
+ceruledge
+
+2214	
+Maggie Ha
+CA
+0	0 - 3 - 0 drop	55.56%	47.22%	
+gardevoirjellicent
+
+2215	
+Manuel Perez
+US
+0	0 - 3 - 0 drop	55.56%	46.30%	
+gholdengolunatone
+
+2216	
+Lucas Profenno
+US
+0	0 - 3 - 0 drop	55.56%	46.30%	
+charizardpidgeot
+
+2217	
+John Bell
+US
+0	0 - 3 - 0 drop	55.56%	46.30%	
+gholdengo
+
+2218	
+Brandon McCartney
+CA
+0	0 - 3 - 0 drop	55.56%	42.59%	
+substitute
+
+2219	
+Brock Mccutcheon
+CA
+0	0 - 3 - 0 drop	55.56%	42.59%	
+flareonnoctowl
+
+2220	
+George ElMassih
+US
+0	0 - 3 - 0 drop	55.56%	41.67%	
+zoroark
+
+2221	
+China Ross
+US
+0	0 - 3 - 0 drop	50.00%	55.56%	
+gholdengolunatone
+
+2222	
+William Lyons
+US
+0	0 - 5 - 0 drop	50.00%	45.60%	
+typhlosion
+
+2223	
+Alex Gravelle
+CA
+0	0 - 3 - 0 drop	50.00%	45.37%	
+charizardnoctowl
+
+2224	
+Joshua Santos
+CA
+0	0 - 3 - 0 drop	50.00%	44.44%	
+gholdengolunatone
+
+2225	
+Andrew Adams
+CA
+0	0 - 3 - 0 drop	50.00%	40.74%	
+absol-megakangaskhan-mega
+
+2226	
+Andrew Roman
+US
+0	0 - 3 - 0 drop	50.00%	37.50%	
+gardevoir
+
+2227	
+Elijah Hawrylyshyn
+CA
+0	0 - 4 - 0 drop	48.96%	46.35%	
+charizardpidgeot
+
+2228	
+Sebastian Ardila
+US
+0	0 - 3 - 0 drop	47.22%	53.70%	
+dragapultdusknoir
+
+2229	
+Joseph Marcello
+US
+0	0 - 4 - 0 drop	46.88%	48.44%	
+gholdengolunatone
+
+2230	
+Aidan Tavares
+CA
+0	0 - 4 - 0 drop	46.88%	39.06%	
+dragapultdusknoir
+
+2231	
+ryan gerhart
+US
+0	0 - 4 - 0 drop	45.83%	48.00%	
+gholdengolunatone
+
+2232	
+Reuben Monroy
+CA
+0	0 - 5 - 0 drop	45.00%	48.20%	
+charizardnoctowl
+
+2233	
+Adam Scott
+CA
+0	0 - 3 - 0 drop	44.44%	59.26%	
+gardevoirjellicent
+
+2234	
+Alain Vichit
+CA
+0	0 - 3 - 0 drop	44.44%	58.33%	
+dragapultdusknoir
+
+2235	
+Winter Rousseve
+US
+0	0 - 3 - 0 drop	44.44%	55.56%	
+charizardnoctowl
+
+2236	
+David Cohen
+US
+0	0 - 3 - 0 drop	44.44%	54.63%	
+gholdengolunatone
+
+2237	
+Jorden Harrynarine
+CA
+0	0 - 3 - 0 drop	44.44%	52.78%	
+substitute
+
+2238	
+Manveer Singh
+AE
+0	0 - 3 - 0 drop	44.44%	47.22%	
+gardevoir
+
+2239	
+Rylan Geykhman
+US
+0	0 - 3 - 0 drop	44.44%	46.30%	
+zoroark
+
+2240	
+Ronald Wang
+US
+0	0 - 3 - 0 drop	44.44%	46.30%	
+dragapultdusknoir
+
+2241	
+Anne Globe
+CA
+0	0 - 3 - 0 drop	44.44%	45.37%	
+gardevoirjellicent
+
+2242	
+Gonzalo Orozco Vera
+CA
+0	0 - 3 - 0 drop	44.44%	45.37%	
+gardevoirjellicent
+
+2243	
+Tony Santos
+US
+0	0 - 3 - 0 drop	44.44%	45.37%	
+gardevoir
+
+2244	
+Ben Peterson
+US
+0	0 - 3 - 0 drop	44.44%	41.67%	
+gholdengolunatone
+
+2245	
+lily panczyszyn
+US
+0	0 - 4 - 0 drop	43.75%	45.31%	
+charizardnoctowl
+
+2246	
+Felix Meng
+CA
+0	0 - 5 - 0 drop	43.00%	44.05%	
+pidgeot
+
+2247	
+Kenton Kwok
+US
+0	0 - 4 - 0 drop	40.63%	48.44%	
+gardevoirjellicent
+
+2248	
+Acton Robles Osterland
+US
+0	0 - 4 - 0 drop	40.63%	46.88%	
+dragapultdusknoir
+
+2249	
+Noémie Gaillard
+CA
+0	0 - 4 - 0 drop	40.63%	42.71%	
+ceruledge
+
+2250	
+Sureena Koppolu
+US
+0	0 - 5 - 0 drop	40.00%	47.40%	
+typhlosion
+
+2251	
+Marcus Stamp
+CA
+0	0 - 3 - 0 drop	38.89%	51.85%	
+dragapultdusknoir
+
+2252	
+David Dooley
+US
+0	0 - 3 - 0 drop	38.89%	50.00%	
+charizardnoctowl
+
+2253	
+Michael Bian
+CA
+0	0 - 3 - 0 drop	38.89%	49.07%	
+gholdengolunatone
+
+2254	
+Anika Kaniewski
+CA
+0	0 - 3 - 0 drop	38.89%	46.30%	
+pidgeot
+
+2255	
+Chinh Nguyen
+US
+0	0 - 6 - 0 drop	38.89%	42.96%	
+gholdengolunatone
+
+2256	
+Jefferey Dam
+CA
+0	0 - 5 - 0 drop	38.00%	43.75%	
+flareonnoctowl
+
+2257	
+Matthew Lau
+CA
+0	0 - 4 - 0 drop	37.50%	48.44%	
+hydreigon
+
+2258	
+Michael Mannarino
+CA
+0	0 - 4 - 0 drop	37.50%	46.88%	
+roaring-moon
+
+2259	
+Reeno Joseph
+CA
+0	0 - 4 - 0 drop	37.50%	42.97%	
+dragapultdusknoir
+
+2260	
+Linh Tran
+CA
+0	0 - 6 - 0 drop	36.94%	44.14%	
+gardevoirjellicent
+
+2261	
+Kristina Blas
+CA
+0	0 - 4 - 0 drop	34.38%	50.78%	
+gholdengo
+
+2262	
+Johny Vu
+US
+0	0 - 4 - 0 drop	34.38%	46.88%	
+lucario-megahariyama
+
+2263	
+Brian Chisholm
+US
+0	0 - 4 - 0 drop	34.38%	46.09%	
+gardevoirjellicent
+
+2264	
+Bryan Guerra
+US
+0	0 - 4 - 0 drop	34.38%	43.75%	
+charizardpidgeot
+
+2265	
+Justin Veriere
+CA
+0	0 - 3 - 0 drop	33.33%	52.78%	
+kangaskhan-megabouffalant
+
+2266	
+Devin Jeffords
+US
+0	0 - 3 - 0 drop	33.33%	50.46%	
+ceruledge
+
+2267	
+Peter Willis
+CA
+0	0 - 3 - 0 drop	33.33%	47.22%	
+gardevoirjellicent
+
+2268	
+Lord Yeshua Ramos
+US
+0	0 - 4 - 0 drop	28.13%	49.22%	
+gardevoirjellicent
